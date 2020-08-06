@@ -2,6 +2,8 @@
 
 Nội dung repo này là nội dung Trâm Anh thực tập.
 
+<a href="https://soiqualang.github.io/TramAnh_GIRS/">https://soiqualang.github.io/TramAnh_GIRS/</a>
+
 ### Nội dung
 
 #### Chart JS
