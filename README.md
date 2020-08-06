@@ -6,18 +6,16 @@ Nội dung repo này là nội dung Trâm Anh thực tập.
 
 #### Chart JS
 
-https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart3.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart3.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart4.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart4.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart5.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart5.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart6.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart6.html</a>
 
-https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html
-
-* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart3.html
-* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart4.html
-* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart5.html
-* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart6.html
-
-* https://soiqualang.github.io/TramAnh_GIRS/jschart/2.html
-* https://soiqualang.github.io/TramAnh_GIRS/jschart/23.html
-* https://soiqualang.github.io/TramAnh_GIRS/jschart/123.html
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/2.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/2.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/23.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/23.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/123.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/123.html</a>
 
 ### WebGIS
 
