@@ -8,7 +8,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập.
 
 #### Chart JS
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart3.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart3.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart4.html">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart4.html</a>
