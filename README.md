@@ -23,4 +23,4 @@ Nội dung repo này là nội dung Trâm Anh thực tập.
 ### Liên hệ
 
 * Trâm Anh;
-* soiqualang_chentreu
+* soiqualang_chentreu.
