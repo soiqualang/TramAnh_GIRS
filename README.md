@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to TramAnh_GIRS Pages
 
-You can use the [editor on GitHub](https://github.com/soiqualang/TramAnh_GIRS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nội dung repo này là nội dung Trâm Anh thực tập.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Nội dung
 
-### Markdown
+#### Chart JS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart3.html
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart4.html
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart5.html
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/chart6.html
 
-```markdown
-Syntax highlighted code block
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/2.html
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/23.html
+* https://soiqualang.github.io/TramAnh_GIRS/jschart/123.html
 
-# Header 1
-## Header 2
-### Header 3
+### WebGIS
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Liên hệ
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soiqualang/TramAnh_GIRS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Trâm Anh;
+* soiqualang_chentreu
