@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>bieu do | amCharts</title>
+    <meta name="description" content="cột" />
+    <meta charset="utf-8">
+    <!-- amCharts javascript sources -->
+    <script type="text/javascript" src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+    <script type="text/javascript" src="https://www.amcharts.com/lib/3/serial.js"></script>
+
+
+    <!-- amCharts javascript code -->
+    <script type="text/javascript">
+        AmCharts.makeChart("chartdiv", {
+            "type": "serial",
+            "categoryField": "category",
+            "rotate": false,
+            "startDuration": 1,
+            "categoryAxis": {
+                "gridPosition": "start"
+            },
+            "trendLines": [],
+            "graphs": [{
+                "balloonText": "[[title]] of [[category]]:[[value]]",
+                "lineColor": "blue",
+                "fillAlphas": 1,
+                "id": "AmGraph-2",
+                "title": "graph 2",
+                "type": "column",
+                "valueField": "column-2"
+            }],
+            "guides": [],
+            "valueAxes": [{
+                "id": "ValueAxis-1",
+                "title": "Chart dưới 5 tuổi _ Live amchart"
+            }],
+            "allLabels": [],
+            "balloon": {},
+            "legend": {
+                "enabled": true,
+                "useGraphSettings": false
+            },
+            "titles": [{
+                "id": "Title-1",
+                "size": 15,
+                "text": "Chart dưới 5 tuổi _ Live amchart"
+            }],
+            "dataProvider": [{
+                "category": "An Giang",
+                "column-2": "20.9"
+            }, {
+                "category": "Bà Rịa - Vũng Tàu",
+                "column-2": "11.9"
+            }, {
+                "category": "Bạc Liêu",
+                "column-2": "17.5"
+            }, {
+                "category": "Bắc Giang",
+                "column-2": "22.3"
+            }, {
+                "category": "Bắc Kạn",
+                "column-2": "25.6"
+            }, {
+                "category": "Bắc Ninh",
+                "column-2": "18.6"
+            }, {
+                "category": "Bến Tre",
+                "column-2": "14.2"
+            }, {
+                "category": "Bình Dương",
+                "column-2": "13.1"
+            }, {
+                "category": "Bình Định",
+                "column-2": "22"
+            }, {
+                "category": "Bình Phước",
+                "column-2": "20.4"
+            }, {
+                "category": "Bình Thuận",
+                "column-2": "18.2"
+            }, {
+                "category": "Cà Mau",
+                "column-2": "16.3"
+            }, {
+                "category": "Cao Bằng",
+                "column-2": "35.1"
+            }, {
+                "category": "Cần Thơ",
+                "column-2": "13.4"
+            }, {
+                "category": "Đà Nẵng",
+                "column-2": "12.9"
+            }, {
+                "category": "Đắk Lắk",
+                "column-2": "35.2"
+            }, {
+                "category": "Đắk Nông",
+                "column-2": "37.8"
+            }, {
+                "category": "Điện Biên",
+                "column-2": "50.3"
+            }, {
+                "category": "Đồng Nai",
+                "column-2": "11.2"
+            }, {
+                "category": "Đồng Tháp",
+                "column-2": "17.2"
+            }, {
+                "category": "Gia Lai",
+                "column-2": "38.7"
+            }, {
+                "category": "Hà Giang",
+                "column-2": "50"
+            }, {
+                "category": "Hà Nam",
+                "column-2": "17.4"
+            }, {
+                "category": "Hà Nội",
+                "column-2": "14.7"
+            }, {
+                "category": "Hà Tĩnh",
+                "column-2": "24.9"
+            }, {
+                "category": "Hải Dương",
+                "column-2": "17"
+            }, {
+                "category": "Hải Phòng",
+                "column-2": "17.4"
+            }, {
+                "category": "Hậu Giang",
+                "column-2": "14.6"
+            }, {
+                "category": "Hòa Bình",
+                "column-2": "25.3"
+            }, {
+                "category": "Hưng Yên",
+                "column-2": "17.7"
+            }, {
+                "category": "Kiên Giang",
+                "column-2": "18.2"
+            }, {
+                "category": "Kon Tum",
+                "column-2": "57.2"
+            }, {
+                "category": "Khánh Hòa",
+                "column-2": "20.3"
+            }, {
+                "category": "Lai Châu",
+                "column-2": "63.5"
+            }, {
+                "category": "Lạng Sơn",
+                "column-2": "26.6"
+            }, {
+                "category": "Lào Cai",
+                "column-2": "42.5"
+            }, {
+                "category": "Lâm Đồng",
+                "column-2": "23.8"
+            }, {
+                "category": "Long An",
+                "column-2": "13.8"
+            }, {
+                "category": "Nam Định",
+                "column-2": "18.2"
+            }, {
+                "category": "Ninh Bình",
+                "column-2": "20.8"
+            }, {
+                "category": "Ninh Thuận",
+                "column-2": "23.8"
+            }, {
+                "category": "Nghệ An",
+                "column-2": "24.4"
+            }, {
+                "category": "Phú Thọ",
+                "column-2": "21.9"
+            }, {
+                "category": "Phú Yên",
+                "column-2": "22"
+            }, {
+                "category": "Quảng Bình",
+                "column-2": "24.7"
+            }, {
+                "category": "Quảng Nam",
+                "column-2": "24.2"
+            }, {
+                "category": "Quảng Ninh",
+                "column-2": "21.9"
+            }, {
+                "category": "Quảng Ngãi",
+                "column-2": "26"
+            }, {
+                "category": "Quảng Trị",
+                "column-2": "47.4"
+            }, {
+                "category": "Sóc Trăng",
+                "column-2": "19"
+            }, {
+                "category": "Sơn La",
+                "column-2": "33.5"
+            }, {
+                "category": "Tây Ninh",
+                "column-2": "17"
+            }, {
+                "category": "Tiền Giang",
+                "column-2": "13.2"
+            }, {
+                "category": "TP. Hồ Chí Minh",
+                "column-2": "11.3"
+            }, {
+                "category": "Tuyên Quang",
+                "column-2": "27.1"
+            }, {
+                "category": "Thái Bình",
+                "column-2": "14.8"
+            }, {
+                "category": "Thái Nguyên",
+                "column-2": "21.4"
+            }, {
+                "category": "Thanh Hóa",
+                "column-2": "22.5"
+            }, {
+                "category": "Thừa Thiên - Huế",
+                "column-2": "29.2"
+            }, {
+                "category": "Trà Vinh",
+                "column-2": "17.8"
+            }, {
+                "category": "Vĩnh Long",
+                "column-2": "14.6"
+            }, {
+                "category": "Vĩnh Phúc",
+                "column-2": "18.7"
+            }, {
+                "category": "Yên Bái",
+                "column-2": "39.7"
+            }]
+        });
+    </script>
+</head>
+
+<body>
+    <div id="chartdiv" style="width: 100%; height: 400px; background-color: #FFFFFF;"></div>
+</body>
+
+</html>

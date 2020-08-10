@@ -1,0 +1,3 @@
+https://geo.dothanhlong.org/geoserver/thuadat/wms?&service=WMS&request=GetMap&layers=thuadat:view_duynghia_4326&styles=&format=image/png&transparent=true&version=1.1.1&tiled=true&width=256&height=256&srs=EPSG:3857&bbox=12066062.646241855,1787269.7046210642,12066081.755498925,1787288.8138781346
+https://api.dothanhlong.org/vinagit_demothuadat/?soto=12&sothua=4
+http://localhost/HTML/chart1.json
