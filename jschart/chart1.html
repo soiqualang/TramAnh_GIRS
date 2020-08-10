@@ -1,3 +1,9 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Chart duoi 5 tuoi</title>
+</head>
+<body>
 <!-- Styles -->
 <style>
     #chartdiv {
@@ -5,7 +11,7 @@
         height: 500px;
     }
 </style>
-
+<h1 style="text-align:center;color:rgb(255, 145, 0);">Chart dưới 5 tuổi</h1>
 <!-- Resources -->
 <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
 <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
@@ -213,14 +219,14 @@
         }, {
             "tinh": "Yên Bái",
             "dl": "39.7"
-        }]
+        }];
 
         // Create axes category
         var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
         categoryAxis.dataFields.category = "tinh";
         categoryAxis.renderer.grid.template.location = 0;
         //Định dang label
-        categoryAxis.renderer.minGridDistance = 20;
+        categoryAxis.renderer.minGridDistance = 5;
         categoryAxis.renderer.labels.template.horizontalCenter = "right";
         categoryAxis.renderer.labels.template.verticalCenter = "middle";
         //label dọc
@@ -257,7 +263,7 @@
         series.columns.template.adapter.add("fill", function(fill, target) {
             return chart.colors.getIndex(target.dataItem.index);
         });
-<h1>hello</>
+
         // Cursor_hieu ứng
         chart.cursor = new am4charts.XYCursor();
 
@@ -265,4 +271,6 @@
 </script>
 
 <!-- HTML -->
-<div id="chartdiv"></div>
+<div id="chartdiv"></div>//vị trí chart
+</body>
+</html>
