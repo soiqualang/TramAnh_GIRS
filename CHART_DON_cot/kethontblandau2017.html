@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<!-- Styles -->
+<style>
+	#chartdiv {
+			width: 100%;
+			height: 500px;
+	}
+	</style>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ kết hôn trung bình lần đầu năm 2017</h1>
+
+	<!-- Resources -->
+	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+	
+	<!-- Chart code -->
+	<script>
+	am4core.ready(function() {
+
+	// Themes begin
+	am4core.useTheme(am4themes_animated);
+	// Themes end
+	
+	// Create chart instance
+	var chart = am4core.create("chartdiv", am4charts.XYChart);
+	chart.scrollbarX = new am4core.Scrollbar();
+	
+	// Add data
+	chart.data = [{
+        "ten tinh": "Hà Nội",
+        "tuoi ket hon tb lan dau": 25.9
+    },
+    {
+        "ten tinh": "Vĩnh Phúc",
+        "tuoi ket hon tb lan dau": 23.7
+    },
+    {
+        "ten tinh": "Bắc Ninh",
+        "tuoi ket hon tb lan dau": 23.8
+    },
+    {
+        "ten tinh": "Quảng Ninh",
+        "tuoi ket hon tb lan dau": 25.8
+    },
+    {
+        "ten tinh": "Hải Dương",
+        "tuoi ket hon tb lan dau": 24.9
+    },
+    {
+        "ten tinh": "Hải Phòng",
+        "tuoi ket hon tb lan dau": 25.4
+    },
+    {
+        "ten tinh": "Hưng Yên",
+        "tuoi ket hon tb lan dau": 24.4
+    },
+    {
+        "ten tinh": "Thái Bình",
+        "tuoi ket hon tb lan dau": 25.4
+    },
+    {
+        "ten tinh": "Hà Nam",
+        "tuoi ket hon tb lan dau": 25.2
+    },
+    {
+        "ten tinh": "Nam Định",
+        "tuoi ket hon tb lan dau": 24.1
+    },
+    {
+        "ten tinh": "Ninh Bình",
+        "tuoi ket hon tb lan dau": 24.7
+    },
+    {
+        "ten tinh": "Hà Giang",
+        "tuoi ket hon tb lan dau": 21.5
+    },
+    {
+        "ten tinh": "Cao Bằng",
+        "tuoi ket hon tb lan dau": 22.1
+    },
+    {
+        "ten tinh": "Bắc Kạn",
+        "tuoi ket hon tb lan dau": 23.4
+    },
+    {
+        "ten tinh": "Tuyên Quang",
+        "tuoi ket hon tb lan dau": 22.9
+    },
+    {
+        "ten tinh": "Lào Cai",
+        "tuoi ket hon tb lan dau": 22.1
+    },
+    {
+        "ten tinh": "Yên Bái",
+        "tuoi ket hon tb lan dau": 22.2
+    },
+    {
+        "ten tinh": "Thái Nguyên",
+        "tuoi ket hon tb lan dau": 24.5
+    },
+    {
+        "ten tinh": "Lạng Sơn",
+        "tuoi ket hon tb lan dau": 24.5
+    },
+    {
+        "ten tinh": "Bắc Giang",
+        "tuoi ket hon tb lan dau": 23.7
+    },
+    {
+        "ten tinh": "Phú Thọ",
+        "tuoi ket hon tb lan dau": 23.9
+    },
+    {
+        "ten tinh": "Điện Biên",
+        "tuoi ket hon tb lan dau": 21.3
+    },
+    {
+        "ten tinh": "Lai Châu",
+        "tuoi ket hon tb lan dau": 20.6
+    },
+    {
+        "ten tinh": "Sơn La",
+        "tuoi ket hon tb lan dau": 20.8
+    },
+    {
+        "ten tinh": "Hòa Bình",
+        "tuoi ket hon tb lan dau": 23
+    },
+    {
+        "ten tinh": "Thanh Hóa",
+        "tuoi ket hon tb lan dau": 24
+    },
+    {
+        "ten tinh": "Nghệ An",
+        "tuoi ket hon tb lan dau": 25
+    },
+    {
+        "ten tinh": "Hà Tĩnh",
+        "tuoi ket hon tb lan dau": 25.3
+    },
+    {
+        "ten tinh": "Quảng Bình",
+        "tuoi ket hon tb lan dau": 26.4
+    },
+    {
+        "ten tinh": "Quảng Trị",
+        "tuoi ket hon tb lan dau": 25.1
+    },
+    {
+        "ten tinh": "Thừa Thiên - Huế",
+        "tuoi ket hon tb lan dau": 26.7
+    },
+    {
+        "ten tinh": "Đà Nẵng",
+        "tuoi ket hon tb lan dau": 26.8
+    },
+    {
+        "ten tinh": "Quảng Nam",
+        "tuoi ket hon tb lan dau": 25.8
+    },
+    {
+        "ten tinh": "Quảng Ngãi",
+        "tuoi ket hon tb lan dau": 25.8
+    },
+    {
+        "ten tinh": "Bình Định",
+        "tuoi ket hon tb lan dau": 25.8
+    },
+    {
+        "ten tinh": "Phú Yên",
+        "tuoi ket hon tb lan dau": 25
+    },
+    {
+        "ten tinh": "Khánh Hòa",
+        "tuoi ket hon tb lan dau": 27.2
+    },
+    {
+        "ten tinh": "Ninh Thuận",
+        "tuoi ket hon tb lan dau": 26
+    },
+    {
+        "ten tinh": "Bình Thuận",
+        "tuoi ket hon tb lan dau": 26.5
+    },
+    {
+        "ten tinh": "Kon Tum",
+        "tuoi ket hon tb lan dau": 24.8
+    },
+    {
+        "ten tinh": "Gia Lai",
+        "tuoi ket hon tb lan dau": 23.9
+    },
+    {
+        "ten tinh": "Đắk Lắk",
+        "tuoi ket hon tb lan dau": 24.7
+    },
+    {
+        "ten tinh": "Đắk Nông",
+        "tuoi ket hon tb lan dau": 24.2
+    },
+    {
+        "ten tinh": "Lâm Đồng",
+        "tuoi ket hon tb lan dau": 25.5
+    },
+    {
+        "ten tinh": "Bình Phước",
+        "tuoi ket hon tb lan dau": 25.3
+    },
+    {
+        "ten tinh": "Tây Ninh",
+        "tuoi ket hon tb lan dau": 26.2
+    },
+    {
+        "ten tinh": "Bình Dương",
+        "tuoi ket hon tb lan dau": 24.9
+    },
+    {
+        "ten tinh": "Đồng Nai",
+        "tuoi ket hon tb lan dau": 27.6
+    },
+    {
+        "ten tinh": "Bà Rịa - Vũng Tàu",
+        "tuoi ket hon tb lan dau": 27.3
+    },
+    {
+        "ten tinh": "TP. Hồ Chí Minh",
+        "tuoi ket hon tb lan dau": 27.6
+    },
+    {
+        "ten tinh": "Long An",
+        "tuoi ket hon tb lan dau": 26
+    },
+    {
+        "ten tinh": "Tiền Giang",
+        "tuoi ket hon tb lan dau": 25
+    },
+    {
+        "ten tinh": "Bến Tre",
+        "tuoi ket hon tb lan dau": 25.2
+    },
+    {
+        "ten tinh": "Trà Vinh",
+        "tuoi ket hon tb lan dau": 24.7
+    },
+    {
+        "ten tinh": "Vĩnh Long",
+        "tuoi ket hon tb lan dau": 26.1
+    },
+    {
+        "ten tinh": "Đồng Tháp",
+        "tuoi ket hon tb lan dau": 26.2
+    },
+    {
+        "ten tinh": "An Giang",
+        "tuoi ket hon tb lan dau": 25.2
+    },
+    {
+        "ten tinh": "Kiên Giang",
+        "tuoi ket hon tb lan dau": 24.9
+    },
+    {
+        "ten tinh": "Cần Thơ",
+        "tuoi ket hon tb lan dau": 26.6
+    },
+    {
+        "ten tinh": "Hậu Giang",
+        "tuoi ket hon tb lan dau": 26
+    },
+    {
+        "ten tinh": "Sóc Trăng",
+        "tuoi ket hon tb lan dau": 25.8
+    },
+    {
+        "ten tinh": "Bạc Liêu",
+        "tuoi ket hon tb lan dau": 26.2
+    },
+    {
+        "ten tinh": "Cà Mau",
+        "tuoi ket hon tb lan dau": 24.9
+    }
+];
+	
+	// Create axes
+	var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+	categoryAxis.dataFields.category = "ten tinh";
+	categoryAxis.renderer.grid.template.location = 0;
+	categoryAxis.renderer.minGridDistance = 5;
+	categoryAxis.renderer.labels.template.horizontalCenter = "right";
+	categoryAxis.renderer.labels.template.verticalCenter = "middle";
+	categoryAxis.renderer.labels.template.rotation = 270;
+	categoryAxis.tooltip.disabled = true;
+	categoryAxis.renderer.minHeight = 110;
+	
+	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+	valueAxis.renderer.minWidth = 50;
+	
+	// Create series
+	var series = chart.series.push(new am4charts.ColumnSeries());
+	series.sequencedInterpolation = true;
+	series.dataFields.valueY = "tuoi ket hon tb lan dau";
+	series.dataFields.categoryX = "ten tinh";
+	series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
+	series.columns.template.strokeWidth = 0;
+	
+	series.tooltip.pointerOrientation = "vertical";
+	
+	series.columns.template.column.cornerRadiusTopLeft = 10;
+	series.columns.template.column.cornerRadiusTopRight = 10;
+	series.columns.template.column.fillOpacity = 0.8;
+	
+	// on hover, make corner radiuses bigger
+	var hoverState = series.columns.template.column.states.create("hover");
+	hoverState.properties.cornerRadiusTopLeft = 0;
+	hoverState.properties.cornerRadiusTopRight = 0;
+	hoverState.properties.fillOpacity = 1;
+	
+	series.columns.template.adapter.add("fill", function(fill, target) {
+			return chart.colors.getIndex(target.dataItem.index);
+	});
+	
+	// Cursor
+	chart.cursor = new am4charts.XYCursor();
+	
+	}); // end am4core.ready()
+	</script>
+	
+	<!-- HTML -->
+	<div id="chartdiv"></div>
+</body>
+</html>

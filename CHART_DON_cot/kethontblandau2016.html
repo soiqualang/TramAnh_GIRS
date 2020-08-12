@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<!-- Styles -->
+<style>
+	#chartdiv {
+			width: 100%;
+			height: 500px;
+	}
+	</style>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ kết hôn trung bình lần đầu năm 2016</h1>
+
+	<!-- Resources -->
+	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+	
+	<!-- Chart code -->
+	<script>
+	am4core.ready(function() {
+
+	// Themes begin
+	am4core.useTheme(am4themes_animated);
+	// Themes end
+	
+	// Create chart instance
+	var chart = am4core.create("chartdiv", am4charts.XYChart);
+	chart.scrollbarX = new am4core.Scrollbar();
+	
+	// Add data
+	chart.data = [{
+        "ten tinh": "An Giang",
+        "ket hon tb lan dau": 24.7
+    },
+    {
+        "ten tinh": "Bà Rịa - Vũng Tàu",
+        "ket hon tb lan dau": 27
+    },
+    {
+        "ten tinh": "Bạc Liêu",
+        "ket hon tb lan dau": 25.4
+    },
+    {
+        "ten tinh": "Bắc Giang",
+        "ket hon tb lan dau": 23.6
+    },
+    {
+        "ten tinh": "Bắc Kạn",
+        "ket hon tb lan dau": 23.4
+    },
+    {
+        "ten tinh": "Bắc Ninh",
+        "ket hon tb lan dau": 23.6
+    },
+    {
+        "ten tinh": "Bến Tre",
+        "ket hon tb lan dau": 25
+    },
+    {
+        "ten tinh": "Bình Dương",
+        "ket hon tb lan dau": 25.2
+    },
+    {
+        "ten tinh": "Bình Định",
+        "ket hon tb lan dau": 25.8
+    },
+    {
+        "ten tinh": "Bình Phước",
+        "ket hon tb lan dau": 25.2
+    },
+    {
+        "ten tinh": "Bình Thuận",
+        "ket hon tb lan dau": 26.7
+    },
+    {
+        "ten tinh": "Cà Mau",
+        "ket hon tb lan dau": 24.4
+    },
+    {
+        "ten tinh": "Cao Bằng",
+        "ket hon tb lan dau": 22.2
+    },
+    {
+        "ten tinh": "Cần Thơ",
+        "ket hon tb lan dau": 26.3
+    },
+    {
+        "ten tinh": "Đà Nẵng",
+        "ket hon tb lan dau": 26.6
+    },
+    {
+        "ten tinh": "Đắk Lắk",
+        "ket hon tb lan dau": 25.1
+    },
+    {
+        "ten tinh": "Đắk Nông",
+        "ket hon tb lan dau": 24.9
+    },
+    {
+        "ten tinh": "Điện Biên",
+        "ket hon tb lan dau": 21.5
+    },
+    {
+        "ten tinh": "Đồng Nai",
+        "ket hon tb lan dau": 26.9
+    },
+    {
+        "ten tinh": "Đồng Tháp",
+        "ket hon tb lan dau": 25.6
+    },
+    {
+        "ten tinh": "Gia Lai",
+        "ket hon tb lan dau": 23.7
+    },
+    {
+        "ten tinh": "Hà Giang",
+        "ket hon tb lan dau": 21.5
+    },
+    {
+        "ten tinh": "Hà Nam",
+        "ket hon tb lan dau": 25.7
+    },
+    {
+        "ten tinh": "Hà Nội",
+        "ket hon tb lan dau": 25.3
+    },
+    {
+        "ten tinh": "Hà Tĩnh",
+        "ket hon tb lan dau": 25.2
+    },
+    {
+        "ten tinh": "Hải Dương",
+        "ket hon tb lan dau": 25.1
+    },
+    {
+        "ten tinh": "Hải Phòng",
+        "ket hon tb lan dau": 25.2
+    },
+    {
+        "ten tinh": "Hậu Giang",
+        "ket hon tb lan dau": 26.3
+    },
+    {
+        "ten tinh": "Hoà Bình",
+        "ket hon tb lan dau": 22.9
+    },
+    {
+        "ten tinh": "Hưng Yên",
+        "ket hon tb lan dau": 24
+    },
+    {
+        "ten tinh": "Kiên Giang",
+        "ket hon tb lan dau": 24.9
+    },
+    {
+        "ten tinh": "Kon Tum",
+        "ket hon tb lan dau": 24.3
+    },
+    {
+        "ten tinh": "Khánh Hoà",
+        "ket hon tb lan dau": 27.2
+    },
+    {
+        "ten tinh": "Lai Châu",
+        "ket hon tb lan dau": 20.6
+    },
+    {
+        "ten tinh": "Lạng Sơn",
+        "ket hon tb lan dau": 24.1
+    },
+    {
+        "ten tinh": "Lào Cai",
+        "ket hon tb lan dau": 22.5
+    },
+    {
+        "ten tinh": "Lâm Đồng",
+        "ket hon tb lan dau": 25.1
+    },
+    {
+        "ten tinh": "Long An",
+        "ket hon tb lan dau": 25.5
+    },
+    {
+        "ten tinh": "Nam Định",
+        "ket hon tb lan dau": 24.2
+    },
+    {
+        "ten tinh": "Ninh Bình",
+        "ket hon tb lan dau": 24.2
+    },
+    {
+        "ten tinh": "Ninh Thuận",
+        "ket hon tb lan dau": 26.2
+    },
+    {
+        "ten tinh": "Nghệ An",
+        "ket hon tb lan dau": 24.7
+    },
+    {
+        "ten tinh": "Phú Thọ",
+        "ket hon tb lan dau": 23.6
+    },
+    {
+        "ten tinh": "Phú Yên",
+        "ket hon tb lan dau": 25.4
+    },
+    {
+        "ten tinh": "Quảng Bình",
+        "ket hon tb lan dau": 24.9
+    },
+    {
+        "ten tinh": "Quảng Nam",
+        "ket hon tb lan dau": 25.7
+    },
+    {
+        "ten tinh": "Quảng Ninh",
+        "ket hon tb lan dau": 25.3
+    },
+    {
+        "ten tinh": "Quảng Ngãi",
+        "ket hon tb lan dau": 25.9
+    },
+    {
+        "ten tinh": "Quảng Trị",
+        "ket hon tb lan dau": 24.9
+    },
+    {
+        "ten tinh": "Sóc Trăng",
+        "ket hon tb lan dau": 25.6
+    },
+    {
+        "ten tinh": "Sơn La",
+        "ket hon tb lan dau": 20.7
+    },
+    {
+        "ten tinh": "Tây Ninh",
+        "ket hon tb lan dau": 25.6
+    },
+    {
+        "ten tinh": "Tiền Giang",
+        "ket hon tb lan dau": 24.9
+    },
+    {
+        "ten tinh": "TP.Hồ Chí Minh",
+        "ket hon tb lan dau": 27.3
+    },
+    {
+        "ten tinh": "Tuyên Quang",
+        "ket hon tb lan dau": 22.6
+    },
+    {
+        "ten tinh": "Thái Bình",
+        "ket hon tb lan dau": 25.5
+    },
+    {
+        "ten tinh": "Thái Nguyên",
+        "ket hon tb lan dau": 24.2
+    },
+    {
+        "ten tinh": "Thanh Hoá",
+        "ket hon tb lan dau": 24.1
+    },
+    {
+        "ten tinh": "Thừa Thiên Huế",
+        "ket hon tb lan dau": 27.3
+    },
+    {
+        "ten tinh": "Trà Vinh",
+        "ket hon tb lan dau": 24.5
+    },
+    {
+        "ten tinh": "Vĩnh Long",
+        "ket hon tb lan dau": 25.5
+    },
+    {
+        "ten tinh": "Vĩnh Phúc",
+        "ket hon tb lan dau": 23.7
+    },
+    {
+        "ten tinh": "Yên Bái",
+        "ket hon tb lan dau": 22.3
+    }
+];
+	
+	// Create axes
+	var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+	categoryAxis.dataFields.category = "ten tinh";
+	categoryAxis.renderer.grid.template.location = 0;
+	categoryAxis.renderer.minGridDistance = 5;
+	categoryAxis.renderer.labels.template.horizontalCenter = "right";
+	categoryAxis.renderer.labels.template.verticalCenter = "middle";
+	categoryAxis.renderer.labels.template.rotation = 270;
+	categoryAxis.tooltip.disabled = true;
+	categoryAxis.renderer.minHeight = 110;
+	
+	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+	valueAxis.renderer.minWidth = 50;
+	
+	// Create series
+	var series = chart.series.push(new am4charts.ColumnSeries());
+	series.sequencedInterpolation = true;
+	series.dataFields.valueY = "ket hon tb lan dau";
+	series.dataFields.categoryX = "ten tinh";
+	series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
+	series.columns.template.strokeWidth = 0;
+	
+	series.tooltip.pointerOrientation = "vertical";
+	
+	series.columns.template.column.cornerRadiusTopLeft = 10;
+	series.columns.template.column.cornerRadiusTopRight = 10;
+	series.columns.template.column.fillOpacity = 0.8;
+	
+	// on hover, make corner radiuses bigger
+	var hoverState = series.columns.template.column.states.create("hover");
+	hoverState.properties.cornerRadiusTopLeft = 0;
+	hoverState.properties.cornerRadiusTopRight = 0;
+	hoverState.properties.fillOpacity = 1;
+	
+	series.columns.template.adapter.add("fill", function(fill, target) {
+			return chart.colors.getIndex(target.dataItem.index);
+	});
+	
+	// Cursor
+	chart.cursor = new am4charts.XYCursor();
+	
+	}); // end am4core.ready()
+	</script>
+	
+	<!-- HTML -->
+	<div id="chartdiv"></div>
+</body>
+</html>
