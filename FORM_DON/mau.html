@@ -23,27 +23,27 @@
           </select>
             </div>
             
-            <div class="form-group">
-                <label for="pwd">Nội dung:</label>
-                <textarea rows="15" class="form-control" id="jsondata" placeholder="......." name="jsondata"></textarea>
+            <div class="form-group" id="show">
+                
             </div>
             
-            <input type="button" class="btn btn-default" value="Get Data" onclick="calldata_byAjax();" />
+            <input type="button" class="btn btn-default" value="Get Data" />
         </form>
     </div>
 
     <script>
-        
-        function calldata_byAjax() {
-            var xhttp = new XMLHttpRequest();
-            var txt_nam=document.getElementById('txt_nam').value;
-            xhttp.onreadystatechange = function() {
-                if (this.readyState == 4 && this.status == 200) {
-                    document.getElementById('jsondata').innerHTML = this.responseText;
+         $(document).ready(function(){
+            var data_ajax = '';
+            // Ajax lấy dữ liệu
+            $.ajax({
+                type: 'GET',
+                url : '../CHART_DON_cot/kethontblandau2016.html',
+           
+                success: function(data) {
+                   $("#show").html(data);
                 }
-            };
-            xhttp.open("GET", "http://localhost/CHART/lyhon" + txt_nam + ".js", true);
-            xhttp.send();
-        }
+            });
+        });
     </script>
-</body></html>
+</body>
+</html>

@@ -1,4 +1,39 @@
-[{
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<!-- Styles -->
+<style>
+	#chartdiv {
+			width: 100%;
+			height: 500px;
+	}
+	
+	</style>
+	
+	<!-- Resources -->
+	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+	
+	<!-- Chart code -->
+	<script>
+	am4core.ready(function() {
+	
+	// Themes begin
+	am4core.useTheme(am4themes_animated);
+	// Themes end
+	
+	// Create chart instance
+	var chart = am4core.create("chartdiv", am4charts.XYChart);
+	chart.scrollbarX = new am4core.Scrollbar();
+	
+	// Add data
+	chart.data =[{
         "FIELD1": "CẢ NƯỚC",
         "Tổng số": 569.338,
         "Đúng hạn": 403.361,
@@ -418,4 +453,88 @@
         "Đúng hạn": 4.547,
         "Quá hạn": 2.106
     }
-]
+];
+	
+	// Create category axis
+	var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+	categoryAxis.dataFields.category = "ten tinh";
+	categoryAxis.renderer.opposite = true;
+	categoryAxis.renderer.minGridDistance = 5;
+	categoryAxis.renderer.labels.template.rotation = 270;
+	categoryAxis.renderer.labels.template.horizontalCenter = "left";
+	categoryAxis.renderer.labels.template.verticalCenter = "middle";
+
+	// Create value axis
+	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+	valueAxis.renderer.inversed = true;
+	
+	//valueAxis.title.text = "Place taken";
+	valueAxis.renderer.minLabelPosition = 0.01;
+	
+	// Create series
+	var series1 = chart.series.push(new am4charts.LineSeries());
+	series1.dataFields.valueY = "Tổng số";
+	series1.dataFields.categoryX = "ten tinh";
+	series1.name = "Tổng số";
+	series1.bullets.push(new am4charts.CircleBullet());
+	series1.tooltipText = "{categoryX}: {valueY}";
+	series1.legendSettings.valueText = "{valueY}";
+	series1.visible  = false;
+	
+	var series2 = chart.series.push(new am4charts.LineSeries());
+	series2.dataFields.valueY = "Kết hôn lần đầu";
+	series2.dataFields.categoryX = "ten tinh";
+	series2.name = 'Kết hôn lần đầu';
+	series2.bullets.push(new am4charts.CircleBullet());
+	series2.tooltipText = "{categoryX}: {valueY}";
+	series2.legendSettings.valueText = "{valueY}";
+	
+	var series3 = chart.series.push(new am4charts.LineSeries());
+	series3.dataFields.valueY = "Lần thứ 2 trở lên";
+	series3.dataFields.categoryX = "ten tinh";
+	series3.name = 'Lần thứ 2 trở lên';
+	series3.bullets.push(new am4charts.CircleBullet());
+	series3.tooltipText = "{categoryX}: {valueY}";
+	series3.legendSettings.valueText = "{valueY}";
+	
+	// Add chart cursor
+	chart.cursor = new am4charts.XYCursor();
+	chart.cursor.behavior = "zoomY";
+	
+	
+	let hs1 = series1.segments.template.states.create("hover")
+	hs1.properties.strokeWidth = 5;
+	series1.segments.template.strokeWidth = 1;
+	
+	let hs2 = series2.segments.template.states.create("hover")
+	hs2.properties.strokeWidth = 5;
+	series2.segments.template.strokeWidth = 1;
+	
+	let hs3 = series3.segments.template.states.create("hover")
+	hs3.properties.strokeWidth = 5;
+	series3.segments.template.strokeWidth = 1;
+	
+	// Add legend
+	chart.legend = new am4charts.Legend();
+	chart.legend.itemContainers.template.events.on("over", function(event){
+			var segments = event.target.dataItem.dataContext.segments;
+			segments.each(function(segment){
+					segment.isHover = true;
+			})
+	})
+	
+	chart.legend.itemContainers.template.events.on("out", function(event){
+			var segments = event.target.dataItem.dataContext.segments;
+			segments.each(function(segment){
+					segment.isHover = false;
+			})
+	})
+	
+	}); // end am4core.ready()
+	</script>
+	
+	<!-- HTML -->
+	<div id="chartdiv"></div>
+	amCharts
+</body>
+</html>

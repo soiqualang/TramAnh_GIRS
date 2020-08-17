@@ -1,266 +1,266 @@
 [{
-        "FIELD1": "An Giang",
-        "Sơ bộ 2018": 55.8
+        "ten tinh": "An Giang",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 55.8
     },
     {
-        "FIELD1": "Bà Rịa - Vũng Tàu",
-        "Sơ bộ 2018": 53.2
+        "ten tinh": "Bà Rịa - Vũng Tàu",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 53.2
     },
     {
-        "FIELD1": "Bạc Liêu",
-        "Sơ bộ 2018": 55.8
+        "ten tinh": "Bạc Liêu",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 55.8
     },
     {
-        "FIELD1": "Bắc Giang",
-        "Sơ bộ 2018": 61.8
+        "ten tinh": "Bắc Giang",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61.8
     },
     {
-        "FIELD1": "Bắc Kạn",
-        "Sơ bộ 2018": 69.7
+        "ten tinh": "Bắc Kạn",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 69.7
     },
     {
-        "FIELD1": "Bắc Ninh",
-        "Sơ bộ 2018": 53.1
-    },
-    
-    {
-        "FIELD1": "Bến Tre",
-        "Sơ bộ 2018": 63.8
-    },
-    {
-        "FIELD1": "Bình Dương",
-        "Sơ bộ 2018": 60.1
-    },
-    {
-        "FIELD1": "Bình Định",
-        "Sơ bộ 2018": 59.9
-    },
-    {
-        "FIELD1": "Bình Phước",
-        "Sơ bộ 2018": 58.6
-    },
-    {
-        "FIELD1": "Bình Thuận",
-        "Sơ bộ 2018": 57.4
-    },
-    {
-        "FIELD1": "Cà Mau",
-        "Sơ bộ 2018": 56.9
-    },
-   
-    {
-        "FIELD1": "Cao Bằng",
-        "Sơ bộ 2018": 66.5
-    },
-    {
-        "FIELD1": "Cần Thơ",
-        "Sơ bộ 2018": 55.1
-    },
-    {
-        "FIELD1": "Đà Nẵng",
-        "Sơ bộ 2018": 51.4
-    },
-    {
-        "FIELD1": "Đắk Lắk",
-        "Sơ bộ 2018": 60.4
-    },
-    {
-        "FIELD1": "Đắk Nông",
-        "Sơ bộ 2018": 61.3
-    },
-    {
-        "FIELD1": "Điện Biên",
-        "Sơ bộ 2018": 61
-    },
-   
-    {
-        "FIELD1": "Đồng Nai",
-        "Sơ bộ 2018": 53.5
+        "ten tinh": "Bắc Ninh",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 53.1
     },
     
     {
-        "FIELD1": "Đồng Tháp",
-        "Sơ bộ 2018": 65.1
+        "ten tinh": "Bến Tre",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 63.8
     },
     {
-        "FIELD1": "Gia Lai",
-        "Sơ bộ 2018": 60.4
+        "ten tinh": "Bình Dương",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 60.1
     },
     {
-        "FIELD1": "Hà Giang",
-        "Sơ bộ 2018": 63.3
+        "ten tinh": "Bình Định",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 59.9
     },
     {
-        "FIELD1": "Hà Nam",
-        "Sơ bộ 2018": 57.6
+        "ten tinh": "Bình Phước",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 58.6
     },
     {
-        "FIELD1": "Hà Nội",
-        "Sơ bộ 2018": 50.2
+        "ten tinh": "Bình Thuận",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 57.4
     },
     {
-        "FIELD1": "Hà Tây",
-        "Sơ bộ 2018": 0
-    },
-    {
-        "FIELD1": "Hà Tĩnh",
-        "Sơ bộ 2018": 54
-    },
-    {
-        "FIELD1": "Hải Dương",
-        "Sơ bộ 2018": 55.9
-    },
-    {
-        "FIELD1": "Hải Phòng",
-        "Sơ bộ 2018": 55.1
-    },
-    {
-        "FIELD1": "Hậu Giang",
-        "Sơ bộ 2018": 61
-    },
-    {
-        "FIELD1": "Hòa Bình",
-        "Sơ bộ 2018": 65.4
-    },
-    {
-        "FIELD1": "Hưng Yên",
-        "Sơ bộ 2018": 59.2
-    },
-    {
-        "FIELD1": "Kiên Giang",
-        "Sơ bộ 2018": 54.2
-    },
-    {
-        "FIELD1": "Kon Tum",
-        "Sơ bộ 2018": 58.7
-    },
-    {
-        "FIELD1": "Khánh Hòa",
-        "Sơ bộ 2018": 55.9
-    },
-    {
-        "FIELD1": "Lai Châu",
-        "Sơ bộ 2018": 60.8
-    },
-    {
-        "FIELD1": "Lạng Sơn",
-        "Sơ bộ 2018": 63.4
-    },
-    {
-        "FIELD1": "Lào Cai",
-        "Sơ bộ 2018": 61.6
-    },
-    {
-        "FIELD1": "Lâm Đồng",
-        "Sơ bộ 2018": 61.7
-    },
-    {
-        "FIELD1": "Long An",
-        "Sơ bộ 2018": 58.6
-    },
-    {
-        "FIELD1": "Nam Định",
-        "Sơ bộ 2018": 61.6
-    },
-    {
-        "FIELD1": "Ninh Bình",
-        "Sơ bộ 2018":60
-    },
-    {
-        "FIELD1": "Ninh Thuận",
-        "Sơ bộ 2018": 56.5
-    },
-    {
-        "FIELD1": "Nghệ An",
-        "Sơ bộ 2018": 59.2
-    },
-    {
-        "FIELD1": "Phú Thọ",
-        "Sơ bộ 2018": 8
-    },
-    {
-        "FIELD1": "Phú Yên",
-        "Sơ bộ 2018": 60.1
-    },
-    {
-        "FIELD1": "Quảng Bình",
-        "Sơ bộ 2018": 58.2
-    },
-    {
-        "FIELD1": "Quảng Nam",
-        "Sơ bộ 2018": 59.9
-    },
-    {
-        "FIELD1": "Quảng Ninh",
-        "Sơ bộ 2018": 55
-    },
-    {
-        "FIELD1": "Quảng Ngãi",
-        "Sơ bộ 2018": 60
-    },
-    {
-        "FIELD1": "Quảng Trị",
-        "Sơ bộ 2018": 53.7
-    },
-    {
-        "FIELD1": "Sóc Trăng",
-        "Sơ bộ 2018": 54.4
-    },
-    {
-        "FIELD1": "Sơn La",
-        "Sơ bộ 2018": 61.2
-    },
-    {
-        "FIELD1": "Tây Ninh",
-        "Sơ bộ 2018": 57.8
-    },
-    {
-        "FIELD1": "Tây Nguyên",
-        "Sơ bộ 2018": 60.7
-    },
-    {
-        "FIELD1": "Tiền Giang",
-        "Sơ bộ 2018": 63.5
-    },
-    {
-        "FIELD1": "TP. Hồ Chí Minh",
-        "Sơ bộ 2018": 50.5
-    },
-    {
-        "FIELD1": "Tuyên Quang",
-        "Sơ bộ 2018": 61.6
-    },
-    {
-        "FIELD1": "Thái Bình",
-        "Sơ bộ 2018": 61
-    },
-    {
-        "FIELD1": "Thái Nguyên",
-        "Sơ bộ 2018": 58.5
-    },
-    {
-        "FIELD1": "Thanh Hóa",
-        "Sơ bộ 2018": 62.4
-    },
-    {
-        "FIELD1": "Thừa Thiên - Huế",
-        "Sơ bộ 2018": 52.5
-    },
-    {
-        "FIELD1": "Trà Vinh",
-        "Sơ bộ 2018": 57.4
+        "ten tinh": "Cà Mau",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 56.9
     },
    
     {
-        "FIELD1": "Vĩnh Long",
-        "Sơ bộ 2018": 58.2
+        "ten tinh": "Cao Bằng",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 66.5
     },
     {
-        "FIELD1": "Vĩnh Phúc",
-        "Sơ bộ 2018": 57.3
+        "ten tinh": "Cần Thơ",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 55.1
     },
     {
-        "FIELD1": "Yên Bái",
-        "Sơ bộ 2018": 64.6
+        "ten tinh": "Đà Nẵng",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 51.4
+    },
+    {
+        "ten tinh": "Đắk Lắk",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 60.4
+    },
+    {
+        "ten tinh": "Đắk Nông",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61.3
+    },
+    {
+        "ten tinh": "Điện Biên",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61
+    },
+   
+    {
+        "ten tinh": "Đồng Nai",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 53.5
+    },
+    
+    {
+        "ten tinh": "Đồng Tháp",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 65.1
+    },
+    {
+        "ten tinh": "Gia Lai",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 60.4
+    },
+    {
+        "ten tinh": "Hà Giang",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 63.3
+    },
+    {
+        "ten tinh": "Hà Nam",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 57.6
+    },
+    {
+        "ten tinh": "Hà Nội",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 50.2
+    },
+    {
+        "ten tinh": "Hà Tây",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 0
+    },
+    {
+        "ten tinh": "Hà Tĩnh",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 54
+    },
+    {
+        "ten tinh": "Hải Dương",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 55.9
+    },
+    {
+        "ten tinh": "Hải Phòng",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 55.1
+    },
+    {
+        "ten tinh": "Hậu Giang",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61
+    },
+    {
+        "ten tinh": "Hòa Bình",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 65.4
+    },
+    {
+        "ten tinh": "Hưng Yên",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 59.2
+    },
+    {
+        "ten tinh": "Kiên Giang",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 54.2
+    },
+    {
+        "ten tinh": "Kon Tum",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 58.7
+    },
+    {
+        "ten tinh": "Khánh Hòa",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 55.9
+    },
+    {
+        "ten tinh": "Lai Châu",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 60.8
+    },
+    {
+        "ten tinh": "Lạng Sơn",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 63.4
+    },
+    {
+        "ten tinh": "Lào Cai",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61.6
+    },
+    {
+        "ten tinh": "Lâm Đồng",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61.7
+    },
+    {
+        "ten tinh": "Long An",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 58.6
+    },
+    {
+        "ten tinh": "Nam Định",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61.6
+    },
+    {
+        "ten tinh": "Ninh Bình",
+        "tl lao dong tren 15t dang lam viec so voi tong ds":60
+    },
+    {
+        "ten tinh": "Ninh Thuận",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 56.5
+    },
+    {
+        "ten tinh": "Nghệ An",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 59.2
+    },
+    {
+        "ten tinh": "Phú Thọ",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 8
+    },
+    {
+        "ten tinh": "Phú Yên",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 60.1
+    },
+    {
+        "ten tinh": "Quảng Bình",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 58.2
+    },
+    {
+        "ten tinh": "Quảng Nam",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 59.9
+    },
+    {
+        "ten tinh": "Quảng Ninh",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 55
+    },
+    {
+        "ten tinh": "Quảng Ngãi",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 60
+    },
+    {
+        "ten tinh": "Quảng Trị",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 53.7
+    },
+    {
+        "ten tinh": "Sóc Trăng",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 54.4
+    },
+    {
+        "ten tinh": "Sơn La",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61.2
+    },
+    {
+        "ten tinh": "Tây Ninh",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 57.8
+    },
+    {
+        "ten tinh": "Tây Nguyên",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 60.7
+    },
+    {
+        "ten tinh": "Tiền Giang",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 63.5
+    },
+    {
+        "ten tinh": "TP. Hồ Chí Minh",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 50.5
+    },
+    {
+        "ten tinh": "Tuyên Quang",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61.6
+    },
+    {
+        "ten tinh": "Thái Bình",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 61
+    },
+    {
+        "ten tinh": "Thái Nguyên",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 58.5
+    },
+    {
+        "ten tinh": "Thanh Hóa",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 62.4
+    },
+    {
+        "ten tinh": "Thừa Thiên - Huế",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 52.5
+    },
+    {
+        "ten tinh": "Trà Vinh",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 57.4
+    },
+   
+    {
+        "ten tinh": "Vĩnh Long",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 58.2
+    },
+    {
+        "ten tinh": "Vĩnh Phúc",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 57.3
+    },
+    {
+        "ten tinh": "Yên Bái",
+        "tl lao dong tren 15t dang lam viec so voi tong ds": 64.6
     }
 ]
