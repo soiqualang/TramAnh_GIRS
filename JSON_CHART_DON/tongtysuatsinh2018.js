@@ -1,266 +1,266 @@
 [
     {
-        "FIELD1": "Hà Nội",
-        "Sơ bộ 2018": 2.07
+        "ten tinh": "Hà Nội",
+        "tong ts sinh": 2.07
     },
     {
-        "FIELD1": "Hà Tây",
-        "Sơ bộ 2018": 0
+        "ten tinh": "Hà Tây",
+        "tong ts sinh": 0
     },
     {
-        "FIELD1": "Vĩnh Phúc",
-        "Sơ bộ 2018": 2.48
+        "ten tinh": "Vĩnh Phúc",
+        "tong ts sinh": 2.48
     },
     {
-        "FIELD1": "Bắc Ninh",
-        "Sơ bộ 2018": 2.66
+        "ten tinh": "Bắc Ninh",
+        "tong ts sinh": 2.66
     },
     {
-        "FIELD1": "Quảng Ninh",
-        "Sơ bộ 2018": 2.22
+        "ten tinh": "Quảng Ninh",
+        "tong ts sinh": 2.22
     },
     {
-        "FIELD1": "Hải Dương",
-        "Sơ bộ 2018": 2.59
+        "ten tinh": "Hải Dương",
+        "tong ts sinh": 2.59
     },
     {
-        "FIELD1": "Hải Phòng",
-        "Sơ bộ 2018": 1.92
+        "ten tinh": "Hải Phòng",
+        "tong ts sinh": 1.92
     },
     {
-        "FIELD1": "Hưng Yên",
-        "Sơ bộ 2018": 2.39
+        "ten tinh": "Hưng Yên",
+        "tong ts sinh": 2.39
     },
     {
-        "FIELD1": "Thái Bình",
-        "Sơ bộ 2018": 2.51
+        "ten tinh": "Thái Bình",
+        "tong ts sinh": 2.51
     },
     {
-        "FIELD1": "Hà Nam",
-        "Sơ bộ 2018": 2.39
+        "ten tinh": "Hà Nam",
+        "tong ts sinh": 2.39
     },
     {
-        "FIELD1": "Nam Định",
-        "Sơ bộ 2018": 2.82
+        "ten tinh": "Nam Định",
+        "tong ts sinh": 2.82
     },
     {
-        "FIELD1": "Ninh Bình",
-        "Sơ bộ 2018": 2.53
-    },
-    
-    {
-        "FIELD1": "Hà Giang",
-        "Sơ bộ 2018": 2.74
-    },
-    {
-        "FIELD1": "Cao Bằng",
-        "Sơ bộ 2018": 2.48
-    },
-    {
-        "FIELD1": "Bắc Kạn",
-        "Sơ bộ 2018": 2.23
-    },
-    {
-        "FIELD1": "Tuyên Quang",
-        "Sơ bộ 2018": 2.62
-    },
-    {
-        "FIELD1": "Lào Cai",
-        "Sơ bộ 2018": 2.43
-    },
-    {
-        "FIELD1": "Yên Bái",
-        "Sơ bộ 2018": 2.96
-    },
-    {
-        "FIELD1": "Thái Nguyên",
-        "Sơ bộ 2018": 2.05
-    },
-    {
-        "FIELD1": "Lạng Sơn",
-        "Sơ bộ 2018": 2.22
-    },
-    {
-        "FIELD1": "Bắc Giang",
-        "Sơ bộ 2018": 2.38
-    },
-    {
-        "FIELD1": "Phú Thọ",
-        "Sơ bộ 2018": 2.66
-    },
-    {
-        "FIELD1": "Điện Biên",
-        "Sơ bộ 2018": 2.78
-    },
-    {
-        "FIELD1": "Lai Châu",
-        "Sơ bộ 2018": 2.6
-    },
-    {
-        "FIELD1": "Sơn La",
-        "Sơ bộ 2018": 2.36
-    },
-    {
-        "FIELD1": "Hòa Bình",
-        "Sơ bộ 2018": 2.42
+        "ten tinh": "Ninh Bình",
+        "tong ts sinh": 2.53
     },
     
     {
-        "FIELD1": "Thanh Hóa",
-        "Sơ bộ 2018": 2.69
+        "ten tinh": "Hà Giang",
+        "tong ts sinh": 2.74
     },
     {
-        "FIELD1": "Nghệ An",
-        "Sơ bộ 2018": 2.82
+        "ten tinh": "Cao Bằng",
+        "tong ts sinh": 2.48
     },
     {
-        "FIELD1": "Hà Tĩnh",
-        "Sơ bộ 2018": 2.9
+        "ten tinh": "Bắc Kạn",
+        "tong ts sinh": 2.23
     },
     {
-        "FIELD1": "Quảng Bình",
-        "Sơ bộ 2018": 2.41
+        "ten tinh": "Tuyên Quang",
+        "tong ts sinh": 2.62
     },
     {
-        "FIELD1": "Quảng Trị",
-        "Sơ bộ 2018": 2.61
+        "ten tinh": "Lào Cai",
+        "tong ts sinh": 2.43
     },
     {
-        "FIELD1": "Thừa Thiên - Huế",
-        "Sơ bộ 2018": 2.03
+        "ten tinh": "Yên Bái",
+        "tong ts sinh": 2.96
     },
     {
-        "FIELD1": "Đà Nẵng",
-        "Sơ bộ 2018": 1.49
+        "ten tinh": "Thái Nguyên",
+        "tong ts sinh": 2.05
     },
     {
-        "FIELD1": "Quảng Nam",
-        "Sơ bộ 2018": 2.28
+        "ten tinh": "Lạng Sơn",
+        "tong ts sinh": 2.22
     },
     {
-        "FIELD1": "Quảng Ngãi",
-        "Sơ bộ 2018": 2.06
+        "ten tinh": "Bắc Giang",
+        "tong ts sinh": 2.38
     },
     {
-        "FIELD1": "Bình Định",
-        "Sơ bộ 2018": 2.3
+        "ten tinh": "Phú Thọ",
+        "tong ts sinh": 2.66
     },
     {
-        "FIELD1": "Phú Yên",
-        "Sơ bộ 2018": 2.16
+        "ten tinh": "Điện Biên",
+        "tong ts sinh": 2.78
     },
     {
-        "FIELD1": "Khánh Hòa",
-        "Sơ bộ 2018": 1.4
+        "ten tinh": "Lai Châu",
+        "tong ts sinh": 2.6
     },
     {
-        "FIELD1": "Ninh Thuận",
-        "Sơ bộ 2018": 2.05
+        "ten tinh": "Sơn La",
+        "tong ts sinh": 2.36
     },
     {
-        "FIELD1": "Bình Thuận",
-        "Sơ bộ 2018": 1.82
-    },
-    {
-        "FIELD1": "Tây Nguyên",
-        "Sơ bộ 2018": 2.32
-    },
-    {
-        "FIELD1": "Kon Tum",
-        "Sơ bộ 2018": 2.12
-    },
-    {
-        "FIELD1": "Gia Lai",
-        "Sơ bộ 2018": 2.27
-    },
-    {
-        "FIELD1": "Đắk Lắk",
-        "Sơ bộ 2018": 2.41
-    },
-    {
-        "FIELD1": "Đắk Nông",
-        "Sơ bộ 2018": 3.05
-    },
-    {
-        "FIELD1": "Lâm Đồng",
-        "Sơ bộ 2018": 1.99
+        "ten tinh": "Hòa Bình",
+        "tong ts sinh": 2.42
     },
     
     {
-        "FIELD1": "Bình Phước",
-        "Sơ bộ 2018": 1.99
+        "ten tinh": "Thanh Hóa",
+        "tong ts sinh": 2.69
     },
     {
-        "FIELD1": "Tây Ninh",
-        "Sơ bộ 2018": 1.46
+        "ten tinh": "Nghệ An",
+        "tong ts sinh": 2.82
     },
     {
-        "FIELD1": "Bình Dương",
-        "Sơ bộ 2018": 1.53
+        "ten tinh": "Hà Tĩnh",
+        "tong ts sinh": 2.9
     },
     {
-        "FIELD1": "Đồng Nai",
-        "Sơ bộ 2018": 1.8
+        "ten tinh": "Quảng Bình",
+        "tong ts sinh": 2.41
     },
     {
-        "FIELD1": "Bà Rịa - Vũng Tàu",
-        "Sơ bộ 2018": 1.51
+        "ten tinh": "Quảng Trị",
+        "tong ts sinh": 2.61
     },
     {
-        "FIELD1": "TP. Hồ Chí Minh",
-        "Sơ bộ 2018": 1.33
+        "ten tinh": "Thừa Thiên - Huế",
+        "tong ts sinh": 2.03
+    },
+    {
+        "ten tinh": "Đà Nẵng",
+        "tong ts sinh": 1.49
+    },
+    {
+        "ten tinh": "Quảng Nam",
+        "tong ts sinh": 2.28
+    },
+    {
+        "ten tinh": "Quảng Ngãi",
+        "tong ts sinh": 2.06
+    },
+    {
+        "ten tinh": "Bình Định",
+        "tong ts sinh": 2.3
+    },
+    {
+        "ten tinh": "Phú Yên",
+        "tong ts sinh": 2.16
+    },
+    {
+        "ten tinh": "Khánh Hòa",
+        "tong ts sinh": 1.4
+    },
+    {
+        "ten tinh": "Ninh Thuận",
+        "tong ts sinh": 2.05
+    },
+    {
+        "ten tinh": "Bình Thuận",
+        "tong ts sinh": 1.82
+    },
+    {
+        "ten tinh": "Tây Nguyên",
+        "tong ts sinh": 2.32
+    },
+    {
+        "ten tinh": "Kon Tum",
+        "tong ts sinh": 2.12
+    },
+    {
+        "ten tinh": "Gia Lai",
+        "tong ts sinh": 2.27
+    },
+    {
+        "ten tinh": "Đắk Lắk",
+        "tong ts sinh": 2.41
+    },
+    {
+        "ten tinh": "Đắk Nông",
+        "tong ts sinh": 3.05
+    },
+    {
+        "ten tinh": "Lâm Đồng",
+        "tong ts sinh": 1.99
     },
     
     {
-        "FIELD1": "Long An",
-        "Sơ bộ 2018": 1.83
+        "ten tinh": "Bình Phước",
+        "tong ts sinh": 1.99
     },
     {
-        "FIELD1": "Tiền Giang",
-        "Sơ bộ 2018": 1.68
+        "ten tinh": "Tây Ninh",
+        "tong ts sinh": 1.46
     },
     {
-        "FIELD1": "Bến Tre",
-        "Sơ bộ 2018": 1.88
+        "ten tinh": "Bình Dương",
+        "tong ts sinh": 1.53
     },
     {
-        "FIELD1": "Trà Vinh",
-        "Sơ bộ 2018": 1.94
+        "ten tinh": "Đồng Nai",
+        "tong ts sinh": 1.8
     },
     {
-        "FIELD1": "Vĩnh Long",
-        "Sơ bộ 2018": 1.83
+        "ten tinh": "Bà Rịa - Vũng Tàu",
+        "tong ts sinh": 1.51
     },
     {
-        "FIELD1": "Đồng Tháp",
-        "Sơ bộ 2018": 1.43
+        "ten tinh": "TP. Hồ Chí Minh",
+        "tong ts sinh": 1.33
+    },
+    
+    {
+        "ten tinh": "Long An",
+        "tong ts sinh": 1.83
     },
     {
-        "FIELD1": "An Giang",
-        "Sơ bộ 2018": 1.78
+        "ten tinh": "Tiền Giang",
+        "tong ts sinh": 1.68
     },
     {
-        "FIELD1": "Kiên Giang",
-        "Sơ bộ 2018": 1.96
+        "ten tinh": "Bến Tre",
+        "tong ts sinh": 1.88
     },
     {
-        "FIELD1": "Cần Thơ",
-        "Sơ bộ 2018": 1.66
+        "ten tinh": "Trà Vinh",
+        "tong ts sinh": 1.94
     },
     {
-        "FIELD1": "Hậu Giang",
-        "Sơ bộ 2018": 1.64
+        "ten tinh": "Vĩnh Long",
+        "tong ts sinh": 1.83
     },
     {
-        "FIELD1": "Sóc Trăng",
-        "Sơ bộ 2018": 1.75
+        "ten tinh": "Đồng Tháp",
+        "tong ts sinh": 1.43
     },
     {
-        "FIELD1": "Bạc Liêu",
-        "Sơ bộ 2018": 1.54
+        "ten tinh": "An Giang",
+        "tong ts sinh": 1.78
     },
     {
-        "FIELD1": "Cà Mau",
-        "Sơ bộ 2018": 1.75
+        "ten tinh": "Kiên Giang",
+        "tong ts sinh": 1.96
+    },
+    {
+        "ten tinh": "Cần Thơ",
+        "tong ts sinh": 1.66
+    },
+    {
+        "ten tinh": "Hậu Giang",
+        "tong ts sinh": 1.64
+    },
+    {
+        "ten tinh": "Sóc Trăng",
+        "tong ts sinh": 1.75
+    },
+    {
+        "ten tinh": "Bạc Liêu",
+        "tong ts sinh": 1.54
+    },
+    {
+        "ten tinh": "Cà Mau",
+        "tong ts sinh": 1.75
     }
 ]

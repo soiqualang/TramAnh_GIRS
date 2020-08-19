@@ -1,254 +1,254 @@
 [
     {
-        "FIELD1": "Hà Nội",
-        "Sơ bộ 2018": "26,2"
+        "ten tinh": "Hà Nội",
+        "ket hon tb lan dau": "26,2"
     },
     {
-        "FIELD1": "Vĩnh Phúc",
-        "Sơ bộ 2018": "23,7"
+        "ten tinh": "Vĩnh Phúc",
+        "ket hon tb lan dau": "23,7"
     },
     {
-        "FIELD1": "Bắc Ninh",
-        "Sơ bộ 2018": "24,0"
+        "ten tinh": "Bắc Ninh",
+        "ket hon tb lan dau": "24,0"
     },
     {
-        "FIELD1": "Quảng Ninh",
-        "Sơ bộ 2018": "25,7"
+        "ten tinh": "Quảng Ninh",
+        "ket hon tb lan dau": "25,7"
     },
     {
-        "FIELD1": "Hải Dương",
-        "Sơ bộ 2018": "25,3"
+        "ten tinh": "Hải Dương",
+        "ket hon tb lan dau": "25,3"
     },
     {
-        "FIELD1": "Hải Phòng",
-        "Sơ bộ 2018": "25,4"
+        "ten tinh": "Hải Phòng",
+        "ket hon tb lan dau": "25,4"
     },
     {
-        "FIELD1": "Hưng Yên",
-        "Sơ bộ 2018": "24,3"
+        "ten tinh": "Hưng Yên",
+        "ket hon tb lan dau": "24,3"
     },
     {
-        "FIELD1": "Thái Bình",
-        "Sơ bộ 2018": "25,5"
+        "ten tinh": "Thái Bình",
+        "ket hon tb lan dau": "25,5"
     },
     {
-        "FIELD1": "Hà Nam",
-        "Sơ bộ 2018": "25,0"
+        "ten tinh": "Hà Nam",
+        "ket hon tb lan dau": "25,0"
     },
     {
-        "FIELD1": "Nam Định",
-        "Sơ bộ 2018": "23,9"
+        "ten tinh": "Nam Định",
+        "ket hon tb lan dau": "23,9"
     },
     {
-        "FIELD1": "Ninh Bình",
-        "Sơ bộ 2018": "24,8"
+        "ten tinh": "Ninh Bình",
+        "ket hon tb lan dau": "24,8"
     },
     {
-        "FIELD1": "Hà Giang",
-        "Sơ bộ 2018": "21,2"
+        "ten tinh": "Hà Giang",
+        "ket hon tb lan dau": "21,2"
     },
     {
-        "FIELD1": "Cao Bằng",
-        "Sơ bộ 2018": "22,4"
+        "ten tinh": "Cao Bằng",
+        "ket hon tb lan dau": "22,4"
     },
     {
-        "FIELD1": "Bắc Kạn",
-        "Sơ bộ 2018": "23,8"
+        "ten tinh": "Bắc Kạn",
+        "ket hon tb lan dau": "23,8"
     },
     {
-        "FIELD1": "Tuyên Quang",
-        "Sơ bộ 2018": "23,2"
+        "ten tinh": "Tuyên Quang",
+        "ket hon tb lan dau": "23,2"
     },
     {
-        "FIELD1": "Lào Cai",
-        "Sơ bộ 2018": "22,1"
+        "ten tinh": "Lào Cai",
+        "ket hon tb lan dau": "22,1"
     },
     {
-        "FIELD1": "Yên Bái",
-        "Sơ bộ 2018": "22,2"
+        "ten tinh": "Yên Bái",
+        "ket hon tb lan dau": "22,2"
     },
     {
-        "FIELD1": "Thái Nguyên",
-        "Sơ bộ 2018": "24,9"
+        "ten tinh": "Thái Nguyên",
+        "ket hon tb lan dau": "24,9"
     },
     {
-        "FIELD1": "Lạng Sơn",
-        "Sơ bộ 2018": "24,6"
+        "ten tinh": "Lạng Sơn",
+        "ket hon tb lan dau": "24,6"
     },
     {
-        "FIELD1": "Bắc Giang",
-        "Sơ bộ 2018": "24,5"
+        "ten tinh": "Bắc Giang",
+        "ket hon tb lan dau": "24,5"
     },
     {
-        "FIELD1": "Phú Thọ",
-        "Sơ bộ 2018": "24,0"
+        "ten tinh": "Phú Thọ",
+        "ket hon tb lan dau": "24,0"
     },
     {
-        "FIELD1": "Điện Biên",
-        "Sơ bộ 2018": "21,7"
+        "ten tinh": "Điện Biên",
+        "ket hon tb lan dau": "21,7"
     },
     {
-        "FIELD1": "Lai Châu",
-        "Sơ bộ 2018": "20,6"
+        "ten tinh": "Lai Châu",
+        "ket hon tb lan dau": "20,6"
     },
     {
-        "FIELD1": "Sơn La",
-        "Sơ bộ 2018": "21,0"
+        "ten tinh": "Sơn La",
+        "ket hon tb lan dau": "21,0"
     },
     {
-        "FIELD1": "Hòa Bình",
-        "Sơ bộ 2018": "23,2"
+        "ten tinh": "Hòa Bình",
+        "ket hon tb lan dau": "23,2"
     },
     {
-        "FIELD1": "Thanh Hóa",
-        "Sơ bộ 2018": "24,1"
+        "ten tinh": "Thanh Hóa",
+        "ket hon tb lan dau": "24,1"
     },
     {
-        "FIELD1": "Nghệ An",
-        "Sơ bộ 2018": "25,4"
+        "ten tinh": "Nghệ An",
+        "ket hon tb lan dau": "25,4"
     },
     {
-        "FIELD1": "Hà Tĩnh",
-        "Sơ bộ 2018": "25,4"
+        "ten tinh": "Hà Tĩnh",
+        "ket hon tb lan dau": "25,4"
     },
     {
-        "FIELD1": "Quảng Bình",
-        "Sơ bộ 2018": "26,0"
+        "ten tinh": "Quảng Bình",
+        "ket hon tb lan dau": "26,0"
     },
     {
-        "FIELD1": "Quảng Trị",
-        "Sơ bộ 2018": "25,3"
+        "ten tinh": "Quảng Trị",
+        "ket hon tb lan dau": "25,3"
     },
     {
-        "FIELD1": "Đà Nẵng",
-        "Sơ bộ 2018": "27,1"
+        "ten tinh": "Đà Nẵng",
+        "ket hon tb lan dau": "27,1"
     },
     {
-        "FIELD1": "Quảng Nam",
-        "Sơ bộ 2018": "25,7"
+        "ten tinh": "Quảng Nam",
+        "ket hon tb lan dau": "25,7"
     },
     {
-        "FIELD1": "Quảng Ngãi",
-        "Sơ bộ 2018": "25,5"
+        "ten tinh": "Quảng Ngãi",
+        "ket hon tb lan dau": "25,5"
     },
     {
-        "FIELD1": "Bình Định",
-        "Sơ bộ 2018": "25,7"
+        "ten tinh": "Bình Định",
+        "ket hon tb lan dau": "25,7"
     },
     {
-        "FIELD1": "Phú Yên",
-        "Sơ bộ 2018": "25,5"
+        "ten tinh": "Phú Yên",
+        "ket hon tb lan dau": "25,5"
     },
     {
-        "FIELD1": "Khánh Hòa",
-        "Sơ bộ 2018": "28,5"
+        "ten tinh": "Khánh Hòa",
+        "ket hon tb lan dau": "28,5"
     },
     {
-        "FIELD1": "Ninh Thuận",
-        "Sơ bộ 2018": "25,9"
+        "ten tinh": "Ninh Thuận",
+        "ket hon tb lan dau": "25,9"
     },
     {
-        "FIELD1": "Bình Thuận",
-        "Sơ bộ 2018": "26,4"
+        "ten tinh": "Bình Thuận",
+        "ket hon tb lan dau": "26,4"
     },
     {
-        "FIELD1": "Tây Nguyên",
-        "Sơ bộ 2018": "26,9"
+        "ten tinh": "Tây Nguyên",
+        "ket hon tb lan dau": "26,9"
     },
     {
-        "FIELD1": "Kon Tum",
-        "Sơ bộ 2018": "25,0"
+        "ten tinh": "Kon Tum",
+        "ket hon tb lan dau": "25,0"
     },
     {
-        "FIELD1": "Gia Lai",
-        "Sơ bộ 2018": "24,1"
+        "ten tinh": "Gia Lai",
+        "ket hon tb lan dau": "24,1"
     },
     {
-        "FIELD1": "Đắk Lắk",
-        "Sơ bộ 2018": "25,3"
+        "ten tinh": "Đắk Lắk",
+        "ket hon tb lan dau": "25,3"
     },
     {
-        "FIELD1": "Đắk Nông",
-        "Sơ bộ 2018": "24,1"
+        "ten tinh": "Đắk Nông",
+        "ket hon tb lan dau": "24,1"
     },
     {
-        "FIELD1": "Lâm Đồng",
-        "Sơ bộ 2018": "26,0"
+        "ten tinh": "Lâm Đồng",
+        "ket hon tb lan dau": "26,0"
     },
     {
-        "FIELD1": "Bình Phước",
-        "Sơ bộ 2018": "25,2"
+        "ten tinh": "Bình Phước",
+        "ket hon tb lan dau": "25,2"
     },
     {
-        "FIELD1": "Tây Ninh",
-        "Sơ bộ 2018": "26,1"
+        "ten tinh": "Tây Ninh",
+        "ket hon tb lan dau": "26,1"
     },
     {
-        "FIELD1": "Bình Dương",
-        "Sơ bộ 2018": "24,2"
+        "ten tinh": "Bình Dương",
+        "ket hon tb lan dau": "24,2"
     },
     {
-        "FIELD1": "Đồng Nai",
-        "Sơ bộ 2018": "27,7"
+        "ten tinh": "Đồng Nai",
+        "ket hon tb lan dau": "27,7"
     },
     {
-        "FIELD1": "Bà Rịa - Vũng Tàu",
-        "Sơ bộ 2018": "27,7"
+        "ten tinh": "Bà Rịa - Vũng Tàu",
+        "ket hon tb lan dau": "27,7"
     },
     {
-        "FIELD1": "TP. Hồ Chí Minh",
-        "Sơ bộ 2018": "27,7"
+        "ten tinh": "TP. Hồ Chí Minh",
+        "ket hon tb lan dau": "27,7"
     },
     {
-        "FIELD1": "Long An",
-        "Sơ bộ 2018": "25,6"
+        "ten tinh": "Long An",
+        "ket hon tb lan dau": "25,6"
     },
     {
-        "FIELD1": "Tiền Giang",
-        "Sơ bộ 2018": "25,4"
+        "ten tinh": "Tiền Giang",
+        "ket hon tb lan dau": "25,4"
     },
     {
-        "FIELD1": "Bến Tre",
-        "Sơ bộ 2018": "25,7"
+        "ten tinh": "Bến Tre",
+        "ket hon tb lan dau": "25,7"
     },
     {
-        "FIELD1": "Trà Vinh",
-        "Sơ bộ 2018": "24,8"
+        "ten tinh": "Trà Vinh",
+        "ket hon tb lan dau": "24,8"
     },
     {
-        "FIELD1": "Vĩnh Long",
-        "Sơ bộ 2018": "26,0"
+        "ten tinh": "Vĩnh Long",
+        "ket hon tb lan dau": "26,0"
     },
     {
-        "FIELD1": "Đồng Tháp",
-        "Sơ bộ 2018": "26,1"
+        "ten tinh": "Đồng Tháp",
+        "ket hon tb lan dau": "26,1"
     },
     {
-        "FIELD1": "An Giang",
-        "Sơ bộ 2018": "25,2"
+        "ten tinh": "An Giang",
+        "ket hon tb lan dau": "25,2"
     },
     {
-        "FIELD1": "Kiên Giang",
-        "Sơ bộ 2018": "25,7"
+        "ten tinh": "Kiên Giang",
+        "ket hon tb lan dau": "25,7"
     },
     {
-        "FIELD1": "Cần Thơ",
-        "Sơ bộ 2018": "26,2"
+        "ten tinh": "Cần Thơ",
+        "ket hon tb lan dau": "26,2"
     },
     {
-        "FIELD1": "Hậu Giang",
-        "Sơ bộ 2018": "26,2"
+        "ten tinh": "Hậu Giang",
+        "ket hon tb lan dau": "26,2"
     },
     {
-        "FIELD1": "Sóc Trăng",
-        "Sơ bộ 2018": "26,2"
+        "ten tinh": "Sóc Trăng",
+        "ket hon tb lan dau": "26,2"
     },
     {
-        "FIELD1": "Bạc Liêu",
-        "Sơ bộ 2018": "25,8"
+        "ten tinh": "Bạc Liêu",
+        "ket hon tb lan dau": "25,8"
     },
     {
-        "FIELD1": "Cà Mau",
-        "Sơ bộ 2018": "26,2"
+        "ten tinh": "Cà Mau",
+        "ket hon tb lan dau": "26,2"
     }
 ]
