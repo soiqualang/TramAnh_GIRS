@@ -6,14 +6,25 @@ Nội dung repo này là nội dung Trâm Anh thực tập.
 
 ### Nội dung
 
+#### Form 3 Năm
+
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/laodongt15tsotongds.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/laodongt15tsotongds.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tongtysuatsinh.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tongtysuatsinh.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tyletangds.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tyletangds.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysogioitinh.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysogioitinh.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html</a>
+
 #### Chart 3 Giá Trị Line
+
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethon2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethon2018.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tuvongdkkhaitu2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tuvongdkkhaitu2018.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2016.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2016.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2017.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2018.html</a>
-#### Chart 1 Giá Trị Column
 
+#### Chart 1 Giá Trị Column
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethontblandau2016.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethontblandau2016.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethontblandau2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethontblandau2017.html</a>
@@ -36,6 +47,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập.
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tysuatchetduoi5t2016.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tysuatchetduoi5t2016.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tysuatchetduoi5t2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tysuatchetduoi5t2017.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tysuatchetduoi5t2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tysuatchetduoi5t2018.html</a>
+
 #### Chart JS
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html</a>
