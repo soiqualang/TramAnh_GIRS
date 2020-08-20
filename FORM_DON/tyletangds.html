@@ -13,7 +13,7 @@
 			height: 500px;
 	}
 	</style>
-			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ kết hôn lần đầu <b id="year"> 2018</b></h1>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ tỷ lệ tăng dân số <b id="year"> 2018</b></h1>
 
     <!-- Resources -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -96,7 +96,7 @@
                     // Create series
                     var series = chart.series.push(new am4charts.ColumnSeries());
                     series.sequencedInterpolation = true;
-                    series.dataFields.valueY = "tong ts sinh";
+                    series.dataFields.valueY = "tl tang ds";
                     series.dataFields.categoryX = "ten tinh";
                     series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
                     series.columns.template.strokeWidth = 0;

@@ -1,379 +1,379 @@
 [{
-        "tem tinh": "An Giang",
-        "tong so": 570,
-        "cap tinh": 29,
-        "cap huyen": 541
+        "ten tinh": "An Giang",
+        "Tổng số": 570,
+        "Cấp tỉnh": 29,
+        "Cấp huyện": 541
     },
     {
-        "tem tinh": "Bà Rịa - Vũng Tàu",
-        "tong so": 411,
-        "cap tinh": 20,
-        "cap huyen": 391
+        "ten tinh": "Bà Rịa - Vũng Tàu",
+        "Tổng số": 411,
+        "Cấp tỉnh": 20,
+        "Cấp huyện": 391
     },
     {
-        "tem tinh": "Bạc Liêu",
-        "tong so": 282,
-        "cap tinh": 14,
-        "cap huyen": 268
+        "ten tinh": "Bạc Liêu",
+        "Tổng số": 282,
+        "Cấp tỉnh": 14,
+        "Cấp huyện": 268
     },
     {
-        "tem tinh": "Bắc Giang",
-        "tong so": 432,
-        "cap tinh": 24,
-        "cap huyen": 408
+        "ten tinh": "Bắc Giang",
+        "Tổng số": 432,
+        "Cấp tỉnh": 24,
+        "Cấp huyện": 408
     },
     {
-        "tem tinh": "Bắc Kạn",
-        "tong so": 27,
-        "cap tinh": 0,
-        "cap huyen": 27
+        "ten tinh": "Bắc Kạn",
+        "Tổng số": 27,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 27
     },
     {
-        "tem tinh": "Bắc Ninh",
-        "tong so": 151,
-        "cap tinh": 5,
-        "cap huyen": 146
+        "ten tinh": "Bắc Ninh",
+        "Tổng số": 151,
+        "Cấp tỉnh": 5,
+        "Cấp huyện": 146
     },
     {
-        "tem tinh": "Bến Tre",
-        "tong so": 760,
-        "cap tinh": 19,
-        "cap huyen": 741
+        "ten tinh": "Bến Tre",
+        "Tổng số": 760,
+        "Cấp tỉnh": 19,
+        "Cấp huyện": 741
     },
     {
-        "tem tinh": "Bình Dương",
-        "tong so": 459,
-        "cap tinh": 16,
-        "cap huyen": 443
+        "ten tinh": "Bình Dương",
+        "Tổng số": 459,
+        "Cấp tỉnh": 16,
+        "Cấp huyện": 443
     },
     {
-        "tem tinh": "Bình Định",
-        "tong so": 255,
-        "cap tinh": 7,
-        "cap huyen": 248
+        "ten tinh": "Bình Định",
+        "Tổng số": 255,
+        "Cấp tỉnh": 7,
+        "Cấp huyện": 248
     },
     {
-        "tem tinh": "Bình Phước",
-        "tong so": 365,
-        "cap tinh": 4,
-        "cap huyen": 361
+        "ten tinh": "Bình Phước",
+        "Tổng số": 365,
+        "Cấp tỉnh": 4,
+        "Cấp huyện": 361
     },
     {
-        "tem tinh": "Bình Thuận",
-        "tong so": 444,
-        "cap tinh": 11,
-        "cap huyen": 433
+        "ten tinh": "Bình Thuận",
+        "Tổng số": 444,
+        "Cấp tỉnh": 11,
+        "Cấp huyện": 433
     },
     {
-        "tem tinh": "Cà Mau",
-        "tong so": 872,
-        "cap tinh": 9,
-        "cap huyen": 863
+        "ten tinh": "Cà Mau",
+        "Tổng số": 872,
+        "Cấp tỉnh": 9,
+        "Cấp huyện": 863
     },
     {
-        "tem tinh": "Cao Bằng",
-        "tong so": 47,
-        "cap tinh": 0,
-        "cap huyen": 47
+        "ten tinh": "Cao Bằng",
+        "Tổng số": 47,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 47
     },
     {
-        "tem tinh": "Cần Thơ",
-        "tong so": 583,
-        "cap tinh": 78,
-        "cap huyen": 505
+        "ten tinh": "Cần Thơ",
+        "Tổng số": 583,
+        "Cấp tỉnh": 78,
+        "Cấp huyện": 505
     },
     {
-        "tem tinh": "Đà Nẵng",
-        "tong so": 349,
-        "cap tinh": 19,
-        "cap huyen": 330
+        "ten tinh": "Đà Nẵng",
+        "Tổng số": 349,
+        "Cấp tỉnh": 19,
+        "Cấp huyện": 330
     },
     {
-        "tem tinh": "Đắk Lắk",
-        "tong so": 332,
-        "cap tinh": 4,
-        "cap huyen": 328
+        "ten tinh": "Đắk Lắk",
+        "Tổng số": 332,
+        "Cấp tỉnh": 4,
+        "Cấp huyện": 328
     },
     {
-        "tem tinh": "Đắk Nông",
-        "tong so": 79,
-        "cap tinh": 0,
-        "cap huyen": 79
+        "ten tinh": "Đắk Nông",
+        "Tổng số": 79,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 79
     },
     {
-        "tem tinh": "Điện Biên",
-        "tong so": 61,
-        "cap tinh": 0,
-        "cap huyen": 61
+        "ten tinh": "Điện Biên",
+        "Tổng số": 61,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 61
     },
     {
-        "tem tinh": "Đồng Nai",
-        "tong so": 1.124,
-        "cap tinh": 130,
-        "cap huyen": 994
+        "ten tinh": "Đồng Nai",
+        "Tổng số": 1.124,
+        "Cấp tỉnh": 130,
+        "Cấp huyện": 994
     },
     {
-        "tem tinh": "Đồng Tháp",
-        "tong so": 412,
-        "cap tinh": 1,
-        "cap huyen": 411
+        "ten tinh": "Đồng Tháp",
+        "Tổng số": 412,
+        "Cấp tỉnh": 1,
+        "Cấp huyện": 411
     },
     {
-        "tem tinh": "Gia Lai",
-        "tong so": 183,
-        "cap tinh": 0,
-        "cap huyen": 183
+        "ten tinh": "Gia Lai",
+        "Tổng số": 183,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 183
     },
     {
-        "tem tinh": "Hà Giang",
-        "tong so": 112,
-        "cap tinh": 3,
-        "cap huyen": 109
+        "ten tinh": "Hà Giang",
+        "Tổng số": 112,
+        "Cấp tỉnh": 3,
+        "Cấp huyện": 109
     },
     {
-        "tem tinh": "Hà Nam",
-        "tong so": 76,
-        "cap tinh": 0,
-        "cap huyen": 76
+        "ten tinh": "Hà Nam",
+        "Tổng số": 76,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 76
     },
     {
-        "tem tinh": "Hà Nội",
-        "tong so": 87,
-        "cap tinh": 2,
-        "cap huyen": 85
+        "ten tinh": "Hà Nội",
+        "Tổng số": 87,
+        "Cấp tỉnh": 2,
+        "Cấp huyện": 85
     },
     {
-        "tem tinh": "Hà Tĩnh",
-        "tong so": 884,
-        "cap tinh": 41,
-        "cap huyen": 843
+        "ten tinh": "Hà Tĩnh",
+        "Tổng số": 884,
+        "Cấp tỉnh": 41,
+        "Cấp huyện": 843
     },
     {
-        "tem tinh": "Hải Dương",
-        "tong so": 133,
-        "cap tinh": 21,
-        "cap huyen": 112
+        "ten tinh": "Hải Dương",
+        "Tổng số": 133,
+        "Cấp tỉnh": 21,
+        "Cấp huyện": 112
     },
     {
-        "tem tinh": "Hải Phòng",
-        "tong so": 378,
-        "cap tinh": 72,
-        "cap huyen": 306
+        "ten tinh": "Hải Phòng",
+        "Tổng số": 378,
+        "Cấp tỉnh": 72,
+        "Cấp huyện": 306
     },
     {
-        "tem tinh": "Hậu Giang",
-        "tong so": 774,
-        "cap tinh": 105,
-        "cap huyen": 669
+        "ten tinh": "Hậu Giang",
+        "Tổng số": 774,
+        "Cấp tỉnh": 105,
+        "Cấp huyện": 669
     },
     {
-        "tem tinh": "Hoà Bình",
-        "tong so": 422,
-        "cap tinh": 127,
-        "cap huyen": 295
+        "ten tinh": "Hoà Bình",
+        "Tổng số": 422,
+        "Cấp tỉnh": 127,
+        "Cấp huyện": 295
     },
     {
-        "tem tinh": "Hưng Yên",
-        "tong so": 213,
-        "cap tinh": 5,
-        "cap huyen": 208
+        "ten tinh": "Hưng Yên",
+        "Tổng số": 213,
+        "Cấp tỉnh": 5,
+        "Cấp huyện": 208
     },
     {
-        "tem tinh": "Kiên Giang",
-        "tong so": 494,
-        "cap tinh": 26,
-        "cap huyen": 468
+        "ten tinh": "Kiên Giang",
+        "Tổng số": 494,
+        "Cấp tỉnh": 26,
+        "Cấp huyện": 468
     },
     {
-        "tem tinh": "Kon Tum",
-        "tong so": 57,
-        "cap tinh": 0,
-        "cap huyen": 57
+        "ten tinh": "Kon Tum",
+        "Tổng số": 57,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 57
     },
     {
-        "tem tinh": "Khánh Hoà",
-        "tong so": 573,
-        "cap tinh": 39,
-        "cap huyen": 534
+        "ten tinh": "Khánh Hoà",
+        "Tổng số": 573,
+        "Cấp tỉnh": 39,
+        "Cấp huyện": 534
     },
     {
-        "tem tinh": "Lai Châu",
-        "tong so": 24,
-        "cap tinh": 0,
-        "cap huyen": 24
+        "ten tinh": "Lai Châu",
+        "Tổng số": 24,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 24
     },
     {
-        "tem tinh": "Lạng Sơn",
-        "tong so": 86,
-        "cap tinh": 0,
-        "cap huyen": 86
+        "ten tinh": "Lạng Sơn",
+        "Tổng số": 86,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 86
     },
     {
-        "tem tinh": "Lào Cai",
-        "tong so": 94,
-        "cap tinh": 0,
-        "cap huyen": 94
+        "ten tinh": "Lào Cai",
+        "Tổng số": 94,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 94
     },
     {
-        "tem tinh": "Lâm Đồng",
-        "tong so": 430,
-        "cap tinh": 6,
-        "cap huyen": 424
+        "ten tinh": "Lâm Đồng",
+        "Tổng số": 430,
+        "Cấp tỉnh": 6,
+        "Cấp huyện": 424
     },
     {
-        "tem tinh": "Long An",
-        "tong so": 871,
-        "cap tinh": 16,
-        "cap huyen": 855
+        "ten tinh": "Long An",
+        "Tổng số": 871,
+        "Cấp tỉnh": 16,
+        "Cấp huyện": 855
     },
     {
-        "tem tinh": "Nam Định",
-        "tong so": 373,
-        "cap tinh": 6,
-        "cap huyen": 367
+        "ten tinh": "Nam Định",
+        "Tổng số": 373,
+        "Cấp tỉnh": 6,
+        "Cấp huyện": 367
     },
     {
-        "tem tinh": "Ninh Bình",
-        "tong so": 122,
-        "cap tinh": 2,
-        "cap huyen": 120
+        "ten tinh": "Ninh Bình",
+        "Tổng số": 122,
+        "Cấp tỉnh": 2,
+        "Cấp huyện": 120
     },
     {
-        "tem tinh": "Ninh Thuận",
-        "tong so": 178,
-        "cap tinh": 4,
-        "cap huyen": 174
+        "ten tinh": "Ninh Thuận",
+        "Tổng số": 178,
+        "Cấp tỉnh": 4,
+        "Cấp huyện": 174
     },
     {
-        "tem tinh": "Nghệ An",
-        "tong so": 451,
-        "cap tinh": 65,
-        "cap huyen": 386
+        "ten tinh": "Nghệ An",
+        "Tổng số": 451,
+        "Cấp tỉnh": 65,
+        "Cấp huyện": 386
     },
     {
-        "tem tinh": "Phú Thọ",
-        "tong so": 440,
-        "cap tinh": 22,
-        "cap huyen": 418
+        "ten tinh": "Phú Thọ",
+        "Tổng số": 440,
+        "Cấp tỉnh": 22,
+        "Cấp huyện": 418
     },
     {
-        "tem tinh": "Phú Yên",
-        "tong so": 233,
-        "cap tinh": 18,
-        "cap huyen": 215
+        "ten tinh": "Phú Yên",
+        "Tổng số": 233,
+        "Cấp tỉnh": 18,
+        "Cấp huyện": 215
     },
     {
-        "tem tinh": "Quảng Bình",
-        "tong so": 168,
-        "cap tinh": 10,
-        "cap huyen": 158
+        "ten tinh": "Quảng Bình",
+        "Tổng số": 168,
+        "Cấp tỉnh": 10,
+        "Cấp huyện": 158
     },
     {
-        "tem tinh": "Quảng Nam",
-        "tong so": 272,
-        "cap tinh": 2,
-        "cap huyen": 270
+        "ten tinh": "Quảng Nam",
+        "Tổng số": 272,
+        "Cấp tỉnh": 2,
+        "Cấp huyện": 270
     },
     {
-        "tem tinh": "Quảng Ninh",
-        "tong so": 333,
-        "cap tinh": 27,
-        "cap huyen": 306
+        "ten tinh": "Quảng Ninh",
+        "Tổng số": 333,
+        "Cấp tỉnh": 27,
+        "Cấp huyện": 306
     },
     {
-        "tem tinh": "Quảng Ngãi",
-        "tong so": 206,
-        "cap tinh": 0,
-        "cap huyen": 206
+        "ten tinh": "Quảng Ngãi",
+        "Tổng số": 206,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 206
     },
     {
-        "tem tinh": "Quảng Trị",
-        "tong so": 61,
-        "cap tinh": 0,
-        "cap huyen": 61
+        "ten tinh": "Quảng Trị",
+        "Tổng số": 61,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 61
     },
     {
-        "tem tinh": "Sóc Trăng",
-        "tong so": 348,
-        "cap tinh": 38,
-        "cap huyen": 310
+        "ten tinh": "Sóc Trăng",
+        "Tổng số": 348,
+        "Cấp tỉnh": 38,
+        "Cấp huyện": 310
     },
     {
-        "tem tinh": "Sơn La",
-        "tong so": 83,
-        "cap tinh": 0,
-        "cap huyen": 83
+        "ten tinh": "Sơn La",
+        "Tổng số": 83,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 83
     },
     {
-        "tem tinh": "Tây Ninh",
-        "tong so": 648,
-        "cap tinh": 53,
-        "cap huyen": 595
+        "ten tinh": "Tây Ninh",
+        "Tổng số": 648,
+        "Cấp tỉnh": 53,
+        "Cấp huyện": 595
     },
     {
-        "tem tinh": "Tiền Giang",
-        "tong so": 1.14,
-        "cap tinh": 13,
-        "cap huyen": 1.127
+        "ten tinh": "Tiền Giang",
+        "Tổng số": 1.14,
+        "Cấp tỉnh": 13,
+        "Cấp huyện": 1.127
     },
     {
-        "tem tinh": "TP.Hồ Chí Minh",
-        "tong so": 2.125,
-        "cap tinh": 326,
-        "cap huyen": 1.799
+        "ten tinh": "TP.Hồ Chí Minh",
+        "Tổng số": 2.125,
+        "Cấp tỉnh": 326,
+        "Cấp huyện": 1.799
     },
     {
-        "tem tinh": "Tuyên Quang",
-        "tong so": 125,
-        "cap tinh": 0,
-        "cap huyen": 125
+        "ten tinh": "Tuyên Quang",
+        "Tổng số": 125,
+        "Cấp tỉnh": 0,
+        "Cấp huyện": 125
     },
     {
-        "tem tinh": "Thái Bình",
-        "tong so": 469,
-        "cap tinh": 44,
-        "cap huyen": 425
+        "ten tinh": "Thái Bình",
+        "Tổng số": 469,
+        "Cấp tỉnh": 44,
+        "Cấp huyện": 425
     },
     {
-        "tem tinh": "Thái Nguyên",
-        "tong so": 314,
-        "cap tinh": 22,
-        "cap huyen": 292
+        "ten tinh": "Thái Nguyên",
+        "Tổng số": 314,
+        "Cấp tỉnh": 22,
+        "Cấp huyện": 292
     },
     {
-        "tem tinh": "Thanh Hoá",
-        "tong so": 584,
-        "cap tinh": 2,
-        "cap huyen": 582
+        "ten tinh": "Thanh Hoá",
+        "Tổng số": 584,
+        "Cấp tỉnh": 2,
+        "Cấp huyện": 582
     },
     {
-        "tem tinh": "Thừa Thiên Huế",
-        "tong so": 210,
-        "cap tinh": 46,
-        "cap huyen": 164
+        "ten tinh": "Thừa Thiên Huế",
+        "Tổng số": 210,
+        "Cấp tỉnh": 46,
+        "Cấp huyện": 164
     },
     {
-        "tem tinh": "Trà Vinh",
-        "tong so": 345,
-        "cap tinh": 33,
-        "cap huyen": 312
+        "ten tinh": "Trà Vinh",
+        "Tổng số": 345,
+        "Cấp tỉnh": 33,
+        "Cấp huyện": 312
     },
     {
-        "tem tinh": "Vĩnh Long",
-        "tong so": 694,
-        "cap tinh": 76,
-        "cap huyen": 618
+        "ten tinh": "Vĩnh Long",
+        "Tổng số": 694,
+        "Cấp tỉnh": 76,
+        "Cấp huyện": 618
     },
     {
-        "tem tinh": "Vĩnh Phúc",
-        "tong so": 274,
-        "cap tinh": 2,
-        "cap huyen": 272
+        "ten tinh": "Vĩnh Phúc",
+        "Tổng số": 274,
+        "Cấp tỉnh": 2,
+        "Cấp huyện": 272
     },
     {
-        "tem tinh": "Yên Bái",
-        "tong so": 206,
-        "cap tinh": 1,
-        "cap huyen": 205
+        "ten tinh": "Yên Bái",
+        "Tổng số": 206,
+        "Cấp tỉnh": 1,
+        "Cấp huyện": 205
     }
 ]
