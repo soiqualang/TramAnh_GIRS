@@ -6,6 +6,13 @@ Nội dung repo này là nội dung Trâm Anh thực tập.
 
 ### Nội dung
 
+#### Map
+
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/MAP/try/colormap.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/try/colormap.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/MAP/try/t1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/try/t1.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/MAP/map%20copy.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/map%20copy.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/MAP/map.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/map.html</a>
+
 #### Form 3 Năm
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html</a>
