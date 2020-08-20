@@ -6,14 +6,14 @@ Nội dung repo này là nội dung Trâm Anh thực tập.
 
 ### Nội dung
 #### Chart Đơn cột
-tuvongdkkhaitu2018.html
+
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethon2018.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethontblandau2016.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethontblandau2017.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethontblandau2018.html</a>
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html"target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/laodongt15tsotongds2016.html</a>
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html"target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/laodongt15tsotongds2017.html</a>
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html"target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/laodongt15tsotongds2018.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/laodongt15tsotongds2018.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/laodongt15tsotongds2018.html</a>
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/laodongt15tsotongds2018.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2016.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2017.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2018.html</a>
@@ -42,7 +42,6 @@ tuvongdkkhaitu2018.html
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart4.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart4.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart5.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart5.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart6.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart6.html</a>
-
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/2.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/2.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/23.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/23.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/123.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/123.html</a>
