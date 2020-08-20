@@ -66,7 +66,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập.
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/2.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/2.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/23.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/23.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/123.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/123.html</a>
-
+* <a href="https://soiqualang.github.io/TramAnh_GIRS/HTML%20nhap/chart7.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/HTML%20nhap/chart7.html</a>
 ### WebGIS
 
 ....
