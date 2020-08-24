@@ -97,7 +97,7 @@
   },
   {
     "ten tinh": "Hà Tây",
-    "tren 15 biet chu": ".."
+    "tren 15 biet chu": 0
   },
   {
     "ten tinh": "Hà Tĩnh",
