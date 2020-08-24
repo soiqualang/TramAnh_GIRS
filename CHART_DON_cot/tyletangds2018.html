@@ -3,7 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+    <title>Document</title>
+        <!-- Resources -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
 	<!-- Styles -->
@@ -13,7 +15,7 @@
 			height: 500px;
 	}
 	</style>
-			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ tỷ lệ tăng dân số năm 2017</h1>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ lao động trên 15 tuổi so tổng dân số năm 2017</h1>
 
 	<!-- Resources -->
 	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
@@ -22,317 +24,81 @@
 	
 	<!-- Chart code -->
 	<script>
-	am4core.ready(function() {
 
-	// Themes begin
-	am4core.useTheme(am4themes_animated);
-	// Themes end
-	
-	// Create chart instance
-	var chart = am4core.create("chartdiv", am4charts.XYChart);
-	chart.scrollbarX = new am4core.Scrollbar();
-	
-	// Add data
-	chart.data =[{
-        "ten tinh": "Hà Nội",
-        "tl tang ds": 1.5
-    },
-    {
-        "ten tinh": "Hà Tây",
-        "tl tang ds": 0
-    },
-    {
-        "ten tinh": "Vĩnh Phúc",
-        "tl tang ds": 1.27
-    },
-    {
-        "ten tinh": "Bắc Ninh",
-        "tl tang ds": 3.11
-    },
-    {
-        "ten tinh": "Quảng Ninh",
-        "tl tang ds": 1.49
-    },
-    {
-        "ten tinh": "Hải Dương",
-        "tl tang ds": 0.64
-    },
-    {
-        "ten tinh": "Hải Phòng",
-        "tl tang ds": 0.85
-    },
-    {
-        "ten tinh": "Hưng Yên",
-        "tl tang ds": 0.52
-    },
-    {
-        "ten tinh": "Thái Bình",
-        "tl tang ds": 0.09
-    },
-    {
-        "ten tinh": "Hà Nam",
-        "tl tang ds": 0.25
-    },
-    {
-        "ten tinh": "Nam Định",
-        "tl tang ds": 0.04
-    },
-    {
-        "ten tinh": "Ninh Bình",
-        "tl tang ds": 0.92
-    },
-    {
-        "ten tinh": "Hà Giang",
-        "tl tang ds": 1.62
-    },
-    {
-        "ten tinh": "Cao Bằng",
-        "tl tang ds": 0.99
-    },
-    {
-        "ten tinh": "Bắc Kạn",
-        "tl tang ds": 1.32
-    },
-    {
-        "ten tinh": "Tuyên Quang",
-        "tl tang ds": 0.86
-    },
-    {
-        "ten tinh": "Lào Cai",
-        "tl tang ds": 1.48
-    },
-    {
-        "ten tinh": "Yên Bái",
-        "tl tang ds": 0.87
-    },
-    {
-        "ten tinh": "Thái Nguyên",
-        "tl tang ds": 0.91
-    },
-    {
-        "ten tinh": "Lạng Sơn",
-        "tl tang ds": 1.46
-    },
-    {
-        "ten tinh": "Bắc Giang",
-        "tl tang ds": 1.01
-    },
-    {
-        "ten tinh": "Phú Thọ",
-        "tl tang ds": 0.81
-    },
-    {
-        "ten tinh": "Điện Biên",
-        "tl tang ds": 1.71
-    },
-    {
-        "ten tinh": "Lai Châu",
-        "tl tang ds": 2.52
-    },
-    {
-        "ten tinh": "Sơn La",
-        "tl tang ds": 1.47
-    },
-    {
-        "ten tinh": "Hòa Bình",
-        "tl tang ds": 0.9
-    },
-    {
-        "ten tinh": "Thanh Hóa",
-        "tl tang ds": 0.46
-    },
-    {
-        "ten tinh": "Nghệ An",
-        "tl tang ds": 0.83
-    },
-    {
-        "ten tinh": "Hà Tĩnh",
-        "tl tang ds": 0.43
-    },
-    {
-        "ten tinh": "Quảng Bình",
-        "tl tang ds": 0.55
-    },
-    {
-        "ten tinh": "Quảng Trị",
-        "tl tang ds": 0.61
-    },
-    {
-        "ten tinh": "Thừa Thiên - Huế",
-        "tl tang ds": 0.38
-    },
-    {
-        "ten tinh": "Đà Nẵng",
-        "tl tang ds": 1.8
-    },
-    {
-        "ten tinh": "Quảng Nam",
-        "tl tang ds": 0.48
-    },
-    {
-        "ten tinh": "Quảng Ngãi",
-        "tl tang ds": 0.76
-    },
-    {
-        "ten tinh": "Bình Định",
-        "tl tang ds": 0.29
-    },
-    {
-        "ten tinh": "Phú Yên",
-        "tl tang ds": 0.56
-    },
-    {
-        "ten tinh": "Khánh Hòa",
-        "tl tang ds": 0.69
-    },
-    {
-        "ten tinh": "Ninh Thuận",
-        "tl tang ds": 0.93
-    },
-    {
-        "ten tinh": "Bình Thuận",
-        "tl tang ds": 0.63
-    },
-    {
-        "ten tinh": "Kon Tum",
-        "tl tang ds": 2.41
-    },
-    {
-        "ten tinh": "Gia Lai",
-        "tl tang ds": 1.42
-    },
-    {
-        "ten tinh": "Đắk Lắk",
-        "tl tang ds": 1.18
-    },
-    {
-        "ten tinh": "Đắk Nông",
-        "tl tang ds": 3.22
-    },
-    {
-        "ten tinh": "Lâm Đồng",
-        "tl tang ds": 1.01
-    },
-    {
-        "ten tinh": "Bình Phước",
-        "tl tang ds": 1.31
-    },
-    {
-        "ten tinh": "Tây Ninh",
-        "tl tang ds": 0.66
-    },
-    {
-        "ten tinh": "Bình Dương",
-        "tl tang ds": 3.77
-    },
-    {
-        "ten tinh": "Đồng Nai",
-        "tl tang ds": 2.21
-    },
-    {
-        "ten tinh": "Bà Rịa - Vũng Tàu",
-        "tl tang ds": 1.04
-    },
-    {
-        "ten tinh": "TP. Hồ Chí Minh",
-        "tl tang ds": 1.91
-    },
-    {
-        "ten tinh": "Long An",
-        "tl tang ds": 0.43
-    },
-    {
-        "ten tinh": "Tiền Giang",
-        "tl tang ds": 0.67
-    },
-    {
-        "ten tinh": "Bến Tre",
-        "tl tang ds": 0.12
-    },
-    {
-        "ten tinh": "Trà Vinh",
-        "tl tang ds": 0.49
-    },
-    {
-        "ten tinh": "Vĩnh Long",
-        "tl tang ds": 0.16
-    },
-    {
-        "ten tinh": "Đồng Tháp",
-        "tl tang ds": 0.18
-    },
-    {
-        "ten tinh": "An Giang",
-        "tl tang ds": 0.08
-    },
-    {
-        "ten tinh": "Kiên Giang",
-        "tl tang ds": 0.89
-    },
-    {
-        "ten tinh": "Cần Thơ",
-        "tl tang ds": 0.81
-    },
-    {
-        "ten tinh": "Hậu Giang",
-        "tl tang ds": 0.28
-    },
-    {
-        "ten tinh": "Sóc Trăng",
-        "tl tang ds": 0.14
-    },
-    {
-        "ten tinh": "Bạc Liêu",
-        "tl tang ds": 0.91
-    },
-    {
-        "ten tinh": "Cà Mau",
-        "tl tang ds": 0.3
-    }
-];
-	
-	// Create axes
-	var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
-	categoryAxis.dataFields.category = "ten tinh";
-	categoryAxis.renderer.grid.template.location = 0;
-	categoryAxis.renderer.minGridDistance = 5;
-	categoryAxis.renderer.labels.template.horizontalCenter = "right";
-	categoryAxis.renderer.labels.template.verticalCenter = "middle";
-	categoryAxis.renderer.labels.template.rotation = 270;
-	categoryAxis.tooltip.disabled = true;
-	categoryAxis.renderer.minHeight = 110;
-	
-	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
-	valueAxis.renderer.minWidth = 63;
-	
-	// Create series
-	var series = chart.series.push(new am4charts.ColumnSeries());
-	series.sequencedInterpolation = true;
-	series.dataFields.valueY = "tl tang ds";
-	series.dataFields.categoryX = "ten tinh";
-	series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
-	series.columns.template.strokeWidth = 0;
-	
-	series.tooltip.pointerOrientation = "vertical";
-	
-	series.columns.template.column.cornerRadiusTopLeft = 10;
-	series.columns.template.column.cornerRadiusTopRight = 10;
-	series.columns.template.column.fillOpacity = 0.8;
-	
-	// on hover, make corner radiuses bigger
-	var hoverState = series.columns.template.column.states.create("hover");
-	hoverState.properties.cornerRadiusTopLeft = 0;
-	hoverState.properties.cornerRadiusTopRight = 0;
-	hoverState.properties.fillOpacity = 1;
-	
-	series.columns.template.adapter.add("fill", function(fill, target) {
-			return chart.colors.getIndex(target.dataItem.index);
-	});
-	
-	// Cursor
-	chart.cursor = new am4charts.XYCursor();
-	
-	}); // end am4core.ready()
+
+    $(document).ready(function(){
+            var data_ajax = '';
+            // Ajax lấy dữ liệu
+            $.ajax({
+                type: 'GET',
+                url : '../JSON_1_GIATRI/laodongt15tsotongds2017.js',
+                dataType:'script',
+                success: function(data) {
+                    data_ajax =  eval(data);
+                }
+            });
+
+
+            $(document).ajaxComplete(function() {
+                am4core.ready(function() {
+
+                // Themes begin
+                am4core.useTheme(am4themes_animated);
+                // Themes end
+                
+                // Create chart instance
+                var chart = am4core.create("chartdiv", am4charts.XYChart);
+                chart.scrollbarX = new am4core.Scrollbar();
+                
+                // Add data
+                chart.data = data_ajax ;
+                
+                // Create axes
+                var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+                categoryAxis.dataFields.category = "ten tinh";
+                categoryAxis.renderer.grid.template.location = 0;
+                categoryAxis.renderer.minGridDistance = 5;
+                categoryAxis.renderer.labels.template.horizontalCenter = "right";
+                categoryAxis.renderer.labels.template.verticalCenter = "middle";
+                categoryAxis.renderer.labels.template.rotation = 270;
+                categoryAxis.tooltip.disabled = true;
+                categoryAxis.renderer.minHeight = 110;
+                
+                var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+                valueAxis.renderer.minWidth = 63;
+                
+                // Create series
+                var series = chart.series.push(new am4charts.ColumnSeries());
+                series.sequencedInterpolation = true;
+                series.dataFields.valueY = "tl lao dong tren 15t dang lam viec so voi tong ds";
+                series.dataFields.categoryX = "ten tinh";
+                series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
+                series.columns.template.strokeWidth = 0;
+                
+                series.tooltip.pointerOrientation = "vertical";
+                
+                series.columns.template.column.cornerRadiusTopLeft = 10;
+                series.columns.template.column.cornerRadiusTopRight = 10;
+                series.columns.template.column.fillOpacity = 0.8;
+                
+                // on hover, make corner radiuses bigger
+                var hoverState = series.columns.template.column.states.create("hover");
+                hoverState.properties.cornerRadiusTopLeft = 0;
+                hoverState.properties.cornerRadiusTopRight = 0;
+                hoverState.properties.fillOpacity = 1;
+                
+                series.columns.template.adapter.add("fill", function(fill, target) {
+                        return chart.colors.getIndex(target.dataItem.index);
+                });
+                
+                // Cursor
+                chart.cursor = new am4charts.XYCursor();
+                
+                }); // end am4core.ready()
+            });
+            //end ajax complate
+        });
+    // End jquery 
 	</script>
 	
 	<!-- HTML -->

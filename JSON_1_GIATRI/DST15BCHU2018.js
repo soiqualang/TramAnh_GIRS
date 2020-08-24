@@ -1,258 +1,258 @@
 [
   {
-    "Ten tinh": "An Giang",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 91.7
+    "ten tinh": "An Giang",
+    "tren 15 biet chu": 91.7
   },
   {
-    "Ten tinh": "Bà Rịa - Vũng Tàu",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.2
+    "ten tinh": "Bà Rịa - Vũng Tàu",
+    "tren 15 biet chu": 97.2
   },
   {
-    "Ten tinh": "Bạc Liêu",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 93.7
+    "ten tinh": "Bạc Liêu",
+    "tren 15 biet chu": 93.7
   },
   {
-    "Ten tinh": "Bắc Giang",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.5
+    "ten tinh": "Bắc Giang",
+    "tren 15 biet chu": 97.5
   },
   {
-    "Ten tinh": "Bắc Kạn",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 92.3
+    "ten tinh": "Bắc Kạn",
+    "tren 15 biet chu": 92.3
   },
   {
-    "Ten tinh": "Bắc Ninh",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.7
+    "ten tinh": "Bắc Ninh",
+    "tren 15 biet chu": 97.7
   },
   {
-    "Ten tinh": "Bến Tre",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 93.8
+    "ten tinh": "Bến Tre",
+    "tren 15 biet chu": 93.8
   },
   {
-    "Ten tinh": "Bình Dương",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 96.5
+    "ten tinh": "Bình Dương",
+    "tren 15 biet chu": 96.5
   },
   {
-    "Ten tinh": "Bình Định",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 96.3
+    "ten tinh": "Bình Định",
+    "tren 15 biet chu": 96.3
   },
   {
-    "Ten tinh": "Bình Phước",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 91.1
+    "ten tinh": "Bình Phước",
+    "tren 15 biet chu": 91.1
   },
   {
-    "Ten tinh": "Bình Thuận",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 93.2
+    "ten tinh": "Bình Thuận",
+    "tren 15 biet chu": 93.2
   },
   {
-    "Ten tinh": "Cà Mau",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 96.4
+    "ten tinh": "Cà Mau",
+    "tren 15 biet chu": 96.4
   },
   {
-    "Ten tinh": "Cao Bằng",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 85.6
+    "ten tinh": "Cao Bằng",
+    "tren 15 biet chu": 85.6
   },
   {
-    "Ten tinh": "Cần Thơ",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 93.9
+    "ten tinh": "Cần Thơ",
+    "tren 15 biet chu": 93.9
   },
   {
-    "Ten tinh": "Đà Nẵng",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.9
+    "ten tinh": "Đà Nẵng",
+    "tren 15 biet chu": 97.9
   },
   {
-    "Ten tinh": "Đắk Lắk",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 90.4
+    "ten tinh": "Đắk Lắk",
+    "tren 15 biet chu": 90.4
   },
   {
-    "Ten tinh": "Đắk Nông",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 92.9
+    "ten tinh": "Đắk Nông",
+    "tren 15 biet chu": 92.9
   },
   {
-    "Ten tinh": "Điện Biên",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 75.4
+    "ten tinh": "Điện Biên",
+    "tren 15 biet chu": 75.4
   },
   {
-    "Ten tinh": "Đồng Nai",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 96.5
+    "ten tinh": "Đồng Nai",
+    "tren 15 biet chu": 96.5
   },
   {
-    "Ten tinh": "Đồng Tháp",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 91.6
+    "ten tinh": "Đồng Tháp",
+    "tren 15 biet chu": 91.6
   },
   {
-    "Ten tinh": "Gia Lai",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 85.4
+    "ten tinh": "Gia Lai",
+    "tren 15 biet chu": 85.4
   },
   {
-    "Ten tinh": "Hà Giang",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 72.4
+    "ten tinh": "Hà Giang",
+    "tren 15 biet chu": 72.4
   },
   {
-    "Ten tinh": "Hà Nam",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98
+    "ten tinh": "Hà Nam",
+    "tren 15 biet chu": 98
   },
   {
-    "Ten tinh": "Hà Nội",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98.8
+    "ten tinh": "Hà Nội",
+    "tren 15 biet chu": 98.8
   },
   {
-    "Ten tinh": "Hà Tây",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": ".."
+    "ten tinh": "Hà Tây",
+    "tren 15 biet chu": ".."
   },
   {
-    "Ten tinh": "Hà Tĩnh",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.9
+    "ten tinh": "Hà Tĩnh",
+    "tren 15 biet chu": 97.9
   },
   {
-    "Ten tinh": "Hải Dương",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98.2
+    "ten tinh": "Hải Dương",
+    "tren 15 biet chu": 98.2
   },
   {
-    "Ten tinh": "Hải Phòng",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98.3
+    "ten tinh": "Hải Phòng",
+    "tren 15 biet chu": 98.3
   },
   {
-    "Ten tinh": "Hậu Giang",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 94
+    "ten tinh": "Hậu Giang",
+    "tren 15 biet chu": 94
   },
   {
-    "Ten tinh": "Hoà Bình",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97
+    "ten tinh": "Hoà Bình",
+    "tren 15 biet chu": 97
   },
   {
-    "Ten tinh": "Hưng Yên",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98.2
+    "ten tinh": "Hưng Yên",
+    "tren 15 biet chu": 98.2
   },
   {
-    "Ten tinh": "Kiên Giang",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 90.9
+    "ten tinh": "Kiên Giang",
+    "tren 15 biet chu": 90.9
   },
   {
-    "Ten tinh": "Kon Tum",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 89.6
+    "ten tinh": "Kon Tum",
+    "tren 15 biet chu": 89.6
   },
   {
-    "Ten tinh": "Khánh Hoà",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 95.1
+    "ten tinh": "Khánh Hoà",
+    "tren 15 biet chu": 95.1
   },
   {
-    "Ten tinh": "Lai Châu",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 63.3
+    "ten tinh": "Lai Châu",
+    "tren 15 biet chu": 63.3
   },
   {
-    "Ten tinh": "Lạng Sơn",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 96.3
+    "ten tinh": "Lạng Sơn",
+    "tren 15 biet chu": 96.3
   },
   {
-    "Ten tinh": "Lào Cai",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 81.9
+    "ten tinh": "Lào Cai",
+    "tren 15 biet chu": 81.9
   },
   {
-    "Ten tinh": "Lâm Đồng",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 93.5
+    "ten tinh": "Lâm Đồng",
+    "tren 15 biet chu": 93.5
   },
   {
-    "Ten tinh": "Long An",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 95.8
+    "ten tinh": "Long An",
+    "tren 15 biet chu": 95.8
   },
   {
-    "Ten tinh": "Nam Định",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.7
+    "ten tinh": "Nam Định",
+    "tren 15 biet chu": 97.7
   },
   {
-    "Ten tinh": "Ninh Bình",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.5
+    "ten tinh": "Ninh Bình",
+    "tren 15 biet chu": 97.5
   },
   {
-    "Ten tinh": "Ninh Thuận",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 86.8
+    "ten tinh": "Ninh Thuận",
+    "tren 15 biet chu": 86.8
   },
   {
-    "Ten tinh": "Nghệ An",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.3
+    "ten tinh": "Nghệ An",
+    "tren 15 biet chu": 97.3
   },
   {
-    "Ten tinh": "Phú Thọ",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98.1
+    "ten tinh": "Phú Thọ",
+    "tren 15 biet chu": 98.1
   },
   {
-    "Ten tinh": "Phú Yên",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 93.2
+    "ten tinh": "Phú Yên",
+    "tren 15 biet chu": 93.2
   },
   {
-    "Ten tinh": "Quảng Bình",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.5
+    "ten tinh": "Quảng Bình",
+    "tren 15 biet chu": 97.5
   },
   {
-    "Ten tinh": "Quảng Nam",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 95
+    "ten tinh": "Quảng Nam",
+    "tren 15 biet chu": 95
   },
   {
-    "Ten tinh": "Quảng Ninh",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 96.8
+    "ten tinh": "Quảng Ninh",
+    "tren 15 biet chu": 96.8
   },
   {
-    "Ten tinh": "Quảng Ngãi",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 93
+    "ten tinh": "Quảng Ngãi",
+    "tren 15 biet chu": 93
   },
   {
-    "Ten tinh": "Quảng Trị",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 92.6
+    "ten tinh": "Quảng Trị",
+    "tren 15 biet chu": 92.6
   },
   {
-    "Ten tinh": "Sóc Trăng",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 89.8
+    "ten tinh": "Sóc Trăng",
+    "tren 15 biet chu": 89.8
   },
   {
-    "Ten tinh": "Sơn La",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 77.5
+    "ten tinh": "Sơn La",
+    "tren 15 biet chu": 77.5
   },
   {
-    "Ten tinh": "Tây Ninh",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 94.3
+    "ten tinh": "Tây Ninh",
+    "tren 15 biet chu": 94.3
   },
   {
-    "Ten tinh": "Tiền Giang",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 94.9
+    "ten tinh": "Tiền Giang",
+    "tren 15 biet chu": 94.9
   },
   {
-    "Ten tinh": "TP.Hồ Chí Minh",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98.1
+    "ten tinh": "TP.Hồ Chí Minh",
+    "tren 15 biet chu": 98.1
   },
   {
-    "Ten tinh": "Tuyên Quang",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 94.7
+    "ten tinh": "Tuyên Quang",
+    "tren 15 biet chu": 94.7
   },
   {
-    "Ten tinh": "Thái Bình",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98.6
+    "ten tinh": "Thái Bình",
+    "tren 15 biet chu": 98.6
   },
   {
-    "Ten tinh": "Thái Nguyên",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 98.3
+    "ten tinh": "Thái Nguyên",
+    "tren 15 biet chu": 98.3
   },
   {
-    "Ten tinh": "Thanh Hóa",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 95.9
+    "ten tinh": "Thanh Hóa",
+    "tren 15 biet chu": 95.9
   },
   {
-    "Ten tinh": "Thừa Thiên - Huế",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 92.2
+    "ten tinh": "Thừa Thiên - Huế",
+    "tren 15 biet chu": 92.2
   },
   {
-    "Ten tinh": "Trà Vinh",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 87.8
+    "ten tinh": "Trà Vinh",
+    "tren 15 biet chu": 87.8
   },
   {
-    "Ten tinh": "Vĩnh Long",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 93.1
+    "ten tinh": "Vĩnh Long",
+    "tren 15 biet chu": 93.1
   },
   {
-    "Ten tinh": "Vĩnh Phúc",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 97.4
+    "ten tinh": "Vĩnh Phúc",
+    "tren 15 biet chu": 97.4
   },
   {
-    "Ten tinh": "Yên Bái",
-    "Ty suat dan so tren 15 tuoi biet chu theo dia phuong": 88.8
+    "ten tinh": "Yên Bái",
+    "tren 15 biet chu": 88.8
   }
 ]
