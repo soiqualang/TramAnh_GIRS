@@ -240,10 +240,10 @@
         "ket hon tb lan dau": "26,2"
     },
     {
-        "ten tinh": "Sóc Trăng",
-        "ket hon tb lan dau": "26,2"
-    },
-    {
+	"ten tinh" :  "Bạc Liêu" ,
+" ket hon tb lan dau" :  25.8 
+},
+{
         "ten tinh": "Bạc Liêu",
         "ket hon tb lan dau": "25,8"
     },
