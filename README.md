@@ -35,11 +35,9 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 #### 2016 Dân số
 
-1. [Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2016.html)
+[1.Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2016.html)
 
-1. Dân số trên 15 tuổi biết chữ
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2016.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2016.html</a>
 
 2. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo
 
