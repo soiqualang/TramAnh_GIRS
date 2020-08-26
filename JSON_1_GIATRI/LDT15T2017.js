@@ -1,258 +1,258 @@
 [
   {
-    "ten tinh": "An Giang",
-    "lao dong tren 15 tuoi": 1233.6
+    "Ten tinh": "An Giang",
+    "ld_t15": 1233.6
   },
   {
-    "ten tinh": "Bà Rịa - Vũng Tàu",
-    "lao dong tren 15 tuoi": 598.8
+    "Ten tinh": "Bà Rịa - Vũng Tàu",
+    "ld_t15": 598.8
   },
   {
-    "ten tinh": "Bạc Liêu",
-    "lao dong tren 15 tuoi": 516.2
+    "Ten tinh": "Bạc Liêu",
+    "ld_t15": 516.2
   },
   {
-    "ten tinh": "Bắc Giang",
-    "lao dong tren 15 tuoi": 1035.4
+    "Ten tinh": "Bắc Giang",
+    "ld_t15": 1035.4
   },
   {
-    "ten tinh": "Bắc Kạn",
-    "lao dong tren 15 tuoi": 229.1
+    "Ten tinh": "Bắc Kạn",
+    "ld_t15": 229.1
   },
   {
-    "ten tinh": "Bắc Ninh",
-    "lao dong tren 15 tuoi": 672.1
+    "Ten tinh": "Bắc Ninh",
+    "ld_t15": 672.1
   },
   {
-    "ten tinh": "Bến Tre",
-    "lao dong tren 15 tuoi": 810.4
+    "Ten tinh": "Bến Tre",
+    "ld_t15": 810.4
   },
   {
-    "ten tinh": "Bình Ðịnh",
-    "lao dong tren 15 tuoi": 1291.5
+    "Ten tinh": "Bình Ðịnh",
+    "ld_t15": 1291.5
   },
   {
-    "ten tinh": "Bình Dương",
-    "lao dong tren 15 tuoi": 936.2
+    "Ten tinh": "Bình Dương",
+    "ld_t15": 936.2
   },
   {
-    "ten tinh": "Bình Phước",
-    "lao dong tren 15 tuoi": 587.4
+    "Ten tinh": "Bình Phước",
+    "ld_t15": 587.4
   },
   {
-    "ten tinh": "Bình Thuận",
-    "lao dong tren 15 tuoi": 720.9
+    "Ten tinh": "Bình Thuận",
+    "ld_t15": 720.9
   },
   {
-    "ten tinh": "Cà Mau",
-    "lao dong tren 15 tuoi": 709.9
+    "Ten tinh": "Cà Mau",
+    "ld_t15": 709.9
   },
   {
-    "ten tinh": "Cao Bằng",
-    "lao dong tren 15 tuoi": 362
+    "Ten tinh": "Cao Bằng",
+    "ld_t15": 362
   },
   {
-    "ten tinh": "Cần Thơ",
-    "lao dong tren 15 tuoi": 726.7
+    "Ten tinh": "Cần Thơ",
+    "ld_t15": 726.7
   },
   {
-    "ten tinh": "Ðà Nẵng",
-    "lao dong tren 15 tuoi": 567.6
+    "Ten tinh": "Ðà Nẵng",
+    "ld_t15": 567.6
   },
   {
-    "ten tinh": "Ðắk Lắk",
-    "lao dong tren 15 tuoi": 1160.3
+    "Ten tinh": "Ðắk Lắk",
+    "ld_t15": 1160.3
   },
   {
-    "ten tinh": "Ðắk Nông",
-    "lao dong tren 15 tuoi": 390.1
+    "Ten tinh": "Ðắk Nông",
+    "ld_t15": 390.1
   },
   {
-    "ten tinh": "Ðiện Biên",
-    "lao dong tren 15 tuoi": 351.7
+    "Ten tinh": "Ðiện Biên",
+    "ld_t15": 351.7
   },
   {
-    "ten tinh": "Ðồng Nai",
-    "lao dong tren 15 tuoi": 1676.5
+    "Ten tinh": "Ðồng Nai",
+    "ld_t15": 1676.5
   },
   {
-    "ten tinh": "Ðồng Tháp",
-    "lao dong tren 15 tuoi": 1120.5
+    "Ten tinh": "Ðồng Tháp",
+    "ld_t15": 1120.5
   },
   {
-    "ten tinh": "Gia Lai",
-    "lao dong tren 15 tuoi": 870.7
+    "Ten tinh": "Gia Lai",
+    "ld_t15": 870.7
   },
   {
-    "ten tinh": "Hà Giang",
-    "lao dong tren 15 tuoi": 530.8
+    "Ten tinh": "Hà Giang",
+    "ld_t15": 530.8
   },
   {
-    "ten tinh": "Hà Nam",
-    "lao dong tren 15 tuoi": 473.5
+    "Ten tinh": "Hà Nam",
+    "ld_t15": 473.5
   },
   {
-    "ten tinh": "Hà Nội",
-    "lao dong tren 15 tuoi": 3828.1
+    "Ten tinh": "Hà Nội",
+    "ld_t15": 3828.1
   },
   {
-    "ten tinh": "Hà Tây",
-    "lao dong tren 15 tuoi": ".."
+    "Ten tinh": "Hà Tây",
+    "ld_t15": 0
   },
   {
-    "ten tinh": "Hà Tĩnh",
-    "lao dong tren 15 tuoi": 718.5
+    "Ten tinh": "Hà Tĩnh",
+    "ld_t15": 718.5
   },
   {
-    "ten tinh": "Hải Dương",
-    "lao dong tren 15 tuoi": 1035.3
+    "Ten tinh": "Hải Dương",
+    "ld_t15": 1035.3
   },
   {
-    "ten tinh": "Hải Phòng",
-    "lao dong tren 15 tuoi": 1135
+    "Ten tinh": "Hải Phòng",
+    "ld_t15": 1135
   },
   {
-    "ten tinh": "Hậu Giang",
-    "lao dong tren 15 tuoi": 479.7
+    "Ten tinh": "Hậu Giang",
+    "ld_t15": 479.7
   },
   {
-    "ten tinh": "Hoà Bình",
-    "lao dong tren 15 tuoi": 553.7
+    "Ten tinh": "Hoà Bình",
+    "ld_t15": 553.7
   },
   {
-    "ten tinh": "Hưng Yên",
-    "lao dong tren 15 tuoi": 705
+    "Ten tinh": "Hưng Yên",
+    "ld_t15": 705
   },
   {
-    "ten tinh": "Kiên Giang",
-    "lao dong tren 15 tuoi": 1008.3
+    "Ten tinh": "Kiên Giang",
+    "ld_t15": 1008.3
   },
   {
-    "ten tinh": "Kon Tum",
-    "lao dong tren 15 tuoi": 307.8
+    "Ten tinh": "Kon Tum",
+    "ld_t15": 307.8
   },
   {
-    "ten tinh": "Khánh Hoà",
-    "lao dong tren 15 tuoi": 690.2
+    "Ten tinh": "Khánh Hoà",
+    "ld_t15": 690.2
   },
   {
-    "ten tinh": "Lai Châu",
-    "lao dong tren 15 tuoi": 274.1
+    "Ten tinh": "Lai Châu",
+    "ld_t15": 274.1
   },
   {
-    "ten tinh": "Lạng Sơn",
-    "lao dong tren 15 tuoi": 510.5
+    "Ten tinh": "Lạng Sơn",
+    "ld_t15": 510.5
   },
   {
-    "ten tinh": "Lào Cai",
-    "lao dong tren 15 tuoi": 436.9
+    "Ten tinh": "Lào Cai",
+    "ld_t15": 436.9
   },
   {
-    "ten tinh": "Lâm Ðồng",
-    "lao dong tren 15 tuoi": 799
+    "Ten tinh": "Lâm Ðồng",
+    "ld_t15": 799
   },
   {
-    "ten tinh": "Long An",
-    "lao dong tren 15 tuoi": 900.5
+    "Ten tinh": "Long An",
+    "ld_t15": 900.5
   },
   {
-    "ten tinh": "Nam Ðịnh",
-    "lao dong tren 15 tuoi": 1148
+    "Ten tinh": "Nam Ðịnh",
+    "ld_t15": 1148
   },
   {
-    "ten tinh": "Ninh Bình",
-    "lao dong tren 15 tuoi": 585.6
+    "Ten tinh": "Ninh Bình",
+    "ld_t15": 585.6
   },
   {
-    "ten tinh": "Ninh Thuận",
-    "lao dong tren 15 tuoi": 352.4
+    "Ten tinh": "Ninh Thuận",
+    "ld_t15": 352.4
   },
   {
-    "ten tinh": "Nghệ An",
-    "lao dong tren 15 tuoi": 1879
+    "Ten tinh": "Nghệ An",
+    "ld_t15": 1879
   },
   {
-    "ten tinh": "Phú Thọ",
-    "lao dong tren 15 tuoi": 819.8
+    "Ten tinh": "Phú Thọ",
+    "ld_t15": 819.8
   },
   {
-    "ten tinh": "Phú Yên",
-    "lao dong tren 15 tuoi": 545.8
+    "Ten tinh": "Phú Yên",
+    "ld_t15": 545.8
   },
   {
-    "ten tinh": "Quảng Bình",
-    "lao dong tren 15 tuoi": 531.4
+    "Ten tinh": "Quảng Bình",
+    "ld_t15": 531.4
   },
   {
-    "ten tinh": "Quảng Nam",
-    "lao dong tren 15 tuoi": 913.4
+    "Ten tinh": "Quảng Nam",
+    "ld_t15": 913.4
   },
   {
-    "ten tinh": "Quảng Ninh",
-    "lao dong tren 15 tuoi": 697.8
+    "Ten tinh": "Quảng Ninh",
+    "ld_t15": 697.8
   },
   {
-    "ten tinh": "Quảng Ngãi",
-    "lao dong tren 15 tuoi": 771.5
+    "Ten tinh": "Quảng Ngãi",
+    "ld_t15": 771.5
   },
   {
-    "ten tinh": "Quảng Trị",
-    "lao dong tren 15 tuoi": 349.7
+    "Ten tinh": "Quảng Trị",
+    "ld_t15": 349.7
   },
   {
-    "ten tinh": "Sóc Trăng",
-    "lao dong tren 15 tuoi": 723.2
+    "Ten tinh": "Sóc Trăng",
+    "ld_t15": 723.2
   },
   {
-    "ten tinh": "Sơn La",
-    "lao dong tren 15 tuoi": 755.6
+    "Ten tinh": "Sơn La",
+    "ld_t15": 755.6
   },
   {
-    "ten tinh": "Tây Ninh",
-    "lao dong tren 15 tuoi": 658.4
+    "Ten tinh": "Tây Ninh",
+    "ld_t15": 658.4
   },
   {
-    "ten tinh": "Tiền Giang",
-    "lao dong tren 15 tuoi": 1113.3
+    "Ten tinh": "Tiền Giang",
+    "ld_t15": 1113.3
   },
   {
-    "ten tinh": "TP.Hồ Chí Minh",
-    "lao dong tren 15 tuoi": 4415.9
+    "Ten tinh": "TP.Hồ Chí Minh",
+    "ld_t15": 4415.9
   },
   {
-    "ten tinh": "Tuyên Quang",
-    "lao dong tren 15 tuoi": 483.5
+    "Ten tinh": "Tuyên Quang",
+    "ld_t15": 483.5
   },
   {
-    "ten tinh": "Thái Bình",
-    "lao dong tren 15 tuoi": 1104.8
+    "Ten tinh": "Thái Bình",
+    "ld_t15": 1104.8
   },
   {
-    "ten tinh": "Thái Nguyên",
-    "lao dong tren 15 tuoi": 734.9
+    "Ten tinh": "Thái Nguyên",
+    "ld_t15": 734.9
   },
   {
-    "ten tinh": "Thanh Hoá",
-    "lao dong tren 15 tuoi": 2243.2
+    "Ten tinh": "Thanh Hoá",
+    "ld_t15": 2243.2
   },
   {
-    "ten tinh": "Thừa Thiên Huế",
-    "lao dong tren 15 tuoi": 632.1
+    "Ten tinh": "Thừa Thiên Huế",
+    "ld_t15": 632.1
   },
   {
-    "ten tinh": "Trà Vinh",
-    "lao dong tren 15 tuoi": 618.7
+    "Ten tinh": "Trà Vinh",
+    "ld_t15": 618.7
   },
   {
-    "ten tinh": "Vĩnh Long",
-    "lao dong tren 15 tuoi": 635.6
+    "Ten tinh": "Vĩnh Long",
+    "ld_t15": 635.6
   },
   {
-    "ten tinh": "Vĩnh Phúc",
-    "lao dong tren 15 tuoi": 629.9
+    "Ten tinh": "Vĩnh Phúc",
+    "ld_t15": 629.9
   },
   {
-    "ten tinh": "Yên Bái",
-    "lao dong tren 15 tuoi": 525.8
+    "Ten tinh": "Yên Bái",
+    "ld_t15": 525.8
   }
 ]
