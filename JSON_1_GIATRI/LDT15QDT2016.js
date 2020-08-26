@@ -1,254 +1,254 @@
 [
   {
-    "ten tinh": "An Giang",
+    "Ten tinh": "An Giang",
     "ld t15 qua dt": 10.1
   },
   {
-    "ten tinh": "Bà Rịa - Vũng Tàu",
+    "Ten tinh": "Bà Rịa - Vũng Tàu",
     "ld t15 qua dt": 24.4
   },
   {
-    "ten tinh": "Bạc Liêu",
+    "Ten tinh": "Bạc Liêu",
     "ld t15 qua dt": 9.9
   },
   {
-    "ten tinh": "Bắc Giang",
+    "Ten tinh": "Bắc Giang",
     "ld t15 qua dt": 16.5
   },
   {
-    "ten tinh": "Bắc Kạn",
+    "Ten tinh": "Bắc Kạn",
     "ld t15 qua dt": 14.4
   },
   {
-    "ten tinh": "Bắc Ninh",
+    "Ten tinh": "Bắc Ninh",
     "ld t15 qua dt": 23.4
   },
   {
-    "ten tinh": "Bến Tre",
+    "Ten tinh": "Bến Tre",
     "ld t15 qua dt": 12.2
   },
   {
-    "ten tinh": "Bình Dương",
+    "Ten tinh": "Bình Dương",
     "ld t15 qua dt": 16.1
   },
   {
-    "ten tinh": "Bình Định",
+    "Ten tinh": "Bình Định",
     "ld t15 qua dt": 15.5
   },
   {
-    "ten tinh": "Bình Phước",
+    "Ten tinh": "Bình Phước",
     "ld t15 qua dt": 14.1
   },
   {
-    "ten tinh": "Bình Thuận",
+    "Ten tinh": "Bình Thuận",
     "ld t15 qua dt": 12.7
   },
   {
-    "ten tinh": "Cà Mau",
+    "Ten tinh": "Cà Mau",
     "ld t15 qua dt": 10.2
   },
   {
-    "ten tinh": "Cao Bằng",
+    "Ten tinh": "Cao Bằng",
     "ld t15 qua dt": 19.8
   },
   {
-    "ten tinh": "Cần Thơ",
+    "Ten tinh": "Cần Thơ",
     "ld t15 qua dt": 19.9
   },
   {
-    "ten tinh": "Đà Nẵng",
+    "Ten tinh": "Đà Nẵng",
     "ld t15 qua dt": 40.9
   },
   {
-    "ten tinh": "Đắk Lắk",
+    "Ten tinh": "Đắk Lắk",
     "ld t15 qua dt": 13.1
   },
   {
-    "ten tinh": "Đắk Nông",
+    "Ten tinh": "Đắk Nông",
     "ld t15 qua dt": 8.7
   },
   {
-    "ten tinh": "Điện Biên",
+    "Ten tinh": "Điện Biên",
     "ld t15 qua dt": 17.2
   },
   {
-    "ten tinh": "Đồng Nai",
+    "Ten tinh": "Đồng Nai",
     "ld t15 qua dt": 20.6
   },
   {
-    "ten tinh": "Đồng Tháp",
+    "Ten tinh": "Đồng Tháp",
     "ld t15 qua dt": 11.6
   },
   {
-    "ten tinh": "Gia Lai",
+    "Ten tinh": "Gia Lai",
     "ld t15 qua dt": 11.2
   },
   {
-    "ten tinh": "Hà Giang",
+    "Ten tinh": "Hà Giang",
     "ld t15 qua dt": 9.8
   },
   {
-    "ten tinh": "Hà Nam",
+    "Ten tinh": "Hà Nam",
     "ld t15 qua dt": 16.3
   },
   {
-    "ten tinh": "Hà Nội",
+    "Ten tinh": "Hà Nội",
     "ld t15 qua dt": 42.7
   },
   {
-    "ten tinh": "Hà Tĩnh",
+    "Ten tinh": "Hà Tĩnh",
     "ld t15 qua dt": 21.3
   },
   {
-    "ten tinh": "Hải Dương",
+    "Ten tinh": "Hải Dương",
     "ld t15 qua dt": 19.1
   },
   {
-    "ten tinh": "Hải Phòng",
+    "Ten tinh": "Hải Phòng",
     "ld t15 qua dt": 32.3
   },
   {
-    "ten tinh": "Hậu Giang",
+    "Ten tinh": "Hậu Giang",
     "ld t15 qua dt": 9.8
   },
   {
-    "ten tinh": "Hoà Bình",
+    "Ten tinh": "Hoà Bình",
     "ld t15 qua dt": 17.5
   },
   {
-    "ten tinh": "Hưng Yên",
+    "Ten tinh": "Hưng Yên",
     "ld t15 qua dt": 21.3
   },
   {
-    "ten tinh": "Kiên Giang",
+    "Ten tinh": "Kiên Giang",
     "ld t15 qua dt": 12.3
   },
   {
-    "ten tinh": "Kon Tum",
+    "Ten tinh": "Kon Tum",
     "ld t15 qua dt": 16
   },
   {
-    "ten tinh": "Khánh Hoà",
+    "Ten tinh": "Khánh Hoà",
     "ld t15 qua dt": 25.4
   },
   {
-    "ten tinh": "Lai Châu",
+    "Ten tinh": "Lai Châu",
     "ld t15 qua dt": 12.4
   },
   {
-    "ten tinh": "Lạng Sơn",
+    "Ten tinh": "Lạng Sơn",
     "ld t15 qua dt": 15.8
   },
   {
-    "ten tinh": "Lào Cai",
+    "Ten tinh": "Lào Cai",
     "ld t15 qua dt": 15.8
   },
   {
-    "ten tinh": "Lâm Đồng",
+    "Ten tinh": "Lâm Đồng",
     "ld t15 qua dt": 16
   },
   {
-    "ten tinh": "Long An",
+    "Ten tinh": "Long An",
     "ld t15 qua dt": 12.6
   },
   {
-    "ten tinh": "Nam Định",
+    "Ten tinh": "Nam Định",
     "ld t15 qua dt": 14.4
   },
   {
-    "ten tinh": "Ninh Bình",
+    "Ten tinh": "Ninh Bình",
     "ld t15 qua dt": 27.4
   },
   {
-    "ten tinh": "Ninh Thuận",
+    "Ten tinh": "Ninh Thuận",
     "ld t15 qua dt": 15.4
   },
   {
-    "ten tinh": "Nghệ An",
+    "Ten tinh": "Nghệ An",
     "ld t15 qua dt": 16.9
   },
   {
-    "ten tinh": "Phú Thọ",
+    "Ten tinh": "Phú Thọ",
     "ld t15 qua dt": 20.3
   },
   {
-    "ten tinh": "Phú Yên",
+    "Ten tinh": "Phú Yên",
     "ld t15 qua dt": 16.3
   },
   {
-    "ten tinh": "Quảng Bình",
+    "Ten tinh": "Quảng Bình",
     "ld t15 qua dt": 18
   },
   {
-    "ten tinh": "Quảng Nam",
+    "Ten tinh": "Quảng Nam",
     "ld t15 qua dt": 17.9
   },
   {
-    "ten tinh": "Quảng Ninh",
+    "Ten tinh": "Quảng Ninh",
     "ld t15 qua dt": 34.2
   },
   {
-    "ten tinh": "Quảng Ngãi",
+    "Ten tinh": "Quảng Ngãi",
     "ld t15 qua dt": 19.4
   },
   {
-    "ten tinh": "Quảng Trị",
+    "Ten tinh": "Quảng Trị",
     "ld t15 qua dt": 22.6
   },
   {
-    "ten tinh": "Sóc Trăng",
+    "Ten tinh": "Sóc Trăng",
     "ld t15 qua dt": 9.8
   },
   {
-    "ten tinh": "Sơn La",
+    "Ten tinh": "Sơn La",
     "ld t15 qua dt": 13.2
   },
   {
-    "ten tinh": "Tây Ninh",
+    "Ten tinh": "Tây Ninh",
     "ld t15 qua dt": 15.4
   },
   {
-    "ten tinh": "Tiền Giang",
+    "Ten tinh": "Tiền Giang",
     "ld t15 qua dt": 11.7
   },
   {
-    "ten tinh": "TP.Hồ Chí Minh",
+    "Ten tinh": "TP.Hồ Chí Minh",
     "ld t15 qua dt": 34.8
   },
   {
-    "ten tinh": "Tuyên Quang",
+    "Ten tinh": "Tuyên Quang",
     "ld t15 qua dt": 19.6
   },
   {
-    "ten tinh": "Thái Bình",
+    "Ten tinh": "Thái Bình",
     "ld t15 qua dt": 13.5
   },
   {
-    "ten tinh": "Thái Nguyên",
+    "Ten tinh": "Thái Nguyên",
     "ld t15 qua dt": 29.4
   },
   {
-    "ten tinh": "Thanh Hoá",
+    "Ten tinh": "Thanh Hoá",
     "ld t15 qua dt": 21.4
   },
   {
-    "ten tinh": "Thừa Thiên Huế",
+    "Ten tinh": "Thừa Thiên Huế",
     "ld t15 qua dt": 23.9
   },
   {
-    "ten tinh": "Trà Vinh",
+    "Ten tinh": "Trà Vinh",
     "ld t15 qua dt": 11.7
   },
   {
-    "ten tinh": "Vĩnh Long",
+    "Ten tinh": "Vĩnh Long",
     "ld t15 qua dt": 14.4
   },
   {
-    "ten tinh": "Vĩnh Phúc",
+    "Ten tinh": "Vĩnh Phúc",
     "ld t15 qua dt": 19.7
   },
   {
-    "ten tinh": "Yên Bái",
+    "Ten tinh": "Yên Bái",
     "ld t15 qua dt": 15.8
   }
 ]

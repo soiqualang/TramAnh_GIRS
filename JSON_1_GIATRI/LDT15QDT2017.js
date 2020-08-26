@@ -1,254 +1,254 @@
 [
   {
-    "ten tinh": "An Giang",
-    "ld tren 15 kt qua dao tao": 11.9
+    "Ten tinh": "An Giang",
+    "ld t15 qua dt": 11.9
   },
   {
-    "ten tinh": "Bà Rịa - Vũng Tàu",
-    "ld tren 15 kt qua dao tao": 27.1
+    "Ten tinh": "Bà Rịa - Vũng Tàu",
+    "ld t15 qua dt": 27.1
   },
   {
-    "ten tinh": "Bạc Liêu",
-    "ld tren 15 kt qua dao tao": 8.6
+    "Ten tinh": "Bạc Liêu",
+    "ld t15 qua dt": 8.6
   },
   {
-    "ten tinh": "Bắc Giang",
-    "ld tren 15 kt qua dao tao": 14.9
+    "Ten tinh": "Bắc Giang",
+    "ld t15 qua dt": 14.9
   },
   {
-    "ten tinh": "Bắc Kạn",
-    "ld tren 15 kt qua dao tao": 16.3
+    "Ten tinh": "Bắc Kạn",
+    "ld t15 qua dt": 16.3
   },
   {
-    "ten tinh": "Bắc Ninh",
-    "ld tren 15 kt qua dao tao": 26.6
+    "Ten tinh": "Bắc Ninh",
+    "ld t15 qua dt": 26.6
   },
   {
-    "ten tinh": "Bến Tre",
-    "ld tren 15 kt qua dao tao": 13
+    "Ten tinh": "Bến Tre",
+    "ld t15 qua dt": 13
   },
   {
-    "ten tinh": "Bình Ðịnh",
-    "ld tren 15 kt qua dao tao": 16.8
+    "Ten tinh": "Bình Ðịnh",
+    "ld t15 qua dt": 16.8
   },
   {
-    "ten tinh": "Bình Dương",
-    "ld tren 15 kt qua dao tao": 19.5
+    "Ten tinh": "Bình Dương",
+    "ld t15 qua dt": 19.5
   },
   {
-    "ten tinh": "Bình Phước",
-    "ld tren 15 kt qua dao tao": 14.3
+    "Ten tinh": "Bình Phước",
+    "ld t15 qua dt": 14.3
   },
   {
-    "ten tinh": "Bình Thuận",
-    "ld tren 15 kt qua dao tao": 15.5
+    "Ten tinh": "Bình Thuận",
+    "ld t15 qua dt": 15.5
   },
   {
-    "ten tinh": "Cà Mau",
-    "ld tren 15 kt qua dao tao": 9.8
+    "Ten tinh": "Cà Mau",
+    "ld t15 qua dt": 9.8
   },
   {
-    "ten tinh": "Cao Bằng",
-    "ld tren 15 kt qua dao tao": 20.9
+    "Ten tinh": "Cao Bằng",
+    "ld t15 qua dt": 20.9
   },
   {
-    "ten tinh": "Cần Thơ",
-    "ld tren 15 kt qua dao tao": 21.8
+    "Ten tinh": "Cần Thơ",
+    "ld t15 qua dt": 21.8
   },
   {
-    "ten tinh": "Ðà Nẵng",
-    "ld tren 15 kt qua dao tao": 40.5
+    "Ten tinh": "Ðà Nẵng",
+    "ld t15 qua dt": 40.5
   },
   {
-    "ten tinh": "Ðắk Lắk",
-    "ld tren 15 kt qua dao tao": 13.5
+    "Ten tinh": "Ðắk Lắk",
+    "ld t15 qua dt": 13.5
   },
   {
-    "ten tinh": "Ðắk Nông",
-    "ld tren 15 kt qua dao tao": 11.8
+    "Ten tinh": "Ðắk Nông",
+    "ld t15 qua dt": 11.8
   },
   {
-    "ten tinh": "Ðiện Biên",
-    "ld tren 15 kt qua dao tao": 14.1
+    "Ten tinh": "Ðiện Biên",
+    "ld t15 qua dt": 14.1
   },
   {
-    "ten tinh": "Ðồng Nai",
-    "ld tren 15 kt qua dao tao": 22.4
+    "Ten tinh": "Ðồng Nai",
+    "ld t15 qua dt": 22.4
   },
   {
-    "ten tinh": "Ðồng Tháp",
-    "ld tren 15 kt qua dao tao": 15.3
+    "Ten tinh": "Ðồng Tháp",
+    "ld t15 qua dt": 15.3
   },
   {
-    "ten tinh": "Gia Lai",
-    "ld tren 15 kt qua dao tao": 10.6
+    "Ten tinh": "Gia Lai",
+    "ld t15 qua dt": 10.6
   },
   {
-    "ten tinh": "Hà Giang",
-    "ld tren 15 kt qua dao tao": 17
+    "Ten tinh": "Hà Giang",
+    "ld t15 qua dt": 17
   },
   {
-    "ten tinh": "Hà Nam",
-    "ld tren 15 kt qua dao tao": 12
+    "Ten tinh": "Hà Nam",
+    "ld t15 qua dt": 12
   },
   {
-    "ten tinh": "Hà Nội",
-    "ld tren 15 kt qua dao tao": 20.2
+    "Ten tinh": "Hà Nội",
+    "ld t15 qua dt": 20.2
   },
   {
-    "ten tinh": "Hà Tĩnh",
-    "ld tren 15 kt qua dao tao": 42.9
+    "Ten tinh": "Hà Tĩnh",
+    "ld t15 qua dt": 42.9
   },
   {
-    "ten tinh": "Hải Dương",
-    "ld tren 15 kt qua dao tao": 23.4
+    "Ten tinh": "Hải Dương",
+    "ld t15 qua dt": 23.4
   },
   {
-    "ten tinh": "Hải Phòng",
-    "ld tren 15 kt qua dao tao": 20.7
+    "Ten tinh": "Hải Phòng",
+    "ld t15 qua dt": 20.7
   },
   {
-    "ten tinh": "Hậu Giang",
-    "ld tren 15 kt qua dao tao": 33.8
+    "Ten tinh": "Hậu Giang",
+    "ld t15 qua dt": 33.8
   },
   {
-    "ten tinh": "Hoà Bình",
-    "ld tren 15 kt qua dao tao": 8.9
+    "Ten tinh": "Hoà Bình",
+    "ld t15 qua dt": 8.9
   },
   {
-    "ten tinh": "Hưng Yên",
-    "ld tren 15 kt qua dao tao": 22.5
+    "Ten tinh": "Hưng Yên",
+    "ld t15 qua dt": 22.5
   },
   {
-    "ten tinh": "Kiên Giang",
-    "ld tren 15 kt qua dao tao": 10.9
+    "Ten tinh": "Kiên Giang",
+    "ld t15 qua dt": 10.9
   },
   {
-    "ten tinh": "Kon Tum",
-    "ld tren 15 kt qua dao tao": 17.2
+    "Ten tinh": "Kon Tum",
+    "ld t15 qua dt": 17.2
   },
   {
-    "ten tinh": "Khánh Hoà",
-    "ld tren 15 kt qua dao tao": 18.4
+    "Ten tinh": "Khánh Hoà",
+    "ld t15 qua dt": 18.4
   },
   {
-    "ten tinh": "Lai Châu",
-    "ld tren 15 kt qua dao tao": 15.2
+    "Ten tinh": "Lai Châu",
+    "ld t15 qua dt": 15.2
   },
   {
-    "ten tinh": "Lạng Sơn",
-    "ld tren 15 kt qua dao tao": 15.8
+    "Ten tinh": "Lạng Sơn",
+    "ld t15 qua dt": 15.8
   },
   {
-    "ten tinh": "Lào Cai",
-    "ld tren 15 kt qua dao tao": 18.5
+    "Ten tinh": "Lào Cai",
+    "ld t15 qua dt": 18.5
   },
   {
-    "ten tinh": "Lâm Ðồng",
-    "ld tren 15 kt qua dao tao": 18.9
+    "Ten tinh": "Lâm Ðồng",
+    "ld t15 qua dt": 18.9
   },
   {
-    "ten tinh": "Long An",
-    "ld tren 15 kt qua dao tao": 14.7
+    "Ten tinh": "Long An",
+    "ld t15 qua dt": 14.7
   },
   {
-    "ten tinh": "Nam Ðịnh",
-    "ld tren 15 kt qua dao tao": 18.3
+    "Ten tinh": "Nam Ðịnh",
+    "ld t15 qua dt": 18.3
   },
   {
-    "ten tinh": "Ninh Bình",
-    "ld tren 15 kt qua dao tao": 26.9
+    "Ten tinh": "Ninh Bình",
+    "ld t15 qua dt": 26.9
   },
   {
-    "ten tinh": "Ninh Thuận",
-    "ld tren 15 kt qua dao tao": 14.3
+    "Ten tinh": "Ninh Thuận",
+    "ld t15 qua dt": 14.3
   },
   {
-    "ten tinh": "Nghệ An",
-    "ld tren 15 kt qua dao tao": 20.2
+    "Ten tinh": "Nghệ An",
+    "ld t15 qua dt": 20.2
   },
   {
-    "ten tinh": "Phú Thọ",
-    "ld tren 15 kt qua dao tao": 21.6
+    "Ten tinh": "Phú Thọ",
+    "ld t15 qua dt": 21.6
   },
   {
-    "ten tinh": "Phú Yên",
-    "ld tren 15 kt qua dao tao": 17.8
+    "Ten tinh": "Phú Yên",
+    "ld t15 qua dt": 17.8
   },
   {
-    "ten tinh": "Quảng Bình",
-    "ld tren 15 kt qua dao tao": 21.2
+    "Ten tinh": "Quảng Bình",
+    "ld t15 qua dt": 21.2
   },
   {
-    "ten tinh": "Quảng Nam",
-    "ld tren 15 kt qua dao tao": 19.5
+    "Ten tinh": "Quảng Nam",
+    "ld t15 qua dt": 19.5
   },
   {
-    "ten tinh": "Quảng Ninh",
-    "ld tren 15 kt qua dao tao": 34.1
+    "Ten tinh": "Quảng Ninh",
+    "ld t15 qua dt": 34.1
   },
   {
-    "ten tinh": "Quảng Ngãi",
-    "ld tren 15 kt qua dao tao": 17.2
+    "Ten tinh": "Quảng Ngãi",
+    "ld t15 qua dt": 17.2
   },
   {
-    "ten tinh": "Quảng Trị",
-    "ld tren 15 kt qua dao tao": 23.7
+    "Ten tinh": "Quảng Trị",
+    "ld t15 qua dt": 23.7
   },
   {
-    "ten tinh": "Sóc Trăng",
-    "ld tren 15 kt qua dao tao": 10.1
+    "Ten tinh": "Sóc Trăng",
+    "ld t15 qua dt": 10.1
   },
   {
-    "ten tinh": "Sơn La",
-    "ld tren 15 kt qua dao tao": 14.8
+    "Ten tinh": "Sơn La",
+    "ld t15 qua dt": 14.8
   },
   {
-    "ten tinh": "Tây Ninh",
-    "ld tren 15 kt qua dao tao": 12.4
+    "Ten tinh": "Tây Ninh",
+    "ld t15 qua dt": 12.4
   },
   {
-    "ten tinh": "Tiền Giang",
-    "ld tren 15 kt qua dao tao": 10.5
+    "Ten tinh": "Tiền Giang",
+    "ld t15 qua dt": 10.5
   },
   {
-    "ten tinh": "TP.Hồ Chí Minh",
-    "ld tren 15 kt qua dao tao": 36.7
+    "Ten tinh": "TP.Hồ Chí Minh",
+    "ld t15 qua dt": 36.7
   },
   {
-    "ten tinh": "Tuyên Quang",
-    "ld tren 15 kt qua dao tao": 15.7
+    "Ten tinh": "Tuyên Quang",
+    "ld t15 qua dt": 15.7
   },
   {
-    "ten tinh": "Thái Bình",
-    "ld tren 15 kt qua dao tao": 15.4
+    "Ten tinh": "Thái Bình",
+    "ld t15 qua dt": 15.4
   },
   {
-    "ten tinh": "Thái Nguyên",
-    "ld tren 15 kt qua dao tao": 27.1
+    "Ten tinh": "Thái Nguyên",
+    "ld t15 qua dt": 27.1
   },
   {
-    "ten tinh": "Thanh Hoá",
-    "ld tren 15 kt qua dao tao": 19.5
+    "Ten tinh": "Thanh Hoá",
+    "ld t15 qua dt": 19.5
   },
   {
-    "ten tinh": "Thừa Thiên Huế",
-    "ld tren 15 kt qua dao tao": 26.3
+    "Ten tinh": "Thừa Thiên Huế",
+    "ld t15 qua dt": 26.3
   },
   {
-    "ten tinh": "Trà Vinh",
-    "ld tren 15 kt qua dao tao": 12
+    "Ten tinh": "Trà Vinh",
+    "ld t15 qua dt": 12
   },
   {
-    "ten tinh": "Vĩnh Long",
-    "ld tren 15 kt qua dao tao": 13.7
+    "Ten tinh": "Vĩnh Long",
+    "ld t15 qua dt": 13.7
   },
   {
-    "ten tinh": "Vĩnh Phúc",
-    "ld tren 15 kt qua dao tao": 21.9
+    "Ten tinh": "Vĩnh Phúc",
+    "ld t15 qua dt": 21.9
   },
   {
-    "ten tinh": "Yên Bái",
-    "ld tren 15 kt qua dao tao": 16.9
+    "Ten tinh": "Yên Bái",
+    "ld t15 qua dt": 16.9
   }
 ]
