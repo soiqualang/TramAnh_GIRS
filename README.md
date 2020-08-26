@@ -4,16 +4,16 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 <a href="https://soiqualang.github.io/TramAnh_GIRS/" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/</a>
 
-### Nội dung
+# Nội dung
 
-#### Map
+**## Map**
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/MAP/Interactive_Choropleth_Map.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/Interactive_Choropleth_Map.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/MAP/Layer_Groups_and_Layers_Control.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/Layer_Groups_and_Layers_Control.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRSMAP/map.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/map.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRSMAP/mapmau_mapbox.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/mapmau_mapbox.html</a>
 
-#### Form 3 Năm
+**## Form 3 Năm**
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/laodongt15tsotongds.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/laodongt15tsotongds.html</a>
@@ -23,7 +23,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html</a>
 
-#### Chart 3 Giá Trị Line
+**## Chart 3 Giá Trị Line**
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethon2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethon2018.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tuvongdkkhaitu2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tuvongdkkhaitu2018.html</a>
@@ -31,9 +31,9 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2017.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2018.html</a>
 
-#### Chart 1 Giá Trị Column
+**## Chart 1 Giá Trị Column**
 
-#### 2016 Dân số
+*### 2016 Dân số*
 
 [1. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2016.html)
 
@@ -55,91 +55,51 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2016.html)
 
-#### 2017 Dân số
+*### 2017 Dân số*
 
-#### Dân số trên 15 tuổi biết chữ
+[1. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2017.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2017.html</a>
+[2. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15QDT2017.html)
 
-#### Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo
+[3. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15T2017.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15QDT2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15QDT2017.html</a>
+[4. Kết hôn trung bình lần đầu](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/kethontblandau2017.html)
 
-#### Lao động trên 15 tuổi
+[5. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/laodongt15tsotongds2017.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15T2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15T2017.html</a>
+[6. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tongtysuatsinh2017.html)
 
-#### Kết hôn trung bình lần đầu
+[7. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tyletangds2017.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/kethontblandau2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/kethontblandau2017.html</a>
+[8. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysogioitinh2017.html)
 
-#### Lao động trên 15 tuổi so với tổng dân số
+[9. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi1t2017.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/laodongt15tsotongds2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/laodongt15tsotongds2017.html</a>
+[10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2017.html)
 
-#### Tổng tỷ suất sinh
+*### 2018 Dân số*
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tongtysuatsinh2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tongtysuatsinh2017.html</a>
+[1. Dân số trên 15 tuổi biết chữ ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2018.html)
 
-#### Tỷ lệ tăng dân số
+[2. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15QDT2018.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tyletangds2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tyletangds2017.html</a>
+[3. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15T2018.html)
 
-#### Tỷ số giới tính
+[4. Kết hôn trung bình lần đầu](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/kethontblandau2018.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysogioitinh2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysogioitinh2017.html</a>
+[5. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/laodongt15tsotongds2018.html)
 
-#### Tỷ suất chết dưới 1 tuổi
+[6. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tongtysuatsinh2018.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi1t2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi1t2017.html</a>
+[7. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tyletangds2018.html)
 
-#### Tỷ suất chết dưới 5 tuổi
+[8. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysogioitinh2018.html)
 
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2017.html</a>
+[9. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi1t2018.html)
 
-#### 2018 Dân số
-
-#### Dân số trên 15 tuổi biết chữ 
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2018.html</a>
-
-#### Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15QDT2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15QDT2018.html</a>
-
-#### Lao động trên 15 tuổi
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15T2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/LDT15T2018.html</a>
-
-#### Kết hôn trung bình lần đầu
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/kethontblandau2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/kethontblandau2018.html</a>
-
-#### Lao động trên 15 tuổi so với tổng dân số
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/laodongt15tsotongds2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/laodongt15tsotongds2018.html</a>
-
-#### Tổng tỷ suất sinh
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tongtysuatsinh2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tongtysuatsinh2018.html</a>
-
-#### Tỷ lệ tăng dân số
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tyletangds2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tyletangds2018.html</a>
-
-#### Tỷ số giới tính
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysogioitinh2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysogioitinh2018.html</a>
-
-#### Tỷ suất chết dưới 1 tuổi
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi1t2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi1t2018.html</a>
-
-#### Tỷ suất chết dưới 5 tuổi
-
-* <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2018.html</a>
+[10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2018.html)
    
-#### Chart JS
+**#### Chart JS**
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html</a>
