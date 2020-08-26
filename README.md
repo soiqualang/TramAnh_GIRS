@@ -111,6 +111,74 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 [9. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi1t2018.html)
 
 [10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2018.html)
+
+### Chart 1 Giá Trị Line
+
+#### 2016 Dân số
+
+[1. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/DST15BCHU2016.html)
+
+[2. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/LDT15QDT2016.html)
+
+[3. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/LDT15T2016.html)
+
+[4. Kết hôn trung bình lần đầu](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/kethontblandau2016.html)
+
+[5. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/laodongt15tsotongds2016.html)
+
+[6. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tongtysuatsinh2016.html)
+
+[7. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tyletangds2016.html)
+
+[8. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysogioitinh2016.html)
+
+[9. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi1t2016.html)
+
+[10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi5t2016.html)
+
+#### 2017 Dân số
+
+[1. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/DST15BCHU2017.html)
+
+[2. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/LDT15QDT2017.html)
+
+[3. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/LDT15T2017.html)
+
+[4. Kết hôn trung bình lần đầu](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/kethontblandau2017.html)
+
+[5. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/laodongt15tsotongds2017.html)
+
+[6. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tongtysuatsinh2017.html)
+
+[7. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tyletangds2017.html)
+
+[8. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysogioitinh2017.html)
+
+[9. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi1t2017.html)
+
+[10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi5t2017.html)
+
+#### 2018 Dân số
+
+[1. Dân số trên 15 tuổi biết chữ ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/DST15BCHU2018.html)
+
+[2. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/LDT15QDT2018.html)
+
+[3. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/LDT15T2018.html)
+
+[4. Kết hôn trung bình lần đầu](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/kethontblandau2018.html)
+
+[5. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/laodongt15tsotongds2018.html)
+
+[6. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tongtysuatsinh2018.html)
+
+[7. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tyletangds2018.html)
+
+[8. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysogioitinh2018.html)
+
+[9. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi1t2018.html)
+
+[10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi5t2018.html)
    
 ### Chart JS
 
