@@ -95,10 +95,6 @@
         "tl lao dong tren 15t dang lam viec so voi tong ds": 50.5
     },
     {
-        "ten tinh": "Hà Tây",
-        "tl lao dong tren 15t dang lam viec so voi tong ds": 0
-    },
-    {
         "ten tinh": "Hà Tĩnh",
         "tl lao dong tren 15t dang lam viec so voi tong ds": 54.6
     },

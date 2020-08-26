@@ -15,7 +15,7 @@
 			height: 500px;
 	}
 	</style>
-			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ lao động trên 15 tuổi so tổng dân số năm 2017</h1>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ tỷ suất chết dưới 5 tuổi năm 2016</h1>
 
 	<!-- Resources -->
 	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
@@ -31,7 +31,7 @@
             // Ajax lấy dữ liệu
             $.ajax({
                 type: 'GET',
-                url : '../JSON_1_GIATRI/laodongt15tsotongds2017.js',
+                url : '../JSON_1_GIATRI/tysuatchetduoi5t2016.js',
                 dataType:'script',
                 success: function(data) {
                     data_ajax =  eval(data);
@@ -70,7 +70,7 @@
                 // Create series
                 var series = chart.series.push(new am4charts.ColumnSeries());
                 series.sequencedInterpolation = true;
-                series.dataFields.valueY = "tl lao dong tren 15t dang lam viec so voi tong ds";
+                series.dataFields.valueY = "ts chet duoi 5t";
                 series.dataFields.categoryX = "ten tinh";
                 series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
                 series.columns.template.strokeWidth = 0;

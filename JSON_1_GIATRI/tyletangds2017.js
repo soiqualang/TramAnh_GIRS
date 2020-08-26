@@ -3,10 +3,6 @@
         "tl tang ds": 1.5
     },
     {
-        "ten tinh": "Hà Tây",
-        "tl tang ds": 0
-    },
-    {
         "ten tinh": "Vĩnh Phúc",
         "tl tang ds": 1.27
     },

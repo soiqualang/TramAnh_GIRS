@@ -95,10 +95,6 @@
         "tong ts sinh": 2.06
     },
     {
-        "ten tinh": "Hà Tây",
-        "tong ts sinh": 0
-    },
-    {
         "ten tinh": "Hà Tĩnh",
         "tong ts sinh": 3.21
     },

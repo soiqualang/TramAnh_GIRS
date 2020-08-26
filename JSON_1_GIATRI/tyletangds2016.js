@@ -95,10 +95,6 @@
         "tl tang ds": 1.5
     },
     {
-        "ten tinh": "Hà Tây",
-        "tl tang ds": 0
-    },
-    {
         "ten tinh": "Hà Tĩnh",
         "tl tang ds": 0.43
     },

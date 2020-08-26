@@ -95,10 +95,6 @@
         "ts chet duoi 1t": 10.0
     },
     {
-        "ten tinh": "Hà Tây",
-        "ts chet duoi 1t": 0
-    },
-    {
         "ten tinh": "Hà Tĩnh",
         "ts chet duoi 1t": 16.8
     },

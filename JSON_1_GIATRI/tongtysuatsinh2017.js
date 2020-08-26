@@ -3,10 +3,6 @@
         "tong ts sinh": 2
     },
     {
-        "ten tinh": "Hà Tây",
-        "tong ts sinh": 0
-    },
-    {
         "ten tinh": "Vĩnh Phúc",
         "tong ts sinh": 2.34
     },

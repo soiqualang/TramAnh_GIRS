@@ -3,10 +3,6 @@
         "ts chet duoi 1t": 9.8
     },
     {
-        "ten tinh": "Hà Tây",
-        "ts chet duoi 1t": 0
-    },
-    {
         "ten tinh": "Vĩnh Phúc",
         "ts chet duoi 1t": 12.4
     },

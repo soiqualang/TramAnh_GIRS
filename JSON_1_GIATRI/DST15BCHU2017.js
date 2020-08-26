@@ -96,10 +96,6 @@
     "tren 15 biet chu": 98.7
   },
   {
-    "ten tinh": "Hà Tây",
-    "tren 15 biet chu": 0
-  },
-  {
     "ten tinh": "Hà Tĩnh",
     "tren 15 biet chu": 98.1
   },
