@@ -16,7 +16,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [4. Mapbox](https://soiqualang.github.io/TramAnh_GIRS/MAP/mapmau_mapbox.html)
 
-### Form 3 Năm
+### Form 3 Năm 1 Giá Trị
 
 [1. Kết hôn lần đầu](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html)
 
@@ -31,6 +31,12 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 [6. Tỷ sUất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html)
 
 [7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html)
+
+[8. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/DST15BCHU.html)
+
+[9. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/LDT15QDT.html)
+
+[10. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/LDT15T.html)
 
 ### Chart 3 Giá Trị Line
 
