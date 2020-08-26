@@ -1,0 +1,109 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Chart duoi 5 tuoi</title>
+    <!-- Resources -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <!-- Styles -->
+<style>
+    #chartdiv {
+        width: 100%;
+        height: 500px;
+    }
+</style>
+<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ tỷ suất chết đuối dưới 5 tuổi năm 2018</h1>
+
+<!-- Resources -->
+<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+
+<!-- Chart code -->
+<script>
+    $(document).ready(function(){
+            var data_ajax = '';
+            // Ajax lấy dữ liệu
+            $.ajax({
+                type: 'GET',
+                url : '../JSON_1_GIATRI/tysuatchetduoi5t2018.js',
+                dataType:'script',
+                success: function(data) {
+                    data_ajax =  eval(data);
+                }
+            });
+            $(document).ajaxComplete(function() {
+    am4core.ready(function() {
+
+        // Themes begin
+        am4core.useTheme(am4themes_animated);
+        // Themes end
+
+        // Create chart instance
+        var chart = am4core.create("chartdiv", am4charts.XYChart);
+        chart.scrollbarX = new am4core.Scrollbar();
+
+        // Add data
+        chart.data = data_ajax ;
+        //chart.padding(40, 40, 40, 40);
+        // Create axes category
+        var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+        categoryAxis.renderer.grid.template.location = 0;
+        categoryAxis.dataFields.category = "ten tinh";
+        //Định dang label
+        categoryAxis.renderer.minGridDistance = 5;
+        categoryAxis.renderer.labels.template.horizontalCenter = "right";
+        categoryAxis.renderer.labels.template.verticalCenter = "middle";
+        //label dọc
+        categoryAxis.renderer.labels.template.rotation = 270;
+        //categoryAxis.tooltip.disabled = false;
+        categoryAxis.renderer.minHeight = 5;
+        // Create axes value
+        var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+        valueAxis.renderer.minWidth = 20;
+        // Create series_Line
+        var series = chart.series.push(new am4charts.LineSeries());
+        series.dataFields.categoryX = "ten tinh";
+        series.dataFields.valueY = "tren 15 biet chu";
+        series.tooltipText = "{valueY}";
+
+        var errorBullet = series.bullets.create(am4charts.Circle);
+        errorBullet.isDynamic = false;
+        errorBullet.strokeWidth = 1;
+
+        var circle = errorBullet.createChild(am4core.Circle);
+        circle.radius = 4;
+        circle.fill = am4core.color("red");
+
+        // adapter adjusts height of a bullet
+
+        errorBullet.adapter.add("pixelHeight", function(pixelHeight, target) {
+            var dataItem = target.dataItem;
+
+            if (dataItem) {
+                var value = dataItem.valueY;
+                var errorTopValue = value + dataItem.dataContext.error / 2;
+                var errorTopY = valueAxis.valueToPoint(errorTopValue).y;
+
+                var errorBottomValue = value - dataItem.dataContext.error / 2;
+                var errorBottomY = valueAxis.valueToPoint(errorBottomValue).y;
+
+                return Math.abs(errorTopY - errorBottomY);
+            }
+            return pixelHeight;
+        });
+
+        // Cursor
+        chart.cursor = new am4charts.XYCursor();
+
+    }); // end am4core.ready()
+});
+});
+</script>
+
+<!-- HTML -->
+<div id="chartdiv"></div>
+
+</body>
+</html>
