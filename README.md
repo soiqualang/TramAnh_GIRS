@@ -28,7 +28,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [5. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysogioitinh.html)
 
-[6. Tỷ sất xheets dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html)
+[6. Tỷ sUất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html)
 
 [7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html)
 
