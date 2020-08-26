@@ -6,14 +6,14 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 ## Nội dung
 
-###**Map**
+### Map
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/MAP/Interactive_Choropleth_Map.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/Interactive_Choropleth_Map.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/MAP/Layer_Groups_and_Layers_Control.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/Layer_Groups_and_Layers_Control.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRSMAP/map.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/map.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRSMAP/mapmau_mapbox.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/MAP/mapmau_mapbox.html</a>
 
-###**Form 3 Năm**
+### Form 3 Năm
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/laodongt15tsotongds.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/laodongt15tsotongds.html</a>
@@ -23,7 +23,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html</a>
 
-###**Chart 3 Giá Trị Line**
+### Chart 3 Giá Trị Line
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethon2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethon2018.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tuvongdkkhaitu2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tuvongdkkhaitu2018.html</a>
@@ -31,9 +31,9 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2017.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2017.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2018.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2018.html</a>
 
-###**Chart 1 Giá Trị Column**
+### Chart 1 Giá Trị Column
 
-####*2016 Dân số*
+#### 2016 Dân số
 
 [1. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2016.html)
 
@@ -55,7 +55,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2016.html)
 
-####*2017 Dân số*
+#### 2017 Dân số
 
 [1. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2017.html)
 
@@ -77,7 +77,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2017.html)
 
-####*2018 Dân số*
+#### 2018 Dân số
 
 [1. Dân số trên 15 tuổi biết chữ ](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/DST15BCHU2018.html)
 
@@ -99,7 +99,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_COLUMN/tysuatchetduoi5t2018.html)
    
-###**Chart JS**
+### Chart JS
 
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html</a>
 * <a href="https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html" target="_blank">https://soiqualang.github.io/TramAnh_GIRS/jschart/chart2.html</a>
