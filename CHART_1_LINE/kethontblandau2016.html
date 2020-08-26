@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Chart duoi 5 tuoi</title>
+    <title>Biểu đồ kết hôn trung bình lần đầu năm 2016</title>
     <!-- Resources -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
@@ -27,7 +27,7 @@
             // Ajax lấy dữ liệu
             $.ajax({
                 type: 'GET',
-                url : '../JSON_1_GIATRI/kethontblandau2016.js.js',
+                url : '../JSON_1_GIATRI/kethontblandau2016.js',
                 dataType:'script',
                 success: function(data) {
                     data_ajax =  eval(data);
@@ -65,7 +65,7 @@
         // Create series_Line
         var series = chart.series.push(new am4charts.LineSeries());
         series.dataFields.categoryX = "ten tinh";
-        series.dataFields.valueY = "tren 15 biet chu";
+        series.dataFields.valueY = "ket hon tb lan dau";
         series.tooltipText = "{valueY}";
 
         var errorBullet = series.bullets.create(am4charts.Circle);

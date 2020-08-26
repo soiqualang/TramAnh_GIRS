@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Chart duoi 5 tuoi</title>
+    <title>Biểu đồ tỷ số  giới tính năm 2017</title>
     <!-- Resources -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
@@ -50,7 +50,7 @@
         // Create axes category
         var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
         categoryAxis.renderer.grid.template.location = 0;
-        categoryAxis.dataFields.category = "ten tinh";
+        categoryAxis.dataFields.category = "tentinh";
         //Định dang label
         categoryAxis.renderer.minGridDistance = 5;
         categoryAxis.renderer.labels.template.horizontalCenter = "right";
@@ -64,8 +64,8 @@
         valueAxis.renderer.minWidth = 20;
         // Create series_Line
         var series = chart.series.push(new am4charts.LineSeries());
-        series.dataFields.categoryX = "ten tinh";
-        series.dataFields.valueY = "tren 15 biet chu";
+        series.dataFields.categoryX = "tentinh";
+        series.dataFields.valueY = "tysogioitinh";
         series.tooltipText = "{valueY}";
 
         var errorBullet = series.bullets.create(am4charts.Circle);

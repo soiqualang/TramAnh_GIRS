@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Chart duoi 5 tuoi</title>
+    <title>Biểu đồ tỷ lệ tăng dân số năm 2018</title>
     <!-- Resources -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
@@ -65,7 +65,7 @@
         // Create series_Line
         var series = chart.series.push(new am4charts.LineSeries());
         series.dataFields.categoryX = "ten tinh";
-        series.dataFields.valueY = "tren 15 biet chu";
+        series.dataFields.valueY = "tl tang ds";
         series.tooltipText = "{valueY}";
 
         var errorBullet = series.bullets.create(am4charts.Circle);
