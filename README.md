@@ -16,27 +16,32 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [4. Mapbox](https://soiqualang.github.io/TramAnh_GIRS/MAP/mapmau_mapbox.html)
 
-### Form 3 Năm 1 Giá Trị
+### Form 3 Năm 1 Giá Trị Đường
 
-[1. Kết hôn lần đầu](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/kethonlandau.html)
 
-[2. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/laodongt15tsotongds.html)
+### Form 3 Năm 1 Giá Trị Cột
 
-[3. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tongtysuatsinh.html)
+[1. Kết hôn lần đầu](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/kethonlandau.html)
 
-[4. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tyletangds.html)
+[2. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/laodongt15tsotongds.html)
 
-[5. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysogioitinh.html)
+[3. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tongtysuatsinh.html)
 
-[6. Tỷ sUất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoi5t.html)
+[4. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tyletangds.html)
 
-[7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/tysuatchetduoiduoi1t.html)
+[5. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysogioitinh.html)
 
-[8. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/DST15BCHU.html)
+[6. Tỷ sUất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysuatchetduoi5t.html)
 
-[9. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/LDT15QDT.html)
+[7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysuatchetduoiduoi1t.html)
 
-[10. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_DON/LDT15T.html)
+[8. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/DST15BCHU.html)
+
+[9. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/LDT15QDT.html)
+
+[10. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/LDT15T.html)
+
+### Form 3 Năm 3 Giá Trị
 
 ### Chart 3 Giá Trị Line
 
@@ -185,6 +190,8 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 [9. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi1t2018.html)
 
 [10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi5t2018.html)
+
+### Chart 3 Giá Trị Line
    
 ### Chart JS
 
