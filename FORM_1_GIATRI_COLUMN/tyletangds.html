@@ -24,11 +24,11 @@
     
     <form>
         <div class="form-group">
-            <label for="txt_nam">Chon nam:</label>
+            <label for="txt_nam">Chọn năm:</label>
             <select id="txt_nam" name="txt_nam" class="form-control">
-                <option value="2016">nam 2016</option>
-                <option value="2017">nam 2017</option>
-                <option value="2018" selected="selected" >nam 2018</option>
+                <option value="2016">Năm 2016</option>
+                <option value="2017">Năm 2017</option>
+                <option value="2018" selected="selected" >Năm 2018</option>
             </select>
             </div>
             
@@ -47,7 +47,7 @@
                 
                 var ajax_load =   $.ajax({
                         type: 'GET',
-                        url : '../JSON_CHART_DON/tyletangds'+year+'.js',
+                        url : '../JSON_1_GIATRI/tyletangds'+year+'.js',
                         dataType:'script',
                         success: function(data) {
                             data_ajax =  eval(data);
