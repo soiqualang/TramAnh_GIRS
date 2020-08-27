@@ -52,7 +52,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [6. Tỷ sUất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysuatchetduoi5t.html)
 
-[7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysuatchetduoiduoi1t.html)
+[7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysuatchetduoi1t.html)
 
 [8. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/DST15BCHU.html)
 
