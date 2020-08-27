@@ -18,6 +18,25 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 ### Form 3 Năm 1 Giá Trị Đường
 
+[1. Kết hôn lần đầu](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/kethonlandau.html)
+
+[2. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/laodongt15tsotongds.html)
+
+[3. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tongtysuatsinh.html)
+
+[4. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tyletangds.html)
+
+[5. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tysogioitinh.html)
+
+[6. Tỷ sUất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tysuatchetduoi5t.html)
+
+[7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tysuatchetduoiduoi1t.html)
+
+[8. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/DST15BCHU.html)
+
+[9. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/LDT15QDT.html)
+
+[10. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/LDT15T.html)
 
 ### Form 3 Năm 1 Giá Trị Cột
 
