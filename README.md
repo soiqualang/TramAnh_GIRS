@@ -18,7 +18,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 ### Form 3 Năm 1 Giá Trị Đường
 
-[1. Kết hôn lần đầu](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/kethonlandau.html)
+[1. Kết hôn lần đầu](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/kethonlandau.html)
 
 [2. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/laodongt15tsotongds.html)
 
