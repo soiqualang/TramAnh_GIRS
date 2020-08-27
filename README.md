@@ -62,49 +62,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 ### Form 3 Năm 3 Giá Trị
 
-### Chart 1 Giá Trị Line
-
-[1. Dân số trên 15 tuổi biết chữ ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/DST15BCHU.html)
-
-[2. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/LDT15QDT.html)
-
-[3. Kết hôn trung bình lần đầu](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/kethonlandau.html)
-
-[4. Lao động trên 15 tuổi so với tổng dân số]( https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/laodongt15tsotongds.html)
-
-[5. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tongtysuatsinh.html)
-
-[7. Tỷ lệ tăng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tyletangds.html)
-
-[8. Tỷ số giới tính ](https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tuvongdkkhaitu2018.html)
-
-[9. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tysuatchetduoi1t.html)
-
-[10. Tỷ suất chết dưới 5 tuổi]( https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tysuatchetduoi5t.html)
-
 ### Chart 1 Giá Trị Column
-
-[1. Dân số trên 15 tuổi biết chữ ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/DST15BCHU.htm)
-
-[2. Lao động trên 15 tuổi trong nền kinh tế đã qua đào tạo ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/LDT15QDT.html)
-
-[3. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/LDT15T.html)
-
-[4. Kết hôn trung bình lần đầu]( https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/kethonlandau.html)
-
-[5. Lao động trên 15 tuổi so với tổng dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/laodongt15tsotongds.html)
-
-[7. Tổng tỷ suất sinh](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tongtysuatsinh.html)
-
-[8. Tỷ lệ tăng dân số ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tyletangds.html)
-
-[9. Tỷ số giới tính](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysogioitinh.html)
-
-[10. Tỷ suất chết dưới 1 tuổi]( https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysuatchetduoi1t.html)
-
-[11. Tỷ suất chết dưới 5 tuổi]( https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/tysuatchetduoi5t.html)
-
-
 
 #### 2016 Dân số
 
