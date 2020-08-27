@@ -1,384 +1,384 @@
 [
   {
-    "": "An Giang",
+   "ten tinh": "An Giang",
     "Tỷ suất nhập cư": 3.8,
     "Tỷ suất xuất cư": 1.5,
     "Tỷ suất di cư thuần": 2.3
   },
   {
-    "": "Bà Rịa - Vũng Tàu",
+   "ten tinh": "Bà Rịa - Vũng Tàu",
     "Tỷ suất nhập cư": 2.4,
     "Tỷ suất xuất cư": 3.1,
     "Tỷ suất di cư thuần": -0.7
   },
   {
-    "": "Bạc Liêu",
+   "ten tinh": "Bạc Liêu",
     "Tỷ suất nhập cư": 53.6,
     "Tỷ suất xuất cư": 5.7,
     "Tỷ suất di cư thuần": 47.9
   },
   {
-    "": "Bắc Giang",
+   "ten tinh": "Bắc Giang",
     "Tỷ suất nhập cư": 1.9,
     "Tỷ suất xuất cư": 5.2,
     "Tỷ suất di cư thuần": -3.3
   },
   {
-    "": "Bắc Kạn",
+   "ten tinh": "Bắc Kạn",
     "Tỷ suất nhập cư": 2.7,
     "Tỷ suất xuất cư": 6.4,
     "Tỷ suất di cư thuần": -3.7
   },
   {
-    "": "Bắc Ninh",
+   "ten tinh": "Bắc Ninh",
     "Tỷ suất nhập cư": 2.1,
     "Tỷ suất xuất cư": 11.9,
     "Tỷ suất di cư thuần": -9.9
   },
   {
-    "": "Bến Tre",
+   "ten tinh": "Bến Tre",
     "Tỷ suất nhập cư": 1.6,
     "Tỷ suất xuất cư": 1.6,
     "Tỷ suất di cư thuần": 0
   },
   {
-    "": "Bình Dương",
+   "ten tinh": "Bình Dương",
     "Tỷ suất nhập cư": 3.3,
     "Tỷ suất xuất cư": 4,
     "Tỷ suất di cư thuần": -0.7
   },
   {
-    "": "Bình Ðịnh",
+   "ten tinh": "Bình Ðịnh",
     "Tỷ suất nhập cư": 1.4,
     "Tỷ suất xuất cư": 3,
     "Tỷ suất di cư thuần": -1.6
   },
   {
-    "": "Bình Phước",
+   "ten tinh": "Bình Phước",
     "Tỷ suất nhập cư": 4.4,
     "Tỷ suất xuất cư": 5.1,
     "Tỷ suất di cư thuần": -0.8
   },
   {
-    "": "Bình Thuận",
+   "ten tinh": "Bình Thuận",
     "Tỷ suất nhập cư": 1.6,
     "Tỷ suất xuất cư": 2.8,
     "Tỷ suất di cư thuần": -1.2
   },
   {
-    "": "Cà Mau",
-    "Tỷ suất nhập cư": "..",
-    "Tỷ suất xuất cư": "..",
-    "Tỷ suất di cư thuần": ".."
+   "ten tinh": "Cà Mau",
+    "Tỷ suất nhập cư":0,
+    "Tỷ suất xuất cư":0,
+    "Tỷ suất di cư thuần": 0
   },
   {
-    "": "Cao Bằng",
+   "ten tinh": "Cao Bằng",
     "Tỷ suất nhập cư": 2.5,
     "Tỷ suất xuất cư": 6.2,
     "Tỷ suất di cư thuần": -3.7
   },
   {
-    "": "Cần Thơ",
+   "ten tinh": "Cần Thơ",
     "Tỷ suất nhập cư": 6.8,
     "Tỷ suất xuất cư": 1.8,
     "Tỷ suất di cư thuần": 5
   },
   {
-    "": "Ðà Nẵng",
+   "ten tinh": "Ðà Nẵng",
     "Tỷ suất nhập cư": 4.4,
     "Tỷ suất xuất cư": 6.3,
     "Tỷ suất di cư thuần": -1.8
   },
   {
-    "": "Đắk Lắk",
+   "ten tinh": "Đắk Lắk",
     "Tỷ suất nhập cư": 0.5,
     "Tỷ suất xuất cư": 1.3,
     "Tỷ suất di cư thuần": -0.9
   },
   {
-    "": "Đắk Nông",
+   "ten tinh": "Đắk Nông",
     "Tỷ suất nhập cư": 2.2,
     "Tỷ suất xuất cư": 3,
     "Tỷ suất di cư thuần": -0.8
   },
   {
-    "": "Điện Biên",
+   "ten tinh": "Điện Biên",
     "Tỷ suất nhập cư": 1.8,
     "Tỷ suất xuất cư": 4.9,
     "Tỷ suất di cư thuần": -3.1
   },
   {
-    "": "Ðồng Nai",
+   "ten tinh": "Ðồng Nai",
     "Tỷ suất nhập cư": 2.2,
     "Tỷ suất xuất cư": 3,
     "Tỷ suất di cư thuần": -0.7
   },
   {
-    "": "Ðồng Tháp",
+   "ten tinh": "Ðồng Tháp",
     "Tỷ suất nhập cư": 3.4,
     "Tỷ suất xuất cư": 1.8,
     "Tỷ suất di cư thuần": 1.5
   },
   {
-    "": "Gia Lai",
+   "ten tinh": "Gia Lai",
     "Tỷ suất nhập cư": 1.2,
     "Tỷ suất xuất cư": 2.3,
     "Tỷ suất di cư thuần": -1
   },
   {
-    "": "Hà Giang",
+   "ten tinh": "Hà Giang",
     "Tỷ suất nhập cư": 1.6,
     "Tỷ suất xuất cư": 5.3,
     "Tỷ suất di cư thuần": -3.7
   },
   {
-    "": "Hà Nam",
+   "ten tinh": "Hà Nam",
     "Tỷ suất nhập cư": 2.2,
     "Tỷ suất xuất cư": 7.1,
     "Tỷ suất di cư thuần": -4.9
   },
   {
-    "": "Hà Nội",
+   "ten tinh": "Hà Nội",
     "Tỷ suất nhập cư": 4.7,
     "Tỷ suất xuất cư": 2.6,
     "Tỷ suất di cư thuần": 2.1
   },
   {
-    "": "Hà Tây",
+   "ten tinh": "Hà Tây",
     "Tỷ suất nhập cư": 0.5,
     "Tỷ suất xuất cư": 15,
     "Tỷ suất di cư thuần": -14.5
   },
   {
-    "": "Hà Tĩnh",
+   "ten tinh": "Hà Tĩnh",
     "Tỷ suất nhập cư": 1.9,
     "Tỷ suất xuất cư": 4.2,
     "Tỷ suất di cư thuần": -2.3
   },
   {
-    "": "Hải Dương",
+   "ten tinh": "Hải Dương",
     "Tỷ suất nhập cư": 1.1,
     "Tỷ suất xuất cư": 7.7,
     "Tỷ suất di cư thuần": -6.6
   },
   {
-    "": "Hải Phòng",
+   "ten tinh": "Hải Phòng",
     "Tỷ suất nhập cư": 0.9,
     "Tỷ suất xuất cư": 6.8,
     "Tỷ suất di cư thuần": -5.9
   },
   {
-    "": "Hậu Giang",
+   "ten tinh": "Hậu Giang",
     "Tỷ suất nhập cư": 9.3,
     "Tỷ suất xuất cư": 3.2,
     "Tỷ suất di cư thuần": 6.1
   },
   {
-    "": "Hòa Bình",
+   "ten tinh": "Hòa Bình",
     "Tỷ suất nhập cư": 1.2,
     "Tỷ suất xuất cư": 4,
     "Tỷ suất di cư thuần": -2.8
   },
   {
-    "": "Hưng Yên",
+   "ten tinh": "Hưng Yên",
     "Tỷ suất nhập cư": 0.5,
     "Tỷ suất xuất cư": 6,
     "Tỷ suất di cư thuần": -5.5
   },
   {
-    "": "Kiên Giang",
+   "ten tinh": "Kiên Giang",
     "Tỷ suất nhập cư": 6.6,
     "Tỷ suất xuất cư": 1.9,
     "Tỷ suất di cư thuần": 4.7
   },
   {
-    "": "Kon Tum",
+   "ten tinh": "Kon Tum",
     "Tỷ suất nhập cư": 1.6,
     "Tỷ suất xuất cư": 2.8,
     "Tỷ suất di cư thuần": -1.2
   },
   {
-    "": "Khánh Hòa",
+   "ten tinh": "Khánh Hòa",
     "Tỷ suất nhập cư": 0.5,
     "Tỷ suất xuất cư": 1.9,
     "Tỷ suất di cư thuần": -1.4
   },
   {
-    "": "Lai Châu",
+   "ten tinh": "Lai Châu",
     "Tỷ suất nhập cư": 1,
     "Tỷ suất xuất cư": 3.9,
     "Tỷ suất di cư thuần": -2.9
   },
   {
-    "": "Lạng Sơn",
+   "ten tinh": "Lạng Sơn",
     "Tỷ suất nhập cư": 0.1,
     "Tỷ suất xuất cư": 3.4,
     "Tỷ suất di cư thuần": -3.3
   },
   {
-    "": "Lào Cai",
+   "ten tinh": "Lào Cai",
     "Tỷ suất nhập cư": 1.9,
     "Tỷ suất xuất cư": 5.5,
     "Tỷ suất di cư thuần": -3.6
   },
   {
-    "": "Lâm Đồng",
+   "ten tinh": "Lâm Đồng",
     "Tỷ suất nhập cư": 1.1,
     "Tỷ suất xuất cư": 1.9,
     "Tỷ suất di cư thuần": -0.8
   },
   {
-    "": "Long An",
+   "ten tinh": "Long An",
     "Tỷ suất nhập cư": 0.8,
     "Tỷ suất xuất cư": 1.4,
     "Tỷ suất di cư thuần": -0.5
   },
   {
-    "": "Nam Định",
+   "ten tinh": "Nam Định",
     "Tỷ suất nhập cư": 2.6,
     "Tỷ suất xuất cư": 6.8,
     "Tỷ suất di cư thuần": -4.3
   },
   {
-    "": "Ninh Bình",
+   "ten tinh": "Ninh Bình",
     "Tỷ suất nhập cư": 1.6,
     "Tỷ suất xuất cư": 5.6,
     "Tỷ suất di cư thuần": -4
   },
   {
-    "": "Ninh Thuận",
+   "ten tinh": "Ninh Thuận",
     "Tỷ suất nhập cư": 0.8,
     "Tỷ suất xuất cư": 2.2,
     "Tỷ suất di cư thuần": -1.4
   },
   {
-    "": "Nghệ An",
+   "ten tinh": "Nghệ An",
     "Tỷ suất nhập cư": 2.4,
     "Tỷ suất xuất cư": 4.9,
     "Tỷ suất di cư thuần": -2.6
   },
   {
-    "": "Phú Thọ",
+   "ten tinh": "Phú Thọ",
     "Tỷ suất nhập cư": 1.5,
     "Tỷ suất xuất cư": 4.6,
     "Tỷ suất di cư thuần": -3.1
   },
   {
-    "": "Phú Yên",
+   "ten tinh": "Phú Yên",
     "Tỷ suất nhập cư": 2.1,
     "Tỷ suất xuất cư": 3.6,
     "Tỷ suất di cư thuần": -1.5
   },
   {
-    "": "Quảng Bình",
+   "ten tinh": "Quảng Bình",
     "Tỷ suất nhập cư": 0.7,
     "Tỷ suất xuất cư": 2.7,
     "Tỷ suất di cư thuần": -2
   },
   {
-    "": "Quảng Nam",
+   "ten tinh": "Quảng Nam",
     "Tỷ suất nhập cư": 0.6,
     "Tỷ suất xuất cư": 2.3,
     "Tỷ suất di cư thuần": -1.7
   },
   {
-    "": "Quảng Ninh",
+   "ten tinh": "Quảng Ninh",
     "Tỷ suất nhập cư": 0.2,
     "Tỷ suất xuất cư": 6.9,
     "Tỷ suất di cư thuần": -6.7
   },
   {
-    "": "Quảng Ngãi",
+   "ten tinh": "Quảng Ngãi",
     "Tỷ suất nhập cư": 1.9,
     "Tỷ suất xuất cư": 3.6,
     "Tỷ suất di cư thuần": -1.6
   },
   {
-    "": "Quảng Trị",
+   "ten tinh": "Quảng Trị",
     "Tỷ suất nhập cư": 1.4,
     "Tỷ suất xuất cư": 3.2,
     "Tỷ suất di cư thuần": -1.8
   },
   {
-    "": "Sóc Trăng",
+   "ten tinh": "Sóc Trăng",
     "Tỷ suất nhập cư": 11.1,
     "Tỷ suất xuất cư": 2,
     "Tỷ suất di cư thuần": 9.1
   },
   {
-    "": "Sơn La",
+   "ten tinh": "Sơn La",
     "Tỷ suất nhập cư": 1.1,
     "Tỷ suất xuất cư": 3.9,
     "Tỷ suất di cư thuần": -2.9
   },
   {
-    "": "Tây Ninh",
+   "ten tinh": "Tây Ninh",
     "Tỷ suất nhập cư": 3.2,
     "Tỷ suất xuất cư": 4,
     "Tỷ suất di cư thuần": -0.8
   },
   {
-    "": "Tiền Giang",
+   "ten tinh": "Tiền Giang",
     "Tỷ suất nhập cư": 1.7,
     "Tỷ suất xuất cư": 1.8,
     "Tỷ suất di cư thuần": -0.1
   },
   {
-    "": "TP. Hồ Chí Minh",
+   "ten tinh": "TP. Hồ Chí Minh",
     "Tỷ suất nhập cư": 4.8,
     "Tỷ suất xuất cư": 5.5,
     "Tỷ suất di cư thuần": -0.6
   },
   {
-    "": "Tuyên Quang",
+   "ten tinh": "Tuyên Quang",
     "Tỷ suất nhập cư": 1.3,
     "Tỷ suất xuất cư": 4.9,
     "Tỷ suất di cư thuần": -3.6
   },
   {
-    "": "Thái Bình",
+   "ten tinh": "Thái Bình",
     "Tỷ suất nhập cư": 1,
     "Tỷ suất xuất cư": 6.1,
     "Tỷ suất di cư thuần": -5
   },
   {
-    "": "Thái Nguyên",
+   "ten tinh": "Thái Nguyên",
     "Tỷ suất nhập cư": 2.4,
     "Tỷ suất xuất cư": 5.7,
     "Tỷ suất di cư thuần": -3.3
   },
   {
-    "": "Thanh Hóa",
+   "ten tinh": "Thanh Hóa",
     "Tỷ suất nhập cư": 2.6,
     "Tỷ suất xuất cư": 5.3,
     "Tỷ suất di cư thuần": -2.8
   },
   {
-    "": "Thừa Thiên - Huế",
+   "ten tinh": "Thừa Thiên - Huế",
     "Tỷ suất nhập cư": 1.2,
     "Tỷ suất xuất cư": 3,
     "Tỷ suất di cư thuần": -1.8
   },
   {
-    "": "Trà Vinh",
+   "ten tinh": "Trà Vinh",
     "Tỷ suất nhập cư": 3,
     "Tỷ suất xuất cư": 2.9,
     "Tỷ suất di cư thuần": 0.1
   },
   {
-    "": "Vĩnh Long",
+   "ten tinh": "Vĩnh Long",
     "Tỷ suất nhập cư": 2,
     "Tỷ suất xuất cư": 1.2,
     "Tỷ suất di cư thuần": 0.8
   },
   {
-    "": "Vĩnh Phúc",
+   "ten tinh": "Vĩnh Phúc",
     "Tỷ suất nhập cư": 1.2,
     "Tỷ suất xuất cư": 12.4,
     "Tỷ suất di cư thuần": -11.2
   },
   {
-    "": "Yên Bái",
+   "ten tinh": "Yên Bái",
     "Tỷ suất nhập cư": 0.7,
     "Tỷ suất xuất cư": 4.2,
     "Tỷ suất di cư thuần": -3.4

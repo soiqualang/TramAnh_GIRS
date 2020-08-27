@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biểu đồ số cuộc ly hôn năm 201+</title>
+    <title>Biểu đồ dân số, diện tích, mật độ dân số năm 2018</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 </head>
@@ -16,7 +16,7 @@
 	}
 	
 </style>
-<h1 style="text-align:center;color:rgba(82, 22, 151, 0.479);">Biểu đồ số cuộc ly hôn năm 2016</h1>
+<h1 style="text-align:center;color:rgba(82, 22, 151, 0.479);">Biểu đồ dân số, diện tích, mật độ dân số năm 2018</h1>
 	
 	<!-- Resources -->
 	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
@@ -30,7 +30,7 @@
             // Ajax lấy dữ liệu
             $.ajax({
                 type: 'GET',
-                url : '../JSON_3_GIATRI/lyhon2016.js',
+                url : '../JSON_3_GIATRI/DS_DT_MDDS2018.js',
                 dataType:'script',
                 success: function(data) {
                     data_ajax =  eval(data);
@@ -68,29 +68,30 @@
 	
 	// Create series
 	var series1 = chart.series.push(new am4charts.LineSeries());
-	series1.dataFields.valueY = "Tổng số";
+	series1.dataFields.valueY = "dien tich";
 	series1.dataFields.categoryX = "ten tinh";
-	series1.name = "Tổng số";
+	series1.name = "dien tich";
 	series1.bullets.push(new am4charts.CircleBullet());
 	series1.tooltipText = "{categoryX}: {valueY}";
 	series1.legendSettings.valueText = "{valueY}";
 	series1.visible  = false;
 	
 	var series2 = chart.series.push(new am4charts.LineSeries());
-	series2.dataFields.valueY = "Cấp tỉnh";
+	series2.dataFields.valueY = "dan so trung binh";
 	series2.dataFields.categoryX = "ten tinh";
-	series2.name = 'Cấp tỉnh';
+	series2.name = 'dan so trung binh';
 	series2.bullets.push(new am4charts.CircleBullet());
 	series2.tooltipText = "{categoryX}: {valueY}";
 	series2.legendSettings.valueText = "{valueY}";
 	
 	var series3 = chart.series.push(new am4charts.LineSeries());
-	series3.dataFields.valueY = "Cấp huyện";
+	series3.dataFields.valueY = "mat do dan so";
 	series3.dataFields.categoryX = "ten tinh";
-	series3.name = 'Cấp huyện';
+	series3.name = 'mat do dan so';
 	series3.bullets.push(new am4charts.CircleBullet());
 	series3.tooltipText = "{categoryX}: {valueY}";
 	series3.legendSettings.valueText = "{valueY}";
+	
 	// Add chart cursor
 	chart.cursor = new am4charts.XYCursor();
 	chart.cursor.behavior = "zoomY";

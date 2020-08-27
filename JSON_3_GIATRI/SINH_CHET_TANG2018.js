@@ -67,9 +67,9 @@
   },
   {
     "Tên tỉnh": "Cà Mau",
-    "Tỷ suất sinh thô": "..",
-    "Tỷ suất chết thô": "..",
-    "Tỷ lệ tăng tự nhiên": ".."
+    "Tỷ suất sinh thô": 0,
+    "Tỷ suất chết thô": 0,
+    "Tỷ lệ tăng tự nhiên": 0
   },
   {
     "Tên tỉnh": "Cao Bằng",
@@ -142,12 +142,6 @@
     "Tỷ suất sinh thô": 14.7,
     "Tỷ suất chết thô": 6.1,
     "Tỷ lệ tăng tự nhiên": 8.6
-  },
-  {
-    "Tên tỉnh": "Hà Tây",
-    "Tỷ suất sinh thô": 9.8,
-    "Tỷ suất chết thô": 7.7,
-    "Tỷ lệ tăng tự nhiên": 2.1
   },
   {
     "Tên tỉnh": "Hà Tĩnh",

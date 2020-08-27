@@ -1,514 +1,506 @@
 [
   {
-    "ten tinh": "An Giang",
-    "tong so": 2159.9,
-    "nam": 1069.8,
-    "nu": 1090.1,
-    "thanh thi": 664.1,
-    "nong thon": 1495.8
+    "Tên tỉnh": "An Giang",
+    "Tổng số": 2159.9,
+    "Nam": 1069.8,
+    "Nữ": 1090.1,
+    "Thành thị": 664.1,
+    "Nông thôn": 1495.8
   },
   {
-    "ten tinh": "Bà Rịa - Vũng Tàu",
-    "tong so": 1090.3,
-    "nam": 545.6,
-    "nu": 544.7,
-    "thanh thi": 560.8,
-    "nong thon": 529.5
+    "Tên tỉnh": "Bà Rịa - Vũng Tàu",
+    "Tổng số": 1090.3,
+    "Nam": 545.6,
+    "Nữ": 544.7,
+    "Thành thị": 560.8,
+    "Nông thôn": 529.5
   },
   {
-    "ten tinh": "Bạc Liêu",
-    "tong so": 886.2,
-    "nam": 445.9,
-    "nu": 440.3,
-    "thanh thi": 233.6,
-    "nong thon": 652.6
+    "Tên tỉnh": "Bạc Liêu",
+    "Tổng số": 886.2,
+    "Nam": 445.9,
+    "Nữ": 440.3,
+    "Thành thị": 233.6,
+    "Nông thôn": 652.6
   },
   {
-    "ten tinh": "Bắc Giang",
-    "tong so": 1657.6,
-    "nam": 823.5,
-    "nu": 834.1,
-    "thanh thi": 188.8,
-    "nong thon": 1468.8
+    "Tên tỉnh": "Bắc Giang",
+    "Tổng số": 1657.6,
+    "Nam": 823.5,
+    "Nữ": 834.1,
+    "Thành thị": 188.8,
+    "Nông thôn": 1468.8
   },
   {
-    "ten tinh": "Bắc Kạn",
-    "tong so": "319.",
-    "nam": "157.",
-    "nu": "162.",
-    "thanh thi": 59.9,
-    "nong thon": 259.1
+    "Tên tỉnh": "Bắc Kạn",
+    "Tổng số": "319.",
+    "Nam": "157.",
+    "Nữ": "162.",
+    "Thành thị": 59.9,
+    "Nông thôn": 259.1
   },
   {
-    "ten tinh": "Bắc Ninh",
-    "tong so": 1178.6,
-    "nam": 579.8,
-    "nu": 598.8,
-    "thanh thi": "337.",
-    "nong thon": 841.6
+    "Tên tỉnh": "Bắc Ninh",
+    "Tổng số": 1178.6,
+    "Nam": 579.8,
+    "Nữ": 598.8,
+    "Thành thị": "337.",
+    "Nông thôn": 841.6
   },
   {
-    "ten tinh": "Bến Tre",
-    "tong so": 1265.2,
-    "nam": 621.6,
-    "nu": 643.6,
-    "thanh thi": 133.1,
-    "nong thon": 1132.1
+    "Tên tỉnh": "Bến Tre",
+    "Tổng số": 1265.2,
+    "Nam": 621.6,
+    "Nữ": 643.6,
+    "Thành thị": 133.1,
+    "Nông thôn": 1132.1
   },
   {
-    "ten tinh": "Bình Dương",
-    "tong so": 1524.6,
-    "nam": 744.8,
-    "nu": 779.8,
-    "thanh thi": 473.9,
-    "nong thon": 1050.7
+    "Tên tỉnh": "Bình Dương",
+    "Tổng số": 1524.6,
+    "Nam": 744.8,
+    "Nữ": 779.8,
+    "Thành thị": 473.9,
+    "Nông thôn": 1050.7
   },
   {
-    "ten tinh": "Bình Định",
-    "tong so": 1995.8,
-    "nam": 963.7,
-    "nu": 1032.1,
-    "thanh thi": "1527.",
-    "nong thon": 468.8
+    "Tên tỉnh": "Bình Định",
+    "Tổng số": 1995.8,
+    "Nam": 963.7,
+    "Nữ": 1032.1,
+    "Thành thị": 1527,
+    "Nông thôn": 468.8
   },
   {
-    "ten tinh": "Bình Phước",
-    "tong so": 956.4,
-    "nam": 469.6,
-    "nu": 486.8,
-    "thanh thi": "189.",
-    "nong thon": 767.4
+    "Tên tỉnh": "Bình Phước",
+    "Tổng số": 956.4,
+    "Nam": 469.6,
+    "Nữ": 486.8,
+    "Thành thị": 189,
+    "Nông thôn": 767.4
   },
   {
-    "ten tinh": "Bình Thuận",
-    "tong so": 1222.7,
-    "nam": 611.9,
-    "nu": 610.8,
-    "thanh thi": 480.6,
-    "nong thon": 742.1
+    "Tên tỉnh": "Bình Thuận",
+    "Tổng số": 1222.7,
+    "Nam": 611.9,
+    "Nữ": 610.8,
+    "Thành thị": 480.6,
+    "Nông thôn": 742.1
   },
   {
-    "ten tinh": "Cà Mau",
-    "tong so": 1222.6,
-    "nam": 612.6,
-    "nu": "610.",
-    "thanh thi": "277.",
-    "nong thon": 945.6
+    "Tên tỉnh": "Cà Mau",
+    "Tổng số": 1222.6,
+    "Nam": 612.6,
+    "Nữ": "610.",
+    "Thành thị": 277,
+    "Nông thôn": 945.6
   },
   {
-    "ten tinh": "Cao Bằng",
-    "tong so": 530.1,
-    "nam": 262.6,
-    "nu": 267.5,
-    "thanh thi": 122.8,
-    "nong thon": 407.3
+    "Tên tỉnh": "Cao Bằng",
+    "Tổng số": 530.1,
+    "Nam": 262.6,
+    "Nữ": 267.5,
+    "Thành thị": 122.8,
+    "Nông thôn": 407.3
   },
   {
-    "ten tinh": "Cần Thơ",
-    "tong so": 1262.6,
-    "nam": "629.",
-    "nu": 633.6,
-    "thanh thi": 844.7,
-    "nong thon": 417.9
+    "Tên tỉnh": "Cần Thơ",
+    "Tổng số": 1262.6,
+    "Nam": 629,
+    "Nữ": 633.6,
+    "Thành thị": 844.7,
+    "Nông thôn": 417.9
   },
   {
-    "ten tinh": "Đà Nẵng",
-    "tong so": 1045.3,
-    "nam": 514.9,
-    "nu": 530.4,
-    "thanh thi": 914.1,
-    "nong thon": 131.2
+    "Tên tỉnh": "Đà Nẵng",
+    "Tổng số": 1045.3,
+    "Nam": 514.9,
+    "Nữ": 530.4,
+    "Thành thị": 914.1,
+    "Nông thôn": 131.2
   },
   {
-    "ten tinh": "Đắk Lắk",
-    "tong so": 1874.5,
-    "nam": 943.3,
-    "nu": 931.2,
-    "thanh thi": "457.",
-    "nong thon": 1417.5
+    "Tên tỉnh": "Đắk Lắk",
+    "Tổng số": 1874.5,
+    "Nam": 943.3,
+    "Nữ": 931.2,
+    "Thành thị": 457,
+    "Nông thôn": 1417.5
   },
   {
-    "ten tinh": "Đắk Nông",
-    "tong so": 608.4,
-    "nam": 314.4,
-    "nu": "294.",
-    "thanh thi": 92.6,
-    "nong thon": 515.8
+    "Tên tỉnh": "Đắk Nông",
+    "Tổng số": 608.4,
+    "Nam": 314.4,
+    "Nữ": 294,
+    "Thành thị": 92.6,
+    "Nông thôn": 515.8
   },
   {
-    "ten tinh": "Điện Biên",
-    "tong so": 557.4,
-    "nam": 278.7,
-    "nu": 278.7,
-    "thanh thi": "84.",
-    "nong thon": 473.4
+    "Tên tỉnh": "Điện Biên",
+    "Tổng số": 557.4,
+    "Nam": 278.7,
+    "Nữ": 278.7,
+    "Thành thị": 84,
+    "Nông thôn": 473.4
   },
   {
-    "ten tinh": "Đồng Nai",
-    "tong so": 2961.8,
-    "nam": 1436.1,
-    "nu": 1525.7,
-    "thanh thi": 1037.2,
-    "nong thon": 1924.6
+    "Tên tỉnh": "Đồng Nai",
+    "Tổng số": 2961.8,
+    "Nam": 1436.1,
+    "Nữ": 1525.7,
+    "Thành thị": 1037.2,
+    "Nông thôn": 1924.6
   },
   {
-    "ten tinh": "Đồng Tháp",
-    "tong so": 1687.3,
-    "nam": 840.2,
-    "nu": 847.1,
-    "thanh thi": 299.8,
-    "nong thon": 1387.5
+    "Tên tỉnh": "Đồng Tháp",
+    "Tổng số": 1687.3,
+    "Nam": 840.2,
+    "Nữ": 847.1,
+    "Thành thị": 299.8,
+    "Nông thôn": 1387.5
   },
   {
-    "ten tinh": "Gia Lai",
-    "tong so": 1417.3,
-    "nam": 702.7,
-    "nu": 714.6,
-    "thanh thi": 423.9,
-    "nong thon": 993.4
+    "Tên tỉnh": "Gia Lai",
+    "Tổng số": 1417.3,
+    "Nam": 702.7,
+    "Nữ": 714.6,
+    "Thành thị": 423.9,
+    "Nông thôn": 993.4
   },
   {
-    "ten tinh": "Hà Giang",
-    "tong so": 820.4,
-    "nam": "413.",
-    "nu": 407.4,
-    "thanh thi": "123.",
-    "nong thon": 697.4
+    "Tên tỉnh": "Hà Giang",
+    "Tổng số": 820.4,
+    "Nam": 413,
+    "Nữ": 407.4,
+    "Thành thị": 123,
+    "Nông thôn": 697.4
   },
   {
-    "ten tinh": "Hà Nam",
-    "tong so": 803.7,
-    "nam": 397.4,
-    "nu": 406.3,
-    "thanh thi": 125.8,
-    "nong thon": 677.9
+    "Tên tỉnh": "Hà Nam",
+    "Tổng số": 803.7,
+    "Nam": 397.4,
+    "Nữ": 406.3,
+    "Thành thị": 125.8,
+    "Nông thôn": 677.9
   },
   {
-    "ten tinh": "Hà Nội",
-    "tong so": 7310.7,
-    "nam": 3583.7,
-    "nu": "3727.",
-    "thanh thi": 3919.1,
-    "nong thon": 3391.6
+    "Tên tỉnh": "Hà Nội",
+    "Tổng số": 7310.7,
+    "Nam": 3583.7,
+    "Nữ": 3727,
+    "Thành thị": 3919.1,
+    "Nông thôn": 3391.6
   },
   {
-    "ten tinh": "Hà Tây",
-    "tong so": "..",
-    "nam": "..",
-    "nu": "..",
-    "thanh thi": "..",
-    "nong thon": ".."
+    "Tên tỉnh": "Hà Tĩnh",
+    "Tổng số": 1266.7,
+    "Nam": 622.5,
+    "Nữ": 644.2,
+    "Thành thị": 230.2,
+    "Nông thôn": 1036.5
   },
   {
-    "ten tinh": "Hà Tĩnh",
-    "tong so": 1266.7,
-    "nam": 622.5,
-    "nu": 644.2,
-    "thanh thi": 230.2,
-    "nong thon": 1036.5
+    "Tên tỉnh": "Hải Dương",
+    "Tổng số": 1785.8,
+    "Nam": 874.6,
+    "Nữ": 911.2,
+    "Thành thị": 448.8,
+    "Nông thôn": 1337
   },
   {
-    "ten tinh": "Hải Dương",
-    "tong so": 1785.8,
-    "nam": 874.6,
-    "nu": 911.2,
-    "thanh thi": 448.8,
-    "nong thon": "1337."
+    "Tên tỉnh": "Hải Phòng",
+    "Tổng số": 1980.8,
+    "Nam": 984.9,
+    "Nữ": 995.9,
+    "Thành thị": 925.9,
+    "Nông thôn": 1054.9
   },
   {
-    "ten tinh": "Hải Phòng",
-    "tong so": 1980.8,
-    "nam": 984.9,
-    "nu": 995.9,
-    "thanh thi": 925.9,
-    "nong thon": 1054.9
+    "Tên tỉnh": "Hậu Giang",
+    "Tổng số": 772.5,
+    "Nam": 378.3,
+    "Nữ": 394.2,
+    "Thành thị": 191.4,
+    "Nông thôn": 581.1
   },
   {
-    "ten tinh": "Hậu Giang",
-    "tong so": 772.5,
-    "nam": 378.3,
-    "nu": 394.2,
-    "thanh thi": 191.4,
-    "nong thon": 581.1
+    "Tên tỉnh": "Hoà Bình",
+    "Tổng số": 831.4,
+    "Nam": 415.1,
+    "Nữ": 416.3,
+    "Thành thị": 122.9,
+    "Nông thôn": 708.5
   },
   {
-    "ten tinh": "Hoà Bình",
-    "tong so": 831.4,
-    "nam": 415.1,
-    "nu": 416.3,
-    "thanh thi": 122.9,
-    "nong thon": 708.5
+    "Tên tỉnh": "Hưng Yên",
+    "Tổng số": 1170.3,
+    "Nam": 575,
+    "Nữ": 595.3,
+    "Thành thị": 152,
+    "Nông thôn": 1018.3
   },
   {
-    "ten tinh": "Hưng Yên",
-    "tong so": 1170.3,
-    "nam": "575.",
-    "nu": 595.3,
-    "thanh thi": "152.",
-    "nong thon": 1018.3
+    "Tên tỉnh": "Kiên Giang",
+    "Tổng số": 1776.7,
+    "Nam": 890.2,
+    "Nữ": 886.5,
+    "Thành thị": 506.3,
+    "Nông thôn": 1270.4
   },
   {
-    "ten tinh": "Kiên Giang",
-    "tong so": 1776.7,
-    "nam": 890.2,
-    "nu": 886.5,
-    "thanh thi": 506.3,
-    "nong thon": 1270.4
+    "Tên tỉnh": "Kon Tum",
+    "Tổng số": 507.8,
+    "Nam": 270.6,
+    "Nữ": 237.2,
+    "Thành thị": 180.7,
+    "Nông thôn": 327.1
   },
   {
-    "ten tinh": "Kon Tum",
-    "tong so": 507.8,
-    "nam": 270.6,
-    "nu": 237.2,
-    "thanh thi": 180.7,
-    "nong thon": 327.1
+    "Tên tỉnh": "Khánh Hoà",
+    "Tổng số": 1213.8,
+    "Nam": 597.2,
+    "Nữ": 616.6,
+    "Thành thị": 546.4,
+    "Nông thôn": 667.4
   },
   {
-    "ten tinh": "Khánh Hoà",
-    "tong so": 1213.8,
-    "nam": 597.2,
-    "nu": 616.6,
-    "thanh thi": 546.4,
-    "nong thon": 667.4
+    "Tên tỉnh": "Lai Châu",
+    "Tổng số": 435.1,
+    "Nam": 214.8,
+    "Nữ": 220.3,
+    "Thành thị": 75.5,
+    "Nông thôn": 359.6
   },
   {
-    "ten tinh": "Lai Châu",
-    "tong so": 435.1,
-    "nam": 214.8,
-    "nu": 220.3,
-    "thanh thi": 75.5,
-    "nong thon": 359.6
+    "Tên tỉnh": "Lạng Sơn",
+    "Tổng số": 768.7,
+    "Nam": 385.2,
+    "Nữ": 383.5,
+    "Thành thị": 151.9,
+    "Nông thôn": 616.8
   },
   {
-    "ten tinh": "Lạng Sơn",
-    "tong so": 768.7,
-    "nam": 385.2,
-    "nu": 383.5,
-    "thanh thi": 151.9,
-    "nong thon": 616.8
+    "Tên tỉnh": "Lào Cai",
+    "Tổng số": 684.3,
+    "Nam": 345.8,
+    "Nữ": 338.5,
+    "Thành thị": 175,
+    "Nông thôn": 527.3
   },
   {
-    "ten tinh": "Lào Cai",
-    "tong so": 684.3,
-    "nam": 345.8,
-    "nu": 338.5,
-    "thanh thi": "157.",
-    "nong thon": 527.3
+    "Tên tỉnh": "Lâm Đồng",
+    "Tổng số": 1285.9,
+    "Nam": 648.1,
+    "Nữ": 637.8,
+    "Thành thị": 504,
+    "Nông thôn": 781.9
   },
   {
-    "ten tinh": "Lâm Đồng",
-    "tong so": 1285.9,
-    "nam": 648.1,
-    "nu": 637.8,
-    "thanh thi": "504.",
-    "nong thon": 781.9
+    "Tên tỉnh": "Long An",
+    "Tổng số": 1490.4,
+    "Nam": 740.1,
+    "Nữ": 750.3,
+    "Thành thị": 268.7,
+    "Nông thôn": 1221.7
   },
   {
-    "ten tinh": "Long An",
-    "tong so": 1490.4,
-    "nam": 740.1,
-    "nu": 750.3,
-    "thanh thi": 268.7,
-    "nong thon": 1221.7
+    "Tên tỉnh": "Nam Định",
+    "Tổng số": 1852.6,
+    "Nam": 908,
+    "Nữ": 944.6,
+    "Thành thị": 338.7,
+    "Nông thôn": 1513.9
   },
   {
-    "ten tinh": "Nam Định",
-    "tong so": 1852.6,
-    "nam": "908.",
-    "nu": 944.6,
-    "thanh thi": 338.7,
-    "nong thon": 1513.9
+    "Tên tỉnh": "Ninh Bình",
+    "Tổng số": 953.1,
+    "Nam": 475.7,
+    "Nữ": 477.4,
+    "Thành thị": 196.3,
+    "Nông thôn": 756.8
   },
   {
-    "ten tinh": "Ninh Bình",
-    "tong so": 953.1,
-    "nam": 475.7,
-    "nu": 477.4,
-    "thanh thi": 196.3,
-    "nong thon": 756.8
+    "Tên tỉnh": "Ninh Thuận",
+    "Tổng số": 601.4,
+    "Nam": 303.3,
+    "Nữ": 298.1,
+    "Thành thị": 217.8,
+    "Nông thôn": 383.6
   },
   {
-    "ten tinh": "Ninh Thuận",
-    "tong so": 601.4,
-    "nam": 303.3,
-    "nu": 298.1,
-    "thanh thi": 217.8,
-    "nong thon": 383.6
+    "Tên tỉnh": "Nghệ An",
+    "Tổng số": 3105.5,
+    "Nam": 1552.4,
+    "Nữ": 1553.1,
+    "Thành thị": 467.4,
+    "Nông thôn": 2638.1
   },
   {
-    "ten tinh": "Nghệ An",
-    "tong so": 3105.5,
-    "nam": 1552.4,
-    "nu": 1553.1,
-    "thanh thi": 467.4,
-    "nong thon": 2638.1
+    "Tên tỉnh": "Phú Thọ",
+    "Tổng số": 1381.7,
+    "Nam": 681.5,
+    "Nữ": 700.2,
+    "Thành thị": 258.5,
+    "Nông thôn": 1123.2
   },
   {
-    "ten tinh": "Phú Thọ",
-    "tong so": 1381.7,
-    "nam": 681.5,
-    "nu": 700.2,
-    "thanh thi": 258.5,
-    "nong thon": 1123.2
+    "Tên tỉnh": "Phú Yên",
+    "Tổng số": 899.4,
+    "Nam": 449.8,
+    "Nữ": 449.6,
+    "Thành thị": 261.4,
+    "Nông thôn": 638
   },
   {
-    "ten tinh": "Phú Yên",
-    "tong so": 899.4,
-    "nam": 449.8,
-    "nu": 449.6,
-    "thanh thi": 261.4,
-    "nong thon": "638."
+    "Tên tỉnh": "Quảng Bình",
+    "Tổng số": 877.7,
+    "Nam": 439.3,
+    "Nữ": 438.4,
+    "Thành thị": 172.4,
+    "Nông thôn": 705.3
   },
   {
-    "ten tinh": "Quảng Bình",
-    "tong so": 877.7,
-    "nam": 439.3,
-    "nu": 438.4,
-    "thanh thi": 172.4,
-    "nong thon": 705.3
+    "Tên tỉnh": "Quảng Nam",
+    "Tổng số": 1486.7,
+    "Nam": 727.1,
+    "Nữ": 759.6,
+    "Thành thị": 359.2,
+    "Nông thôn": 1127.5
   },
   {
-    "ten tinh": "Quảng Nam",
-    "tong so": 1486.7,
-    "nam": 727.1,
-    "nu": 759.6,
-    "thanh thi": 359.2,
-    "nong thon": 1127.5
+    "Tên tỉnh": "Quảng Ninh",
+    "Tổng số": 1227,
+    "Nam": 614.9,
+    "Nữ": 612.1,
+    "Thành thị": 774.3,
+    "Nông thôn": 452.7
   },
   {
-    "ten tinh": "Quảng Ninh",
-    "tong so": "1227.",
-    "nam": 614.9,
-    "nu": 612.1,
-    "thanh thi": 774.3,
-    "nong thon": 452.7
+    "Tên tỉnh": "Quảng Ngãi",
+    "Tổng số": 1254.2,
+    "Nam": 619.4,
+    "Nữ": 634.8,
+    "Thành thị": 187.6,
+    "Nông thôn": 1066.6
   },
   {
-    "ten tinh": "Quảng Ngãi",
-    "tong so": 1254.2,
-    "nam": 619.4,
-    "nu": 634.8,
-    "thanh thi": 187.6,
-    "nong thon": 1066.6
+    "Tên tỉnh": "Quảng Trị",
+    "Tổng số": 623.5,
+    "Nam": 306,
+    "Nữ": 317.5,
+    "Thành thị": 184.9,
+    "Nông thôn": 438.6
   },
   {
-    "ten tinh": "Quảng Trị",
-    "tong so": 623.5,
-    "nam": "306.",
-    "nu": 317.5,
-    "thanh thi": 184.9,
-    "nong thon": 438.6
+    "Tên tỉnh": "Sóc Trăng",
+    "Tổng số": 1312.5,
+    "Nam": 651,
+    "Nữ": 661.5,
+    "Thành thị": 401.6,
+    "Nông thôn": 910.9
   },
   {
-    "ten tinh": "Sóc Trăng",
-    "tong so": 1312.5,
-    "nam": "651.",
-    "nu": 661.5,
-    "thanh thi": 401.6,
-    "nong thon": 910.9
+    "Tên tỉnh": "Sơn La",
+    "Tổng số": 1208.2,
+    "Nam": 607.2,
+    "Nữ": 601,
+    "Thành thị": 164.6,
+    "Nông thôn": 1043.6
   },
   {
-    "ten tinh": "Sơn La",
-    "tong so": 1208.2,
-    "nam": 607.2,
-    "nu": "601.",
-    "thanh thi": 164.6,
-    "nong thon": 1043.6
+    "Tên tỉnh": "Tây Ninh",
+    "Tổng số": 1118.8,
+    "Nam": 559.7,
+    "Nữ": 559.1,
+    "Thành thị": 249.7,
+    "Nông thôn": 869.1
   },
   {
-    "ten tinh": "Tây Ninh",
-    "tong so": 1118.8,
-    "nam": 559.7,
-    "nu": 559.1,
-    "thanh thi": 249.7,
-    "nong thon": 869.1
+    "Tên tỉnh": "Tiền Giang",
+    "Tổng số": 1740.1,
+    "Nam": 853.5,
+    "Nữ": 886.6,
+    "Thành thị": 269.8,
+    "Nông thôn": 1470.3
   },
   {
-    "ten tinh": "Tiền Giang",
-    "tong so": 1740.1,
-    "nam": 853.5,
-    "nu": 886.6,
-    "thanh thi": 269.8,
-    "nong thon": 1470.3
+    "Tên tỉnh": "TP.Hồ Chí Minh",
+    "Tổng số": 8272,
+    "Nam": 3967.5,
+    "Nữ": 4319.5,
+    "Thành thị": 6733.1,
+    "Nông thôn": 1553.9
   },
   {
-    "ten tinh": "TP.Hồ Chí Minh",
-    "tong so": "8287.",
-    "nam": 3967.5,
-    "nu": 4319.5,
-    "thanh thi": 6733.1,
-    "nong thon": 1553.9
+    "Tên tỉnh": "Tuyên Quang",
+    "Tổng số": 766.9,
+    "Nam": 377.2,
+    "Nữ": 389.7,
+    "Thành thị": 104.5,
+    "Nông thôn": 662.4
   },
   {
-    "ten tinh": "Tuyên Quang",
-    "tong so": 766.9,
-    "nam": 377.2,
-    "nu": 389.7,
-    "thanh thi": 104.5,
-    "nong thon": 662.4
+    "Tên tỉnh": "Thái Bình",
+    "Tổng số": 1789.9,
+    "Nam": 865.2,
+    "Nữ": 924.7,
+    "Thành thị": 187.9,
+    "Nông thôn": 1602
   },
   {
-    "ten tinh": "Thái Bình",
-    "tong so": 1789.9,
-    "nam": 865.2,
-    "nu": 924.7,
-    "thanh thi": 187.9,
-    "nong thon": "1602."
+    "Tên tỉnh": "Thái Nguyên",
+    "Tổng số": 1243.8,
+    "Nam": 611.1,
+    "Nữ": 632.7,
+    "Thành thị": 428.3,
+    "Nông thôn": 815.5
   },
   {
-    "ten tinh": "Thái Nguyên",
-    "tong so": 1243.8,
-    "nam": 611.1,
-    "nu": 632.7,
-    "thanh thi": 428.3,
-    "nong thon": 815.5
+    "Tên tỉnh": "Thanh Hoá",
+    "Tổng số": 3528.3,
+    "Nam": 1758.4,
+    "Nữ": 1769.9,
+    "Thành thị": 602.4,
+    "Nông thôn": 2925.9
   },
   {
-    "ten tinh": "Thanh Hoá",
-    "tong so": 3528.3,
-    "nam": 1758.4,
-    "nu": 1769.9,
-    "thanh thi": 602.4,
-    "nong thon": 2925.9
+    "Tên tỉnh": "Thừa Thiên Huế",
+    "Tổng số": 1149.9,
+    "Nam": 571.4,
+    "Nữ": 578.5,
+    "Thành thị": 559.4,
+    "Nông thôn": 590.5
   },
   {
-    "ten tinh": "Thừa Thiên Huế",
-    "tong so": 1149.9,
-    "nam": 571.4,
-    "nu": 578.5,
-    "thanh thi": 559.4,
-    "nong thon": 590.5
+    "Tên tỉnh": "Trà Vinh",
+    "Tổng số": 1040.5,
+    "Nam": 508.7,
+    "Nữ": 531.8,
+    "Thành thị": 186.3,
+    "Nông thôn": 854.2
   },
   {
-    "ten tinh": "Trà Vinh",
-    "tong so": 1040.5,
-    "nam": 508.7,
-    "nu": 531.8,
-    "thanh thi": 186.3,
-    "nong thon": 854.2
+    "Tên tỉnh": "Vĩnh Long",
+    "Tổng số": 1048.6,
+    "Nam": 516.8,
+    "Nữ": 531.8,
+    "Thành thị": 177.5,
+    "Nông thôn": 871.1
   },
   {
-    "ten tinh": "Vĩnh Long",
-    "tong so": 1048.6,
-    "nam": 516.8,
-    "nu": 531.8,
-    "thanh thi": 177.5,
-    "nong thon": 871.1
+    "Tên tỉnh": "Vĩnh Phúc",
+    "Tổng số": 1066,
+    "Nam": 524.2,
+    "Nữ": 541.8,
+    "Thành thị": 248.5,
+    "Nông thôn": 817.5
   },
   {
-    "ten tinh": "Vĩnh Phúc",
-    "tong so": "1066.",
-    "nam": 524.2,
-    "nu": 541.8,
-    "thanh thi": 248.5,
-    "nong thon": 817.5
-  },
-  {
-    "ten tinh": "Yên Bái",
-    "tong so": 800.3,
-    "nam": 399.9,
-    "nu": 400.4,
-    "thanh thi": 163.7,
-    "nong thon": 636.6
+    "Tên tỉnh": "Yên Bái",
+    "Tổng số": 800.3,
+    "Nam": 399.9,
+    "Nữ": 400.4,
+    "Thành thị": 163.7,
+    "Nông thôn": 636.6
   }
 ]

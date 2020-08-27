@@ -1,386 +1,380 @@
 [
   {
-    "ten tinh": "An Giang",
-    "ty suat sinh tho": 11.6,
-    "ty suat chet tho": 9.7,
-    "ty le tang tu nhien": 1.9
+    "Tên tỉnh": "An Giang",
+    "Tỷ suất sinh thô": 11.6,
+    "Tỷ suất chết thô": 9.7,
+    "Tỷ lệ tăng tự nhiên": 1.9
   },
   {
-    "ten tinh": "Bà Rịa - Vũng Tàu",
-    "ty suat sinh tho": 10.5,
-    "ty suat chet tho": 5.6,
-    "ty le tang tu nhien": 4.9
+    "Tên tỉnh": "Bà Rịa - Vũng Tàu",
+    "Tỷ suất sinh thô": 10.5,
+    "Tỷ suất chết thô": 5.6,
+    "Tỷ lệ tăng tự nhiên": 4.9
   },
   {
-    "ten tinh": "Bạc Liêu",
-    "ty suat sinh tho": 12.4,
-    "ty suat chet tho": 6,
-    "ty le tang tu nhien": 6.4
+    "Tên tỉnh": "Bạc Liêu",
+    "Tỷ suất sinh thô": 12.4,
+    "Tỷ suất chết thô": 6,
+    "Tỷ lệ tăng tự nhiên": 6.4
   },
   {
-    "ten tinh": "Bắc Giang",
-    "ty suat sinh tho": 19.8,
-    "ty suat chet tho": 8.4,
-    "ty le tang tu nhien": 11.4
+    "Tên tỉnh": "Bắc Giang",
+    "Tỷ suất sinh thô": 19.8,
+    "Tỷ suất chết thô": 8.4,
+    "Tỷ lệ tăng tự nhiên": 11.4
   },
   {
-    "ten tinh": "Bắc Kạn",
-    "ty suat sinh tho": 16.3,
-    "ty suat chet tho": 7.3,
-    "ty le tang tu nhien": 9
+    "Tên tỉnh": "Bắc Kạn",
+    "Tỷ suất sinh thô": 16.3,
+    "Tỷ suất chết thô": 7.3,
+    "Tỷ lệ tăng tự nhiên": 9
   },
   {
-    "ten tinh": "Bắc Ninh",
-    "ty suat sinh tho": 20.4,
-    "ty suat chet tho": 4.8,
-    "ty le tang tu nhien": 15.6
+    "Tên tỉnh": "Bắc Ninh",
+    "Tỷ suất sinh thô": 20.4,
+    "Tỷ suất chết thô": 4.8,
+    "Tỷ lệ tăng tự nhiên": 15.6
   },
   {
-    "ten tinh": "Bến Tre",
-    "ty suat sinh tho": 11.3,
-    "ty suat chet tho": 9.1,
-    "ty le tang tu nhien": 2.2
+    "Tên tỉnh": "Bến Tre",
+    "Tỷ suất sinh thô": 11.3,
+    "Tỷ suất chết thô": 9.1,
+    "Tỷ lệ tăng tự nhiên": 2.2
   },
   {
-    "ten tinh": "Bình Ðịnh",
-    "ty suat sinh tho": 20.2,
-    "ty suat chet tho": 3.7,
-    "ty le tang tu nhien": 16.5
+    "Tên tỉnh": "Bình Ðịnh",
+    "Tỷ suất sinh thô": 20.2,
+    "Tỷ suất chết thô": 3.7,
+    "Tỷ lệ tăng tự nhiên": 16.5
   },
   {
-    "ten tinh": "Bình Dương",
-    "ty suat sinh tho": 12.8,
-    "ty suat chet tho": 7.9,
-    "ty le tang tu nhien": 4.9
+    "Tên tỉnh": "Bình Dương",
+    "Tỷ suất sinh thô": 12.8,
+    "Tỷ suất chết thô": 7.9,
+    "Tỷ lệ tăng tự nhiên": 4.9
   },
   {
-    "ten tinh": "Bình Phước",
-    "ty suat sinh tho": 15.5,
-    "ty suat chet tho": 6.1,
-    "ty le tang tu nhien": 9.4
+    "Tên tỉnh": "Bình Phước",
+    "Tỷ suất sinh thô": 15.5,
+    "Tỷ suất chết thô": 6.1,
+    "Tỷ lệ tăng tự nhiên": 9.4
   },
   {
-    "ten tinh": "Bình Thuận",
-    "ty suat sinh tho": 12.7,
-    "ty suat chet tho": 6.2,
-    "ty le tang tu nhien": 6.5
+    "Tên tỉnh": "Bình Thuận",
+    "Tỷ suất sinh thô": 12.7,
+    "Tỷ suất chết thô": 6.2,
+    "Tỷ lệ tăng tự nhiên": 6.5
   },
   {
-    "ten tinh": "Cà Mau",
-    "ty suat sinh tho": 11.9,
-    "ty suat chet tho": 6.6,
-    "ty le tang tu nhien": 5.3
+    "Tên tỉnh": "Cà Mau",
+    "Tỷ suất sinh thô": 11.9,
+    "Tỷ suất chết thô": 6.6,
+    "Tỷ lệ tăng tự nhiên": 5.3
   },
   {
-    "ten tinh": "Cao Bằng",
-    "ty suat sinh tho": 16.8,
-    "ty suat chet tho": 14.4,
-    "ty le tang tu nhien": 2.4
+    "Tên tỉnh": "Cao Bằng",
+    "Tỷ suất sinh thô": 16.8,
+    "Tỷ suất chết thô": 14.4,
+    "Tỷ lệ tăng tự nhiên": 2.4
   },
   {
-    "ten tinh": "Cần Thơ",
-    "ty suat sinh tho": 12.3,
-    "ty suat chet tho": 6.3,
-    "ty le tang tu nhien": 6
+    "Tên tỉnh": "Cần Thơ",
+    "Tỷ suất sinh thô": 12.3,
+    "Tỷ suất chết thô": 6.3,
+    "Tỷ lệ tăng tự nhiên": 6
   },
   {
-    "ten tinh": "Ðà Nẵng",
-    "ty suat sinh tho": 15.2,
-    "ty suat chet tho": 6.3,
-    "ty le tang tu nhien": 8.9
+    "Tên tỉnh": "Ðà Nẵng",
+    "Tỷ suất sinh thô": 15.2,
+    "Tỷ suất chết thô": 6.3,
+    "Tỷ lệ tăng tự nhiên": 8.9
   },
   {
-    "ten tinh": "Ðắk Lắk",
-    "ty suat sinh tho": 16.1,
-    "ty suat chet tho": 5.7,
-    "ty le tang tu nhien": 10.4
+    "Tên tỉnh": "Ðắk Lắk",
+    "Tỷ suất sinh thô": 16.1,
+    "Tỷ suất chết thô": 5.7,
+    "Tỷ lệ tăng tự nhiên": 10.4
   },
   {
-    "ten tinh": "Ðắk Nông",
-    "ty suat sinh tho": 15.9,
-    "ty suat chet tho": 5.5,
-    "ty le tang tu nhien": 10.4
+    "Tên tỉnh": "Ðắk Nông",
+    "Tỷ suất sinh thô": 15.9,
+    "Tỷ suất chết thô": 5.5,
+    "Tỷ lệ tăng tự nhiên": 10.4
   },
   {
-    "ten tinh": "Ðiện Biên",
-    "ty suat sinh tho": 23.5,
-    "ty suat chet tho": 6.7,
-    "ty le tang tu nhien": 16.8
+    "Tên tỉnh": "Ðiện Biên",
+    "Tỷ suất sinh thô": 23.5,
+    "Tỷ suất chết thô": 6.7,
+    "Tỷ lệ tăng tự nhiên": 16.8
   },
   {
-    "ten tinh": "Ðồng Nai",
-    "ty suat sinh tho": 13,
-    "ty suat chet tho": 6.2,
-    "ty le tang tu nhien": 6.8
+    "Tên tỉnh": "Ðồng Nai",
+    "Tỷ suất sinh thô": 13,
+    "Tỷ suất chết thô": 6.2,
+    "Tỷ lệ tăng tự nhiên": 6.8
   },
   {
-    "ten tinh": "Ðồng Tháp",
-    "ty suat sinh tho": 9.5,
-    "ty suat chet tho": 9.5,
-    "ty le tang tu nhien": 0
+    "Tên tỉnh": "Ðồng Tháp",
+    "Tỷ suất sinh thô": 9.5,
+    "Tỷ suất chết thô": 9.5,
+    "Tỷ lệ tăng tự nhiên": 0
   },
   {
-    "ten tinh": "Gia Lai",
-    "ty suat sinh tho": 18.2,
-    "ty suat chet tho": 6,
-    "ty le tang tu nhien": 12.2
+    "Tên tỉnh": "Gia Lai",
+    "Tỷ suất sinh thô": 18.2,
+    "Tỷ suất chết thô": 6,
+    "Tỷ lệ tăng tự nhiên": 12.2
   },
   {
-    "ten tinh": "Hà Giang",
-    "ty suat sinh tho": 19.3,
-    "ty suat chet tho": 7.2,
-    "ty le tang tu nhien": 12.1
+    "Tên tỉnh": "Hà Giang",
+    "Tỷ suất sinh thô": 19.3,
+    "Tỷ suất chết thô": 7.2,
+    "Tỷ lệ tăng tự nhiên": 12.1
   },
   {
-    "ten tinh": "Hà Nam",
-    "ty suat sinh tho": 12.2,
-    "ty suat chet tho": 6.5,
-    "ty le tang tu nhien": 5.7
+    "Tên tỉnh": "Hà Nam",
+    "Tỷ suất sinh thô": 12.2,
+    "Tỷ suất chết thô": 6.5,
+    "Tỷ lệ tăng tự nhiên": 5.7
   },
   {
-    "ten tinh": "Hà Nội",
-    "ty suat sinh tho": 15.1,
-    "ty suat chet tho": 5.5,
-    "ty le tang tu nhien": 9.6
+    "Tên tỉnh": "Hà Nội",
+    "Tỷ suất sinh thô": 15.1,
+    "Tỷ suất chết thô": 5.5,
+    "Tỷ lệ tăng tự nhiên": 9.6
   },
   {
-    "ten tinh": "Hà Tây",
-    "ty suat sinh tho": "..",
-    "ty suat chet tho": "..",
-    "ty le tang tu nhien": ".."
+    "Tên tỉnh": "Hà Tĩnh",
+    "Tỷ suất sinh thô": 19.5,
+    "Tỷ suất chết thô": 6.6,
+    "Tỷ lệ tăng tự nhiên": 12.9
   },
   {
-    "ten tinh": "Hà Tĩnh",
-    "ty suat sinh tho": 19.5,
-    "ty suat chet tho": 6.6,
-    "ty le tang tu nhien": 12.9
+    "Tên tỉnh": "Hải Dương",
+    "Tỷ suất sinh thô": 13.1,
+    "Tỷ suất chết thô": 7.7,
+    "Tỷ lệ tăng tự nhiên": 5.4
   },
   {
-    "ten tinh": "Hải Dương",
-    "ty suat sinh tho": 13.1,
-    "ty suat chet tho": 7.7,
-    "ty le tang tu nhien": 5.4
+    "Tên tỉnh": "Hải Phòng",
+    "Tỷ suất sinh thô": 14,
+    "Tỷ suất chết thô": 8,
+    "Tỷ lệ tăng tự nhiên": 6
   },
   {
-    "ten tinh": "Hải Phòng",
-    "ty suat sinh tho": 14,
-    "ty suat chet tho": 8,
-    "ty le tang tu nhien": 6
+    "Tên tỉnh": "Hậu Giang",
+    "Tỷ suất sinh thô": 10.8,
+    "Tỷ suất chết thô": 5.5,
+    "Tỷ lệ tăng tự nhiên": 5.3
   },
   {
-    "ten tinh": "Hậu Giang",
-    "ty suat sinh tho": 10.8,
-    "ty suat chet tho": 5.5,
-    "ty le tang tu nhien": 5.3
+    "Tên tỉnh": "Hoà Bình",
+    "Tỷ suất sinh thô": 15.6,
+    "Tỷ suất chết thô": 7.1,
+    "Tỷ lệ tăng tự nhiên": 8.5
   },
   {
-    "ten tinh": "Hoà Bình",
-    "ty suat sinh tho": 15.6,
-    "ty suat chet tho": 7.1,
-    "ty le tang tu nhien": 8.5
+    "Tên tỉnh": "Hưng Yên",
+    "Tỷ suất sinh thô": 13.9,
+    "Tỷ suất chết thô": 8.1,
+    "Tỷ lệ tăng tự nhiên": 5.8
   },
   {
-    "ten tinh": "Hưng Yên",
-    "ty suat sinh tho": 13.9,
-    "ty suat chet tho": 8.1,
-    "ty le tang tu nhien": 5.8
+    "Tên tỉnh": "Kiên Giang",
+    "Tỷ suất sinh thô": 12.6,
+    "Tỷ suất chết thô": 8.3,
+    "Tỷ lệ tăng tự nhiên": 4.3
   },
   {
-    "ten tinh": "Kiên Giang",
-    "ty suat sinh tho": 12.6,
-    "ty suat chet tho": 8.3,
-    "ty le tang tu nhien": 4.3
+    "Tên tỉnh": "Kon Tum",
+    "Tỷ suất sinh thô": 19.4,
+    "Tỷ suất chết thô": 6.9,
+    "Tỷ lệ tăng tự nhiên": 12.5
   },
   {
-    "ten tinh": "Kon Tum",
-    "ty suat sinh tho": 19.4,
-    "ty suat chet tho": 6.9,
-    "ty le tang tu nhien": 12.5
+    "Tên tỉnh": "Khánh Hoà",
+    "Tỷ suất sinh thô": 12.7,
+    "Tỷ suất chết thô": 6,
+    "Tỷ lệ tăng tự nhiên": 6.7
   },
   {
-    "ten tinh": "Khánh Hoà",
-    "ty suat sinh tho": 12.7,
-    "ty suat chet tho": 6,
-    "ty le tang tu nhien": 6.7
+    "Tên tỉnh": "Lai Châu",
+    "Tỷ suất sinh thô": 22.3,
+    "Tỷ suất chết thô": 7.9,
+    "Tỷ lệ tăng tự nhiên": 14.4
   },
   {
-    "ten tinh": "Lai Châu",
-    "ty suat sinh tho": 22.3,
-    "ty suat chet tho": 7.9,
-    "ty le tang tu nhien": 14.4
+    "Tên tỉnh": "Lạng Sơn",
+    "Tỷ suất sinh thô": 16.6,
+    "Tỷ suất chết thô": 9.3,
+    "Tỷ lệ tăng tự nhiên": 7.3
   },
   {
-    "ten tinh": "Lạng Sơn",
-    "ty suat sinh tho": 16.6,
-    "ty suat chet tho": 9.3,
-    "ty le tang tu nhien": 7.3
+    "Tên tỉnh": "Lào Cai",
+    "Tỷ suất sinh thô": 18.2,
+    "Tỷ suất chết thô": 6,
+    "Tỷ lệ tăng tự nhiên": 12.2
   },
   {
-    "ten tinh": "Lào Cai",
-    "ty suat sinh tho": 18.2,
-    "ty suat chet tho": 6,
-    "ty le tang tu nhien": 12.2
+    "Tên tỉnh": "Lâm Ðồng",
+    "Tỷ suất sinh thô": 16.6,
+    "Tỷ suất chết thô": 4.9,
+    "Tỷ lệ tăng tự nhiên": 11.7
   },
   {
-    "ten tinh": "Lâm Ðồng",
-    "ty suat sinh tho": 16.6,
-    "ty suat chet tho": 4.9,
-    "ty le tang tu nhien": 11.7
+    "Tên tỉnh": "Long An",
+    "Tỷ suất sinh thô": 11.8,
+    "Tỷ suất chết thô": 6.9,
+    "Tỷ lệ tăng tự nhiên": 4.9
   },
   {
-    "ten tinh": "Long An",
-    "ty suat sinh tho": 11.8,
-    "ty suat chet tho": 6.9,
-    "ty le tang tu nhien": 4.9
+    "Tên tỉnh": "Nam Ðịnh",
+    "Tỷ suất sinh thô": 13.7,
+    "Tỷ suất chết thô": 9,
+    "Tỷ lệ tăng tự nhiên": 4.7
   },
   {
-    "ten tinh": "Nam Ðịnh",
-    "ty suat sinh tho": 13.7,
-    "ty suat chet tho": 9,
-    "ty le tang tu nhien": 4.7
+    "Tên tỉnh": "Ninh Bình",
+    "Tỷ suất sinh thô": 13.4,
+    "Tỷ suất chết thô": 9.1,
+    "Tỷ lệ tăng tự nhiên": 4.3
   },
   {
-    "ten tinh": "Ninh Bình",
-    "ty suat sinh tho": 13.4,
-    "ty suat chet tho": 9.1,
-    "ty le tang tu nhien": 4.3
+    "Tên tỉnh": "Ninh Thuận",
+    "Tỷ suất sinh thô": 17.6,
+    "Tỷ suất chết thô": 7.6,
+    "Tỷ lệ tăng tự nhiên": 10
   },
   {
-    "ten tinh": "Ninh Thuận",
-    "ty suat sinh tho": 17.6,
-    "ty suat chet tho": 7.6,
-    "ty le tang tu nhien": 10
+    "Tên tỉnh": "Nghệ An",
+    "Tỷ suất sinh thô": 20.7,
+    "Tỷ suất chết thô": 6.9,
+    "Tỷ lệ tăng tự nhiên": 13.8
   },
   {
-    "ten tinh": "Nghệ An",
-    "ty suat sinh tho": 20.7,
-    "ty suat chet tho": 6.9,
-    "ty le tang tu nhien": 13.8
+    "Tên tỉnh": "Phú Thọ",
+    "Tỷ suất sinh thô": 16.8,
+    "Tỷ suất chết thô": 6.4,
+    "Tỷ lệ tăng tự nhiên": 10.4
   },
   {
-    "ten tinh": "Phú Thọ",
-    "ty suat sinh tho": 16.8,
-    "ty suat chet tho": 6.4,
-    "ty le tang tu nhien": 10.4
+    "Tên tỉnh": "Phú Yên",
+    "Tỷ suất sinh thô": 13.6,
+    "Tỷ suất chết thô": 6.8,
+    "Tỷ lệ tăng tự nhiên": 6.8
   },
   {
-    "ten tinh": "Phú Yên",
-    "ty suat sinh tho": 13.6,
-    "ty suat chet tho": 6.8,
-    "ty le tang tu nhien": 6.8
+    "Tên tỉnh": "Quảng Bình",
+    "Tỷ suất sinh thô": 15.9,
+    "Tỷ suất chết thô": 6.8,
+    "Tỷ lệ tăng tự nhiên": 9.1
   },
   {
-    "ten tinh": "Quảng Bình",
-    "ty suat sinh tho": 15.9,
-    "ty suat chet tho": 6.8,
-    "ty le tang tu nhien": 9.1
+    "Tên tỉnh": "Quảng Nam",
+    "Tỷ suất sinh thô": 15.2,
+    "Tỷ suất chết thô": 8.7,
+    "Tỷ lệ tăng tự nhiên": 6.5
   },
   {
-    "ten tinh": "Quảng Nam",
-    "ty suat sinh tho": 15.2,
-    "ty suat chet tho": 8.7,
-    "ty le tang tu nhien": 6.5
+    "Tên tỉnh": "Quảng Ninh",
+    "Tỷ suất sinh thô": 15.5,
+    "Tỷ suất chết thô": 4.5,
+    "Tỷ lệ tăng tự nhiên": 11
   },
   {
-    "ten tinh": "Quảng Ninh",
-    "ty suat sinh tho": 15.5,
-    "ty suat chet tho": 4.5,
-    "ty le tang tu nhien": 11
+    "Tên tỉnh": "Quảng Ngãi",
+    "Tỷ suất sinh thô": 12,
+    "Tỷ suất chết thô": 6.6,
+    "Tỷ lệ tăng tự nhiên": 5.4
   },
   {
-    "ten tinh": "Quảng Ngãi",
-    "ty suat sinh tho": 12,
-    "ty suat chet tho": 6.6,
-    "ty le tang tu nhien": 5.4
+    "Tên tỉnh": "Quảng Trị",
+    "Tỷ suất sinh thô": 17.8,
+    "Tỷ suất chết thô": 8,
+    "Tỷ lệ tăng tự nhiên": 9.8
   },
   {
-    "ten tinh": "Quảng Trị",
-    "ty suat sinh tho": 17.8,
-    "ty suat chet tho": 8,
-    "ty le tang tu nhien": 9.8
+    "Tên tỉnh": "Sóc Trăng",
+    "Tỷ suất sinh thô": 11.1,
+    "Tỷ suất chết thô": 5.7,
+    "Tỷ lệ tăng tự nhiên": 5.4
   },
   {
-    "ten tinh": "Sóc Trăng",
-    "ty suat sinh tho": 11.1,
-    "ty suat chet tho": 5.7,
-    "ty le tang tu nhien": 5.4
+    "Tên tỉnh": "Sơn La",
+    "Tỷ suất sinh thô": 22.2,
+    "Tỷ suất chết thô": 5.9,
+    "Tỷ lệ tăng tự nhiên": 16.3
   },
   {
-    "ten tinh": "Sơn La",
-    "ty suat sinh tho": 22.2,
-    "ty suat chet tho": 5.9,
-    "ty le tang tu nhien": 16.3
+    "Tên tỉnh": "Tây Ninh",
+    "Tỷ suất sinh thô": 12.7,
+    "Tỷ suất chết thô": 5.8,
+    "Tỷ lệ tăng tự nhiên": 6.9
   },
   {
-    "ten tinh": "Tây Ninh",
-    "ty suat sinh tho": 12.7,
-    "ty suat chet tho": 5.8,
-    "ty le tang tu nhien": 6.9
+    "Tên tỉnh": "Tiền Giang",
+    "Tỷ suất sinh thô": 13.6,
+    "Tỷ suất chết thô": 9.2,
+    "Tỷ lệ tăng tự nhiên": 4.4
   },
   {
-    "ten tinh": "Tiền Giang",
-    "ty suat sinh tho": 13.6,
-    "ty suat chet tho": 9.2,
-    "ty le tang tu nhien": 4.4
+    "Tên tỉnh": "TP.Hồ Chí Minh",
+    "Tỷ suất sinh thô": 12.1,
+    "Tỷ suất chết thô": 5.4,
+    "Tỷ lệ tăng tự nhiên": 6.7
   },
   {
-    "ten tinh": "TP.Hồ Chí Minh",
-    "ty suat sinh tho": 12.1,
-    "ty suat chet tho": 5.4,
-    "ty le tang tu nhien": 6.7
+    "Tên tỉnh": "Tuyên Quang",
+    "Tỷ suất sinh thô": 18.6,
+    "Tỷ suất chết thô": 7.3,
+    "Tỷ lệ tăng tự nhiên": 11.3
   },
   {
-    "ten tinh": "Tuyên Quang",
-    "ty suat sinh tho": 18.6,
-    "ty suat chet tho": 7.3,
-    "ty le tang tu nhien": 11.3
+    "Tên tỉnh": "Thái Bình",
+    "Tỷ suất sinh thô": 12,
+    "Tỷ suất chết thô": 8.5,
+    "Tỷ lệ tăng tự nhiên": 3.5
   },
   {
-    "ten tinh": "Thái Bình",
-    "ty suat sinh tho": 12,
-    "ty suat chet tho": 8.5,
-    "ty le tang tu nhien": 3.5
+    "Tên tỉnh": "Thái Nguyên",
+    "Tỷ suất sinh thô": 16,
+    "Tỷ suất chết thô": 4.7,
+    "Tỷ lệ tăng tự nhiên": 11.3
   },
   {
-    "ten tinh": "Thái Nguyên",
-    "ty suat sinh tho": 16,
-    "ty suat chet tho": 4.7,
-    "ty le tang tu nhien": 11.3
+    "Tên tỉnh": "Thanh Hoá",
+    "Tỷ suất sinh thô": 16.6,
+    "Tỷ suất chết thô": 7.7,
+    "Tỷ lệ tăng tự nhiên": 8.9
   },
   {
-    "ten tinh": "Thanh Hoá",
-    "ty suat sinh tho": 16.6,
-    "ty suat chet tho": 7.7,
-    "ty le tang tu nhien": 8.9
+    "Tên tỉnh": "Thừa Thiên Huế",
+    "Tỷ suất sinh thô": 16.5,
+    "Tỷ suất chết thô": 7.5,
+    "Tỷ lệ tăng tự nhiên": 9
   },
   {
-    "ten tinh": "Thừa Thiên Huế",
-    "ty suat sinh tho": 16.5,
-    "ty suat chet tho": 7.5,
-    "ty le tang tu nhien": 9
+    "Tên tỉnh": "Trà Vinh",
+    "Tỷ suất sinh thô": 15.6,
+    "Tỷ suất chết thô": 8,
+    "Tỷ lệ tăng tự nhiên": 7.6
   },
   {
-    "ten tinh": "Trà Vinh",
-    "ty suat sinh tho": 15.6,
-    "ty suat chet tho": 8,
-    "ty le tang tu nhien": 7.6
+    "Tên tỉnh": "Vĩnh Long",
+    "Tỷ suất sinh thô": 10.9,
+    "Tỷ suất chết thô": 8.1,
+    "Tỷ lệ tăng tự nhiên": 2.8
   },
   {
-    "ten tinh": "Vĩnh Long",
-    "ty suat sinh tho": 10.9,
-    "ty suat chet tho": 8.1,
-    "ty le tang tu nhien": 2.8
+    "Tên tỉnh": "Vĩnh Phúc",
+    "Tỷ suất sinh thô": 17.5,
+    "Tỷ suất chết thô": 7.2,
+    "Tỷ lệ tăng tự nhiên": 10.3
   },
   {
-    "ten tinh": "Vĩnh Phúc",
-    "ty suat sinh tho": 17.5,
-    "ty suat chet tho": 7.2,
-    "ty le tang tu nhien": 10.3
-  },
-  {
-    "ten tinh": "Yên Bái",
-    "ty suat sinh tho": 19.6,
-    "ty suat chet tho": 8.6,
-    "ty le tang tu nhien": 11
+    "Tên tỉnh": "Yên Bái",
+    "Tỷ suất sinh thô": 19.6,
+    "Tỷ suất chết thô": 8.6,
+    "Tỷ lệ tăng tự nhiên": 11
   }
 ]
