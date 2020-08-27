@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+	<title>Biểu đồ kết hôn trung bình lần đầu </title>
 </head>
 <body>
 	<!-- Styles -->
@@ -13,7 +13,7 @@
 			height: 500px;
 	}
 	</style>
-			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ kết hôn lần đầu <b id="year"> 2018</b></h1>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ kết hôn trung bình lần đầu <b id="year"> 2018</b></h1>
 
     <!-- Resources -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -69,62 +69,74 @@
 
             $(document).ajaxComplete(function() {
         // Chart start           
-                am4core.ready(function() {
-                    // Themes begin
-                    am4core.useTheme(am4themes_animated);
-                    // Themes end
+            am4core.ready(function() {
 
-                    // Create chart instance
-                    var chart = am4core.create("chartdiv", am4charts.XYChart);
-                    chart.scrollbarX = new am4core.Scrollbar();
-                    // Add data
-                    chart.data =  data_ajax; // * Gán biến từ ajax 
-                    // Create axes
-                    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
-                    categoryAxis.dataFields.category = "ten tinh";
-                    categoryAxis.renderer.grid.template.location = 0;
-                    categoryAxis.renderer.minGridDistance = 5;
-                    categoryAxis.renderer.labels.template.horizontalCenter = "right";
-                    categoryAxis.renderer.labels.template.verticalCenter = "middle";
-                    categoryAxis.renderer.labels.template.rotation = 270;
-                    categoryAxis.tooltip.disabled = true;
-                    categoryAxis.renderer.minHeight = 110;
+    // Themes begin
+    am4core.useTheme(am4themes_animated);
+    // Themes end
 
-                    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
-                    valueAxis.renderer.minWidth = 63;
+    // Create chart instance
+    var chart = am4core.create("chartdiv", am4charts.XYChart);
+    chart.scrollbarX = new am4core.Scrollbar();
 
-                    // Create series
-                    var series = chart.series.push(new am4charts.ColumnSeries());
-                    series.sequencedInterpolation = true;
-                    series.dataFields.valueY = "ket hon tb lan dau";
-                    series.dataFields.categoryX = "ten tinh";
-                    series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
-                    series.columns.template.strokeWidth = 0;
+    // Add data
+    chart.data = data_ajax ;
+    //chart.padding(40, 40, 40, 40);
+    // Create axes category
+    var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+    categoryAxis.renderer.grid.template.location = 0;
+    categoryAxis.dataFields.category = "ten tinh";
+    //Định dang label
+    categoryAxis.renderer.minGridDistance = 5;
+    categoryAxis.renderer.labels.template.horizontalCenter = "right";
+    categoryAxis.renderer.labels.template.verticalCenter = "middle";
+    //label dọc
+    categoryAxis.renderer.labels.template.rotation = 270;
+    //categoryAxis.tooltip.disabled = false;
+    categoryAxis.renderer.minHeight = 5;
+    // Create axes value
+    var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    valueAxis.renderer.minWidth = 20;
+    // Create series_Line
+    var series = chart.series.push(new am4charts.LineSeries());
+    series.dataFields.categoryX = "ten tinh";
+    series.dataFields.valueY = "ket hon tb lan dau";
+    series.tooltipText = "{valueY}";
 
-                    series.tooltip.pointerOrientation = "vertical";
+    var errorBullet = series.bullets.create(am4charts.Circle);
+    errorBullet.isDynamic = false;
+    errorBullet.strokeWidth = 1;
 
-                    series.columns.template.column.cornerRadiusTopLeft = 10;
-                    series.columns.template.column.cornerRadiusTopRight = 10;
-                    series.columns.template.column.fillOpacity = 0.8;
+    var circle = errorBullet.createChild(am4core.Circle);
+    circle.radius = 4;
+    circle.fill = am4core.color("red");
 
-                    // on hover, make corner radiuses bigger
-                    var hoverState = series.columns.template.column.states.create("hover");
-                    hoverState.properties.cornerRadiusTopLeft = 0;
-                    hoverState.properties.cornerRadiusTopRight = 0;
-                    hoverState.properties.fillOpacity = 1;
+    // adapter adjusts height of a bullet
 
-                    series.columns.template.adapter.add("fill", function(fill, target) {
-                            return chart.colors.getIndex(target.dataItem.index);
-                    });
+    errorBullet.adapter.add("pixelHeight", function(pixelHeight, target) {
+        var dataItem = target.dataItem;
 
-                    // Cursor
-                    chart.cursor = new am4charts.XYCursor();
+        if (dataItem) {
+            var value = dataItem.valueY;
+            var errorTopValue = value + dataItem.dataContext.error / 2;
+            var errorTopY = valueAxis.valueToPoint(errorTopValue).y;
 
-                }); 
-            // end am4core.ready()
-            });
-            //end ajax complate
-        });
+            var errorBottomValue = value - dataItem.dataContext.error / 2;
+            var errorBottomY = valueAxis.valueToPoint(errorBottomValue).y;
+
+            return Math.abs(errorTopY - errorBottomY);
+        }
+        return pixelHeight;
+    });
+
+    // Cursor
+    chart.cursor = new am4charts.XYCursor();
+
+            }); // end am4core.ready()
+        }); 
+                // end am4core.ready()
+    });
+                //end ajax complate
     // End jquery 
 
 	</script>
@@ -132,4 +144,4 @@
 	<!-- HTML -->
 	<div id="chartdiv"></div>
 </body>
-</html>
+</html>8

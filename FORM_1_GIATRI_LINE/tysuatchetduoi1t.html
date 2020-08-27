@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Biểu đồ lao động trên 15 tuổi so với tổng dân số </title>
+	<title>Biểu đồ tỷ suất chết dưới 1 tuổi</title>
 </head>
 <body>
 	<!-- Styles -->
@@ -13,7 +13,7 @@
 			height: 500px;
 	}
 	</style>
-			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ lao động trên 15 tuổi so với tổng dân số <b id="year"> 2018</b></h1>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ tỷ suất chết dưới 1 tuổi <b id="year"> 2018</b></h1>
 
     <!-- Resources -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -24,7 +24,7 @@
     
     <form>
         <div class="form-group">
-            <label for="txt_nam">Chon nam:</label>
+            <label for="txt_nam">Chọn năm:</label>
             <select id="txt_nam" name="txt_nam" class="form-control">
                 <option value="2016">nam 2016</option>
                 <option value="2017">nam 2017</option>
@@ -47,7 +47,7 @@
                 
                 var ajax_load =   $.ajax({
                         type: 'GET',
-                        url : '../JSON_1_GIATRI/laodongt15tsotongds'+year+'.js',
+                        url : '../JSON_1_GIATRI/tysuatchetduoi1t'+year+'.js',
                         dataType:'script',
                         success: function(data) {
                             data_ajax =  eval(data);
@@ -100,7 +100,7 @@
     // Create series_Line
     var series = chart.series.push(new am4charts.LineSeries());
     series.dataFields.categoryX = "ten tinh";
-    series.dataFields.valueY = "tl lao dong tren 15t dang lam viec so voi tong ds";
+    series.dataFields.valueY = "ts chet duoi 1t";
     series.tooltipText = "{valueY}";
 
     var errorBullet = series.bullets.create(am4charts.Circle);
