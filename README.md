@@ -62,6 +62,16 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 ### Form 3 Năm 3 Giá Trị
 
+[1. Diện tích dân số mật độ dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_3_GIATRI_LINE/DS_DT_MDDS.html)
+
+[2. Nhập cư xuất cư và di cư thuần](https://soiqualang.github.io/TramAnh_GIRS/FORM_3_GIATRI_LINE/NHAP_XUAT_DICU.html)
+
+[3. Sinh thô chết thô tăng tự nhiên](https://soiqualang.github.io/TramAnh_GIRS/FORM_3_GIATRI_LINE/SINH_CHET_TANG.html)
+
+[4. Trung bình dân số](https://soiqualang.github.io/TramAnh_GIRS/FORM_3_GIATRI_LINE/TBDS.html)
+
+[5. Ly hôn](https://soiqualang.github.io/TramAnh_GIRS/FORM_3_GIATRI_LINE/lyhon.html)
+
 ### Chart 1 Giá Trị Column
 
 #### 2016 Dân số
