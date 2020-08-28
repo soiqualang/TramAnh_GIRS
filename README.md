@@ -30,7 +30,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 [6. Tỷ sUất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tysuatchetduoi5t.html)
 
-[7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tysuatchetduoiduoi1t.html)
+[7. Tỷ suất chết dưới 1 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/tysuatchetduoi1t.html)
 
 [8. Dân số trên 15 tuổi biết chữ](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_LINE/DST15BCHU.html)
 
@@ -61,18 +61,6 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 [10. Lao động trên 15 tuổi](https://soiqualang.github.io/TramAnh_GIRS/FORM_1_GIATRI_COLUMN/LDT15T.html)
 
 ### Form 3 Năm 3 Giá Trị
-
-### Chart 3 Giá Trị Line
-
-[1. Kết hôn 2018](https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/kethon2018.html)
-
-[2. Tử vong đăng kí khai tử 2018 ](https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/tuvongdkkhaitu2018.html)
-
-[3. Ly hôn 2016](https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2016.html)
-
-[4. Ly hôn 2017]( https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2017.html)
-
-[5. Ly hôn 2018](https://soiqualang.github.io/TramAnh_GIRS/CHART_DON_cot/lyhon2018.html)
 
 ### Chart 1 Giá Trị Column
 
@@ -211,7 +199,47 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 [10. Tỷ suất chết dưới 5 tuổi](https://soiqualang.github.io/TramAnh_GIRS/CHART_1_LINE/tysuatchetduoi5t2018.html)
 
 ### Chart 3 Giá Trị Line
-   
+
+#### 2016 Dân số
+
+[1. Dân số diện tích mật độ dân số năm 2016 ](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/DS_DT_MDDS2016.html)
+
+[2. Nhập cư, xuất cư, di cư thuần năm 2016](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/NHAP_XUAT_DICU2016.html)
+
+[3. Sinh thô, chết thô, tăng tự nhiên năm 2016](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/SINH_CHET_TANG2016.html)
+
+[4. Trung bình dân số địa phương năm 2016](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/TBDS2016.html)
+
+[5. Số cuộc ly hôn năm 2016](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/lyhon2016.html)
+
+#### 2017 Dân số
+
+[1. Dân số diện tích mật độ dân số năm 2017 ](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/DS_DT_MDDS2017.html)
+
+[2. Nhập cư, xuất cư, di cư thuần năm 2017](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/NHAP_XUAT_DICU2017.html)
+
+[3. Sinh thô, chết thô, tăng tự nhiên năm 2017](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/SINH_CHET_TANG2017.html)
+
+[4. Trung bình dân số địa phương năm 2017](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/TBDS2017.html)
+
+[5. Số cuộc ly hôn năm 2017](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/lyhon2017.html)
+
+#### 2018 Dân số
+
+[1. Dân số diện tích mật độ dân số năm 2018 ](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/DS_DT_MDDS2018.html)
+
+[2. Nhập cư, xuất cư, di cư thuần năm 2018](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/NHAP_XUAT_DICU2018.html)
+
+[3. Sinh thô, chết thô, tăng tự nhiên năm 2018](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/SINH_CHET_TANG2018.html)
+
+[4. Trung bình dân số địa phương năm 2018](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/TBDS2018.html)
+
+[5. Số cuộc ly hôn năm 2018](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/lyhon2018.html)
+
+[6. Số cuộc kết hôn năm 2018](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/kethon2018.html)
+
+[7. Tử vong có đăng kí khai tử năm 2018](https://soiqualang.github.io/TramAnh_GIRS/CHART_3_LINE/tuvongdkkhaitu2018.html)
+
 ### Chart JS
 
 [Biểu đồ cột đứng -Thư viện Amchart](https://soiqualang.github.io/TramAnh_GIRS/jschart/chart1.html)
