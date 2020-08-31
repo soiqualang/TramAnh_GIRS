@@ -60,6 +60,8 @@
         //categoryAxis.tooltip.disabled = false;
         categoryAxis.renderer.minHeight = 5;
         // Create axes value
+        var distanceAxis = chart.yAxes.push(new am4charts.ValueAxis());
+        distanceAxis.title.text = "Số con/phụ nữ";
         var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
         valueAxis.renderer.minWidth = 20;
         // Create series_Line
