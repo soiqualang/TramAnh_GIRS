@@ -20,10 +20,6 @@
         "tong ts sinh": 2.59
     },
     {
-        "ten tinh": "Hải Phòng",
-        "tong ts sinh": 1.92
-    },
-    {
         "ten tinh": "Hưng Yên",
         "tong ts sinh": 2.39
     },
@@ -43,7 +39,6 @@
         "ten tinh": "Ninh Bình",
         "tong ts sinh": 2.53
     },
-    
     {
         "ten tinh": "Hà Giang",
         "tong ts sinh": 2.74
@@ -158,10 +153,6 @@
         "tong ts sinh": 1.82
     },
     {
-        "ten tinh": "Tây Nguyên",
-        "tong ts sinh": 2.32
-    },
-    {
         "ten tinh": "Kon Tum",
         "tong ts sinh": 2.12
     },
@@ -206,7 +197,6 @@
         "ten tinh": "TP. Hồ Chí Minh",
         "tong ts sinh": 1.33
     },
-    
     {
         "ten tinh": "Long An",
         "tong ts sinh": 1.83

@@ -156,10 +156,6 @@
     "ld t15 qua dt": 15.6
   },
   {
-    "Teb tinh": "Tây Nguyên",
-    "ld t15 qua dt": 13.5
-  },
-  {
     "Teb tinh": "Kon Tum",
     "ld t15 qua dt": 16.6
   },

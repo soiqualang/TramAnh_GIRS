@@ -208,10 +208,6 @@
     "tysogioitinh": 99.8
   },
   {
-    "tentinh": "Tây Nguyên",
-    "tysogioitinh": 101.8
-  },
-  {
     "tentinh": "Tiền Giang",
     "tysogioitinh": 96.3
   },

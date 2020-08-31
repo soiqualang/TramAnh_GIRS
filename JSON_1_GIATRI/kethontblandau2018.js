@@ -1,5 +1,4 @@
 [
-  
   {
    "ten tinh": "Hà Nội",
     "ket hon tb lan dau": 26.2
@@ -155,10 +154,6 @@
   {
    "ten tinh": "Bình Thuận",
     "ket hon tb lan dau": 26.4
-  },
-  {
-   "ten tinh": "Tây Nguyên",
-    "ket hon tb lan dau": 26.9
   },
   {
    "ten tinh": "Kon Tum",

@@ -1,7 +1,7 @@
 [
   {
     "Ten tinh": "Hà Nội",
-    "ld_t15": "4.024.20"
+    "ld_t15": 4024.2
   },
   {
     "Ten tinh": "Vĩnh Phúc",
@@ -17,11 +17,11 @@
   },
   {
     "Ten tinh": "Hải Dương",
-    "ld_t15": "1.071.70"
+    "ld_t15": 1071.7
   },
   {
     "Ten tinh": "Hải Phòng",
-    "ld_t15": "1.136.00"
+    "ld_t15": 1136
   },
   {
     "Ten tinh": "Hưng Yên",
@@ -29,7 +29,7 @@
   },
   {
     "Ten tinh": "Thái Bình",
-    "ld_t15": "1.120.10"
+    "ld_t15": 1120.1
   },
   {
     "Ten tinh": "Hà Nam",
@@ -37,7 +37,7 @@
   },
   {
     "Ten tinh": "Nam Định",
-    "ld_t15": "1.051.90"
+    "ld_t15": 1051.9
   },
   {
     "Ten tinh": "Ninh Bình",
@@ -77,7 +77,7 @@
   },
   {
     "Ten tinh": "Bắc Giang",
-    "ld_t15": "1.063.70"
+    "ld_t15": 1063.7
   },
   {
     "Ten tinh": "Phú Thọ",
@@ -101,11 +101,11 @@
   },
   {
     "Ten tinh": "Thanh Hóa",
-    "ld_t15": "2.253.40"
+    "ld_t15": 2253.4
   },
   {
     "Ten tinh": "Nghệ An",
-    "ld_t15": "1.911.60"
+    "ld_t15": 1911.6
   },
   {
     "Ten tinh": "Hà Tĩnh",
@@ -165,7 +165,7 @@
   },
   {
     "Ten tinh": "Đắk Lắk",
-    "ld_t15": "1.084.90"
+    "ld_t15": 1084.9
   },
   {
     "Ten tinh": "Đắk Nông",
@@ -185,11 +185,11 @@
   },
   {
     "Ten tinh": "Bình Dương",
-    "ld_t15": "1.492.10"
+    "ld_t15": 1492.1
   },
   {
     "Ten tinh": "Đồng Nai",
-    "ld_t15": "1.738.70"
+    "ld_t15": 1738.7
   },
   {
     "Ten tinh": "Bà Rịa - Vũng Tàu",
@@ -197,7 +197,7 @@
   },
   {
     "Ten tinh": "TP. Hồ Chí Minh",
-    "ld_t15": "4.578.70"
+    "ld_t15": 4578.7
   },
   {
     "Ten tinh": "Long An",
@@ -205,7 +205,7 @@
   },
   {
     "Ten tinh": "Tiền Giang",
-    "ld_t15": "1.102.30"
+    "ld_t15": 1102.3
   },
   {
     "Ten tinh": "Bến Tre",
@@ -225,7 +225,7 @@
   },
   {
     "Ten tinh": "An Giang",
-    "ld_t15": "1.096.20"
+    "ld_t15": 1096.2
   },
   {
     "Ten tinh": "Kiên Giang",
