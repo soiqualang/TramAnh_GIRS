@@ -63,16 +63,20 @@
                 categoryAxis.renderer.labels.template.rotation = 270;
                 categoryAxis.tooltip.disabled = true;
                 categoryAxis.renderer.minHeight = 110;
-                
+               
+                var distanceAxis = chart.yAxes.push(new am4charts.ValueAxis());
+                distanceAxis.title.text = "Trẻ em dưới năm tuổi tử vong/1000 trẻ em sinh sống";
+
                 var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
-                valueAxis.renderer.minWidth = 63;
-                
+                valueAxis.renderer.minWidth = 15;
+               
+
                 // Create series
                 var series = chart.series.push(new am4charts.ColumnSeries());
                 series.sequencedInterpolation = true;
                 series.dataFields.valueY = "ts chet duoi 5t";
                 series.dataFields.categoryX = "ten tinh";
-                series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
+                series.tooltipText = "[{categoryX}: bold]{valueY.formatNumber('#.0')}Trẻ em dưới năm tuổi tử vong/1000 trẻ em sinh sống[/]";
                 series.columns.template.strokeWidth = 0;
                 
                 series.tooltip.pointerOrientation = "vertical";
@@ -98,6 +102,7 @@
             });
             //end ajax complate
         });
+        
     // End jquery 
 	</script>
 	

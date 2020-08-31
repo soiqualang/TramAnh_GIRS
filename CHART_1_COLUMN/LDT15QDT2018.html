@@ -66,13 +66,14 @@
                 
                 var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
                 valueAxis.renderer.minWidth = 63;
-                
+                valueAxis.numberFormatter.numberFormat = "#'%'"
+
                 // Create series
                 var series = chart.series.push(new am4charts.ColumnSeries());
                 series.sequencedInterpolation = true;
                 series.dataFields.valueY = "ld t15 qua dt";
                 series.dataFields.categoryX = "Ten tinh";
-                series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
+                series.tooltipText = "[{categoryX}: bold]{valueY.formatNumber('#.0')}%[/]";
                 series.columns.template.strokeWidth = 0;
                 
                 series.tooltip.pointerOrientation = "vertical";
