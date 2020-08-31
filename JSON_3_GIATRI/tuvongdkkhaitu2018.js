@@ -1,15 +1,4 @@
-[{
-        "Tên tỉnh": "CẢ NƯỚC",
-        "Tổng số": 569.338,
-        "Đúng hạn": 403.361,
-        "Quá hạn": 165.977
-    },
-    {
-        "Tên tỉnh": "Đồng bằng sông Hồng",
-        "Tổng số": 120.184,
-        "Đúng hạn": 104.087,
-        "Quá hạn": 16.097
-    },
+[
     {
         "Tên tỉnh": "Hà Nội",
         "Tổng số": 37.014,
@@ -75,12 +64,6 @@
         "Tổng số": 5.597,
         "Đúng hạn": 4.581,
         "Quá hạn": 1.016
-    },
-    {
-        "Tên tỉnh": "Trung du và miền núi phía Bắc",
-        "Tổng số": 67.574,
-        "Đúng hạn": 48.077,
-        "Quá hạn": 19.497
     },
     {
         "Tên tỉnh": "Hà Giang",
@@ -167,12 +150,6 @@
         "Quá hạn": 744
     },
     {
-        "Tên tỉnh": "Bắc Trung Bộ và duyên hải miền Trung",
-        "Tổng số": 143.588,
-        "Đúng hạn": 83.919,
-        "Quá hạn": 59.669
-    },
-    {
         "Tên tỉnh": "Thanh Hóa",
         "Tổng số": 25.053,
         "Đúng hạn": 17.011,
@@ -257,12 +234,6 @@
         "Quá hạn": 4.716
     },
     {
-        "Tên tỉnh": "Tây Nguyên",
-        "Tổng số": 29.662,
-        "Đúng hạn": 15.731,
-        "Quá hạn": 13.931
-    },
-    {
         "Tên tỉnh": "Kon Tum",
         "Tổng số": 2.789,
         "Đúng hạn": 1.23,
@@ -291,12 +262,6 @@
         "Tổng số": 5.968,
         "Đúng hạn": 4.037,
         "Quá hạn": 1.931
-    },
-    {
-        "Tên tỉnh": "Đông Nam Bộ",
-        "Tổng số": 75.07,
-        "Đúng hạn": 63.694,
-        "Quá hạn": 11.376
     },
     {
         "Tên tỉnh": "Bình Phước",
@@ -333,12 +298,6 @@
         "Tổng số": 34.845,
         "Đúng hạn": 31.086,
         "Quá hạn": 3.759
-    },
-    {
-        "Tên tỉnh": "Đồng bằng sông Cửu Long",
-        "Tổng số": 133.26,
-        "Đúng hạn": 87.853,
-        "Quá hạn": 45.407
     },
     {
         "Tên tỉnh": "Long An",

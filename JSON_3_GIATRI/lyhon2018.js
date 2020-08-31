@@ -35,12 +35,6 @@
     "Cấp huyện": 242
 },
 {
-    "ten tinh": "Bắc Trung Bộ và duyên hải miền Trung",
-    "Tổng số": 4.703,
-    "Cấp tỉnh": 319,
-    "Cấp huyện": 4.384
-},
-{
     "ten tinh": "Bến Tre",
     "Tổng số": 773,
     "Cấp tỉnh": 0,
@@ -75,12 +69,6 @@
     "Tổng số": 1.117,
     "Cấp tỉnh": 16,
     "Cấp huyện": 1.101
-},
-{
-    "ten tinh": "CẢ NƯỚC",
-    "Tổng số": 28.076,
-    "Cấp tỉnh": 1.933,
-    "Cấp huyện": 26.143
 },
 {
     "ten tinh": "Cao Bằng",
@@ -119,28 +107,10 @@
     "Cấp huyện": 102
 },
 {
-    "ten tinh": "Đồng bằng sông Cửu Long",
-    "Tổng số": 9.314,
-    "Cấp tỉnh": 531,
-    "Cấp huyện": 8.783
-},
-{
-    "ten tinh": "Đồng bằng sông Hồng",
-    "Tổng số": 4.796,
-    "Cấp tỉnh": 332,
-    "Cấp huyện": 4.464
-},
-{
     "ten tinh": "Đồng Nai",
     "Tổng số": 1.068,
     "Cấp tỉnh": 80,
     "Cấp huyện": 988
-},
-{
-    "ten tinh": "Đông Nam Bộ",
-    "Tổng số": 5.338,
-    "Cấp tỉnh": 646,
-    "Cấp huyện": 4.692
 },
 {
     "ten tinh": "Đồng Tháp",
@@ -341,12 +311,6 @@
     "Cấp huyện": 784
 },
 {
-    "ten tinh": "Tây Nguyên",
-    "Tổng số": 1.213,
-    "Cấp tỉnh": 24,
-    "Cấp huyện": 1.189
-},
-{
     "ten tinh": "Tiền Giang",
     "Tổng số": 1.301,
     "Cấp tỉnh": 26,
@@ -393,12 +357,6 @@
     "Tổng số": 344,
     "Cấp tỉnh": 25,
     "Cấp huyện": 319
-},
-{
-    "ten tinh": "Trung du và miền núi phía Bắc",
-    "Tổng số": 2.712,
-    "Cấp tỉnh": 81,
-    "Cấp huyện": 2.631
 },
 {
     "ten tinh": "Vĩnh Long",

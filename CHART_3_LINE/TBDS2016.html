@@ -53,15 +53,17 @@
 	// Create category axis
 	var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
 	categoryAxis.dataFields.category = "Tên tỉnh";
-	categoryAxis.renderer.opposite = true;
+	categoryAxis.renderer.opposite = false;
 	categoryAxis.renderer.minGridDistance = 5;
 	categoryAxis.renderer.labels.template.rotation = 270;
-	categoryAxis.renderer.labels.template.horizontalCenter = "left";
+	categoryAxis.renderer.labels.template.horizontalCenter = "right";
 	categoryAxis.renderer.labels.template.verticalCenter = "middle";
 
 	// Create value axis
+	var distanceAxis = chart.yAxes.push(new am4charts.ValueAxis());
+    distanceAxis.title.text = "Nghìn người";
 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
-	valueAxis.renderer.inversed = true;
+	valueAxis.renderer.inversed = false;
 	
 	//valueAxis.title.text = "Place taken";
 	valueAxis.renderer.minLabelPosition = 0.01;
@@ -72,7 +74,7 @@
 	series1.dataFields.categoryX = "Tên tỉnh";
 	series1.name = "Tổng số";
 	series1.bullets.push(new am4charts.CircleBullet());
-	series1.tooltipText = "{categoryX}: {valueY}";
+	series1.tooltipText = " Tổng số :{valueY}";
 	series1.legendSettings.valueText = "{valueY}";
 	series1.visible  = false;
 	
@@ -81,7 +83,7 @@
 	series2.dataFields.categoryX = "Tên tỉnh";
 	series2.name = 'Nam';
 	series2.bullets.push(new am4charts.CircleBullet());
-	series2.tooltipText = "{categoryX}: {valueY}";
+	series2.tooltipText = " Nam :{valueY}";
 	series2.legendSettings.valueText = "{valueY}";
 	
 	var series3 = chart.series.push(new am4charts.LineSeries());
@@ -89,7 +91,7 @@
 	series3.dataFields.categoryX = "Tên tỉnh";
 	series3.name = 'Nữ';
 	series3.bullets.push(new am4charts.CircleBullet());
-	series3.tooltipText = "{categoryX}: {valueY}";
+	series3.tooltipText = " Nữ :{valueY}";
 	series3.legendSettings.valueText = "{valueY}";
 
 	var series4 = chart.series.push(new am4charts.LineSeries());
@@ -97,7 +99,7 @@
 	series4.dataFields.categoryX = "Tên tỉnh";
 	series4.name = 'Thành thị';
 	series4.bullets.push(new am4charts.CircleBullet());
-	series4.tooltipText = "{categoryX}: {valueY}";
+	series4.tooltipText = " Thành thị :{valueY}";
 	series4.legendSettings.valueText = "{valueY}";
 
 	var series5 = chart.series.push(new am4charts.LineSeries());
@@ -105,7 +107,7 @@
 	series5.dataFields.categoryX = "Tên tỉnh";
 	series5.name = 'Nông thôn';
 	series5.bullets.push(new am4charts.CircleBullet());
-	series5.tooltipText = "{categoryX}: {valueY}";
+	series5.tooltipText = " Nông thôn :{valueY}";
 	series5.legendSettings.valueText = "{valueY}";
 
 	// Add chart cursor
