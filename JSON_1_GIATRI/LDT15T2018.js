@@ -1,254 +1,254 @@
 [
   {
-    "tentinh": "Hà Nội",
-    "ld_15t": 4064.8
+    "Ten tinh": "Hà Nội",
+    "ld_t15": 4064.8
   },
   {
-    "tentinh": "Vĩnh Phúc",
-    "ld_15t": 630.5
+    "Ten tinh": "Vĩnh Phúc",
+    "ld_t15": 630.5
   },
   {
-    "tentinh": "Bắc Ninh",
-    "ld_15t": 751.6
+    "Ten tinh": "Bắc Ninh",
+    "ld_t15": 751.6
   },
   {
-    "tentinh": "Quảng Ninh",
-    "ld_15t": 734.7
+    "Ten tinh": "Quảng Ninh",
+    "ld_t15": 734.7
   },
   {
-    "tentinh": "Hải Dương",
-    "ld_15t": 1067.6
+    "Ten tinh": "Hải Dương",
+    "ld_t15": 1067.6
   },
   {
-    "tentinh": "Hải Phòng",
-    "ld_15t": 1138.2
+    "Ten tinh": "Hải Phòng",
+    "ld_t15": 1138.2
   },
   {
-    "tentinh": "Hưng Yên",
-    "ld_15t": 717.9
+    "Ten tinh": "Hưng Yên",
+    "ld_t15": 717.9
   },
   {
-    "tentinh": "Thái Bình",
-    "ld_15t": 1121.3
+    "Ten tinh": "Thái Bình",
+    "ld_t15": 1121.3
   },
   {
-    "tentinh": "Hà Nam",
-    "ld_15t": 487.7
+    "Ten tinh": "Hà Nam",
+    "ld_t15": 487.7
   },
   {
-    "tentinh": "Nam Định",
-    "ld_15t": 1044.6
+    "Ten tinh": "Nam Định",
+    "ld_t15": 1044.6
   },
   {
-    "tentinh": "Ninh Bình",
-    "ld_15t": 586.2
+    "Ten tinh": "Ninh Bình",
+    "ld_t15": 586.2
   },
   {
-    "tentinh": "Hà Giang",
-    "ld_15t": 532.8
+    "Ten tinh": "Hà Giang",
+    "ld_t15": 532.8
   },
   {
-    "tentinh": "Cao Bằng",
-    "ld_15t": 351.9
+    "Ten tinh": "Cao Bằng",
+    "ld_t15": 351.9
   },
   {
-    "tentinh": "Bắc Kạn",
-    "ld_15t": 216.5
+    "Ten tinh": "Bắc Kạn",
+    "ld_t15": 216.5
   },
   {
-    "tentinh": "Tuyên Quang",
-    "ld_15t": 480.6
+    "Ten tinh": "Tuyên Quang",
+    "ld_t15": 480.6
   },
   {
-    "tentinh": "Lào Cai",
-    "ld_15t": 444.2
+    "Ten tinh": "Lào Cai",
+    "ld_t15": 444.2
   },
   {
-    "tentinh": "Yên Bái",
-    "ld_15t": 519.6
+    "Ten tinh": "Yên Bái",
+    "ld_t15": 519.6
   },
   {
-    "tentinh": "Thái Nguyên",
-    "ld_15t": 767.2
+    "Ten tinh": "Thái Nguyên",
+    "ld_t15": 767.2
   },
   {
-    "tentinh": "Lạng Sơn",
-    "ld_15t": 493.9
+    "Ten tinh": "Lạng Sơn",
+    "ld_t15": 493.9
   },
   {
-    "tentinh": "Bắc Giang",
-    "ld_15t": 1088.1
+    "Ten tinh": "Bắc Giang",
+    "ld_t15": 1088.1
   },
   {
-    "tentinh": "Phú Thọ",
-    "ld_15t": 848
+    "Ten tinh": "Phú Thọ",
+    "ld_t15": 848
   },
   {
-    "tentinh": "Điện Biên",
-    "ld_15t": 341.4
+    "Ten tinh": "Điện Biên",
+    "ld_t15": 341.4
   },
   {
-    "tentinh": "Lai Châu",
-    "ld_15t": 274.3
+    "Ten tinh": "Lai Châu",
+    "ld_t15": 274.3
   },
   {
-    "tentinh": "Sơn La",
-    "ld_15t": 758.6
+    "Ten tinh": "Sơn La",
+    "ld_t15": 758.6
   },
   {
-    "tentinh": "Hòa Bình",
-    "ld_15t": 553
+    "Ten tinh": "Hòa Bình",
+    "ld_t15": 553
   },
   {
-    "tentinh": "Thanh Hóa",
-    "ld_15t": 2261.2
+    "Ten tinh": "Thanh Hóa",
+    "ld_t15": 2261.2
   },
   {
-    "tentinh": "Nghệ An",
-    "ld_15t": 1909.6
+    "Ten tinh": "Nghệ An",
+    "ld_t15": 1909.6
   },
   {
-    "tentinh": "Hà Tĩnh",
-    "ld_15t": 707
+    "Ten tinh": "Hà Tĩnh",
+    "ld_t15": 707
   },
   {
-    "tentinh": "Quảng Bình",
-    "ld_15t": 527.7
+    "Ten tinh": "Quảng Bình",
+    "ld_t15": 527.7
   },
   {
-    "tentinh": "Quảng Trị",
-    "ld_15t": 346.4
+    "Ten tinh": "Quảng Trị",
+    "ld_t15": 346.4
   },
   {
-    "tentinh": "Thừa Thiên - Huế",
-    "ld_15t": 615
+    "Ten tinh": "Thừa Thiên - Huế",
+    "ld_t15": 615
   },
   {
-    "tentinh": "Đà Nẵng",
-    "ld_15t": 601.4
+    "Ten tinh": "Đà Nẵng",
+    "ld_t15": 601.4
   },
   {
-    "tentinh": "Quảng Nam",
-    "ld_15t": 883.4
+    "Ten tinh": "Quảng Nam",
+    "ld_t15": 883.4
   },
   {
-    "tentinh": "Quảng Ngãi",
-    "ld_15t": 746.7
+    "Ten tinh": "Quảng Ngãi",
+    "ld_t15": 746.7
   },
   {
-    "tentinh": "Bình Định",
-    "ld_15t": 907.3
+    "Ten tinh": "Bình Định",
+    "ld_t15": 907.3
   },
   {
-    "tentinh": "Phú Yên",
-    "ld_15t": 524.5
+    "Ten tinh": "Phú Yên",
+    "ld_t15": 524.5
   },
   {
-    "tentinh": "Khánh Hòa",
-    "ld_15t": 702.2
+    "Ten tinh": "Khánh Hòa",
+    "ld_t15": 702.2
   },
   {
-    "tentinh": "Ninh Thuận",
-    "ld_15t": 337.5
+    "Ten tinh": "Ninh Thuận",
+    "ld_t15": 337.5
   },
   {
-    "tentinh": "Bình Thuận",
-    "ld_15t": 723.8
+    "Ten tinh": "Bình Thuận",
+    "ld_t15": 723.8
   },
   {
-    "tentinh": "Kon Tum",
-    "ld_15t": 307.6
+    "Ten tinh": "Kon Tum",
+    "ld_t15": 307.6
   },
   {
-    "tentinh": "Gia Lai",
-    "ld_15t": 890
+    "Ten tinh": "Gia Lai",
+    "ld_t15": 890
   },
   {
-    "tentinh": "Đắk Lắk",
-    "ld_15t": 1096.9
+    "Ten tinh": "Đắk Lắk",
+    "ld_t15": 1096.9
   },
   {
-    "tentinh": "Đắk Nông",
-    "ld_15t": 367.4
+    "Ten tinh": "Đắk Nông",
+    "ld_t15": 367.4
   },
   {
-    "tentinh": "Lâm Đồng",
-    "ld_15t": 748.8
+    "Ten tinh": "Lâm Đồng",
+    "ld_t15": 748.8
   },
   {
-    "tentinh": "Bình Phước",
-    "ld_15t": 588.8
+    "Ten tinh": "Bình Phước",
+    "ld_t15": 588.8
   },
   {
-    "tentinh": "Tây Ninh",
-    "ld_15t": 676.9
+    "Ten tinh": "Tây Ninh",
+    "ld_t15": 676.9
   },
   {
-    "tentinh": "Bình Dương",
-    "ld_15t": 1562.2
+    "Ten tinh": "Bình Dương",
+    "ld_t15": 1562.2
   },
   {
-    "tentinh": "Đồng Nai",
-    "ld_15t": 1765.1
+    "Ten tinh": "Đồng Nai",
+    "ld_t15": 1765.1
   },
   {
-    "tentinh": "Bà Rịa - Vũng Tàu",
-    "ld_15t": 610.1
+    "Ten tinh": "Bà Rịa - Vũng Tàu",
+    "ld_t15": 610.1
   },
   {
-    "tentinh": "TP. Hồ Chí Minh",
-    "ld_15t": 4684.9
+    "Ten tinh": "TP. Hồ Chí Minh",
+    "ld_t15": 4684.9
   },
   {
-    "tentinh": "Long An",
-    "ld_15t": 1006.7
+    "Ten tinh": "Long An",
+    "ld_t15": 1006.7
   },
   {
-    "tentinh": "Tiền Giang",
-    "ld_15t": 1125.8
+    "Ten tinh": "Tiền Giang",
+    "ld_t15": 1125.8
   },
   {
-    "tentinh": "Bến Tre",
-    "ld_15t": 814.5
+    "Ten tinh": "Bến Tre",
+    "ld_t15": 814.5
   },
   {
-    "tentinh": "Trà Vinh",
-    "ld_15t": 588.1
+    "Ten tinh": "Trà Vinh",
+    "ld_t15": 588.1
   },
   {
-    "tentinh": "Vĩnh Long",
-    "ld_15t": 607.9
+    "Ten tinh": "Vĩnh Long",
+    "ld_t15": 607.9
   },
   {
-    "tentinh": "Đồng Tháp",
-    "ld_15t": 1055.7
+    "Ten tinh": "Đồng Tháp",
+    "ld_t15": 1055.7
   },
   {
-    "tentinh": "An Giang",
-    "ld_15t": 1078.7
+    "Ten tinh": "An Giang",
+    "ld_t15": 1078.7
   },
   {
-    "tentinh": "Kiên Giang",
-    "ld_15t": 946.2
+    "Ten tinh": "Kiên Giang",
+    "ld_t15": 946.2
   },
   {
-    "tentinh": "Cần Thơ",
-    "ld_15t": 731
+    "Ten tinh": "Cần Thơ",
+    "ld_t15": 731
   },
   {
-    "tentinh": "Hậu Giang",
-    "ld_15t": 450.7
+    "Ten tinh": "Hậu Giang",
+    "ld_t15": 450.7
   },
   {
-    "tentinh": "Sóc Trăng",
-    "ld_15t": 670.1
+    "Ten tinh": "Sóc Trăng",
+    "ld_t15": 670.1
   },
   {
-    "tentinh": "Bạc Liêu",
-    "ld_15t": 516.7
+    "Ten tinh": "Bạc Liêu",
+    "ld_t15": 516.7
   },
   {
-    "tentinh": "Cà Mau",
-    "ld_15t": 688.3
+    "Ten tinh": "Cà Mau",
+    "ld_t15": 688.3
   }
 ]
