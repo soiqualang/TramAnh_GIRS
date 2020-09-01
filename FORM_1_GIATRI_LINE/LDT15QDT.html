@@ -97,19 +97,22 @@
     // Create axes value
     var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
     valueAxis.renderer.minWidth = 20;
+    valueAxis.numberFormatter.numberFormat = "#'%'"
+
     // Create series_Line
     var series = chart.series.push(new am4charts.LineSeries());
     series.dataFields.categoryX = "ten tinh";
     series.dataFields.valueY = "tl lao dong tren 15t dang lam viec so voi tong ds";
     series.tooltipText = "{valueY}";
-
+    series.strokeWidth = 3;
+        series.stroke = series.fill = am4core.color("#c00");
     var errorBullet = series.bullets.create(am4charts.Circle);
     errorBullet.isDynamic = false;
     errorBullet.strokeWidth = 1;
 
     var circle = errorBullet.createChild(am4core.Circle);
-    circle.radius = 4;
-    circle.fill = am4core.color("red");
+    circle.radius = 6;
+    circle.fill = am4core.color("orange");
 
     // adapter adjusts height of a bullet
 
@@ -144,4 +147,4 @@
 	<!-- HTML -->
 	<div id="chartdiv"></div>
 </body>
-</html>8
+</html>

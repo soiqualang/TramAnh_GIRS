@@ -10,7 +10,7 @@
 <style>
 	#chartdiv {
 			width: 100%;
-			height: 500px;
+			height: 650px;
 	}
 	</style>
 			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ lao động trên 15 tuổi so với tổng dân số <b id="year"> 2018</b></h1>
@@ -24,11 +24,11 @@
     
     <form>
         <div class="form-group">
-            <label for="txt_nam">Chon nam:</label>
+            <label for="txt_nam">Chọn năm:</label>
             <select id="txt_nam" name="txt_nam" class="form-control">
-                <option value="2016">nam 2016</option>
-                <option value="2017">nam 2017</option>
-                <option value="2018" selected="selected" >nam 2018</option>
+                <option value="2016">Năm 2016</option>
+                <option value="2017">Năm 2017</option>
+                <option value="2018" selected="selected" >Năm 2018</option>
             </select>
             </div>
             
@@ -97,19 +97,24 @@
     // Create axes value
     var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
     valueAxis.renderer.minWidth = 20;
+    valueAxis.numberFormatter.numberFormat = "#'%'"
+
     // Create series_Line
     var series = chart.series.push(new am4charts.LineSeries());
     series.dataFields.categoryX = "ten tinh";
     series.dataFields.valueY = "tl lao dong tren 15t dang lam viec so voi tong ds";
     series.tooltipText = "{valueY}";
-
+    series.strokeWidth = 3;
+    series.stroke = series.fill = am4core.color("#c00");
     var errorBullet = series.bullets.create(am4charts.Circle);
     errorBullet.isDynamic = false;
     errorBullet.strokeWidth = 1;
 
     var circle = errorBullet.createChild(am4core.Circle);
-    circle.radius = 4;
+    circle.radius = 6;
     circle.fill = am4core.color("red");
+
+   
 
     // adapter adjusts height of a bullet
 
@@ -144,4 +149,4 @@
 	<!-- HTML -->
 	<div id="chartdiv"></div>
 </body>
-</html>8
+</html>

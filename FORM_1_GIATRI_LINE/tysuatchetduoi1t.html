@@ -26,9 +26,9 @@
         <div class="form-group">
             <label for="txt_nam">Chọn năm:</label>
             <select id="txt_nam" name="txt_nam" class="form-control">
-                <option value="2016">nam 2016</option>
-                <option value="2017">nam 2017</option>
-                <option value="2018" selected="selected" >nam 2018</option>
+                <option value="2016">Năm 2016</option>
+                <option value="2017">Năm 2017</option>
+                <option value="2018" selected="selected" >Năm 2018</option>
             </select>
             </div>
             
@@ -95,6 +95,8 @@
     //categoryAxis.tooltip.disabled = false;
     categoryAxis.renderer.minHeight = 5;
     // Create axes value
+    var distanceAxis = chart.yAxes.push(new am4charts.ValueAxis());
+                distanceAxis.title.text = "Trẻ em dưới một tuổi tử vong/1000 trẻ em sinh sống";
     var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
     valueAxis.renderer.minWidth = 20;
     // Create series_Line
@@ -102,15 +104,15 @@
     series.dataFields.categoryX = "ten tinh";
     series.dataFields.valueY = "ts chet duoi 1t";
     series.tooltipText = "{valueY}";
-
+    series.strokeWidth = 3;
+    series.stroke = series.fill = am4core.color("#49249f")
     var errorBullet = series.bullets.create(am4charts.Circle);
     errorBullet.isDynamic = false;
     errorBullet.strokeWidth = 1;
 
     var circle = errorBullet.createChild(am4core.Circle);
-    circle.radius = 4;
+    circle.radius = 6;
     circle.fill = am4core.color("red");
-
     // adapter adjusts height of a bullet
 
     errorBullet.adapter.add("pixelHeight", function(pixelHeight, target) {
@@ -144,4 +146,4 @@
 	<!-- HTML -->
 	<div id="chartdiv"></div>
 </body>
-</html>8
+</html>

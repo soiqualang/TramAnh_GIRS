@@ -68,13 +68,14 @@
         series.dataFields.categoryX = "tentinh";
         series.dataFields.valueY = "tysogioitinh";
         series.tooltipText = "{valueY}";
-
+        series.strokeWidth = 3;
+        series.stroke = series.fill = am4core.color("#49249f")
         var errorBullet = series.bullets.create(am4charts.Circle);
         errorBullet.isDynamic = false;
         errorBullet.strokeWidth = 1;
 
         var circle = errorBullet.createChild(am4core.Circle);
-        circle.radius = 4;
+        circle.radius = 6;
         circle.fill = am4core.color("red");
 
         // adapter adjusts height of a bullet

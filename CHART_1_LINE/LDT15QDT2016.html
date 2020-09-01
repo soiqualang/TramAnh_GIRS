@@ -68,14 +68,16 @@
         series.dataFields.categoryX = "Ten tinh";
         series.dataFields.valueY = "ld t15 qua dt";
         series.tooltipText = "{valueY}";
-
+        series.strokeWidth = 3;
+        series.stroke = series.fill = am4core.color("#c00");
         var errorBullet = series.bullets.create(am4charts.Circle);
         errorBullet.isDynamic = false;
         errorBullet.strokeWidth = 1;
+        
 
         var circle = errorBullet.createChild(am4core.Circle);
         circle.radius = 4;
-        circle.fill = am4core.color("red");
+        circle.fill = am4core.color("yelow");
 
         // adapter adjusts height of a bullet
 
