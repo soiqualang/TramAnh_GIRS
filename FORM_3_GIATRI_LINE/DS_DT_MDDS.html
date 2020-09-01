@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="refresh" content="5">
 	<title>Biểu đồ dân số diện tích mật độ dân số</title>
 </head>
 <body>
@@ -24,11 +25,11 @@
     
     <form>
         <div class="form-group">
-            <label for="txt_nam">Chon nam:</label>
+            <label for="txt_nam">Chọn năm:</label>
             <select id="txt_nam" name="txt_nam" class="form-control">
-                <option value="2016">nam 2016</option>
-                <option value="2017">nam 2017</option>
-                <option value="2018" selected="selected" >nam 2018</option>
+                <option value="2016">Năm 2016</option>
+                <option value="2017">Năm 2017</option>
+                <option value="2018" selected="selected" >Năm 2018</option>
             </select>
             </div>
             
@@ -84,44 +85,57 @@ am4core.useTheme(am4themes_animated);
 	// Create category axis
 	var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
 	categoryAxis.dataFields.category = "ten tinh";
-	categoryAxis.renderer.opposite = true;
+	categoryAxis.renderer.opposite = false;
 	categoryAxis.renderer.minGridDistance = 5;
 	categoryAxis.renderer.labels.template.rotation = 270;
-	categoryAxis.renderer.labels.template.horizontalCenter = "left";
+	categoryAxis.renderer.labels.template.horizontalCenter = "right";
 	categoryAxis.renderer.labels.template.verticalCenter = "middle";
 
 	// Create value axis
 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
-	valueAxis.renderer.inversed = true;
+	valueAxis.renderer.inversed = false;
 	
 	//valueAxis.title.text = "Place taken";
 	valueAxis.renderer.minLabelPosition = 0.01;
 	
 	// Create series
-	var series1 = chart.series.push(new am4charts.LineSeries());
+	var series1 =chart.series.push(new am4charts.LineSeries());
 	series1.dataFields.valueY = "dien tich";
 	series1.dataFields.categoryX = "ten tinh";
-	series1.name = "dien tich";
+	series1.name = "Diện tích";
+	series1.strokeWidth = 2;
+	series1.strokeDasharray = "3,4";
 	series1.bullets.push(new am4charts.CircleBullet());
-	series1.tooltipText = "{categoryX}: {valueY}";
+	series1.tooltipText = "Diện tích: {valueY} Km2";
 	series1.legendSettings.valueText = "{valueY}";
-	series1.visible  = false;
+
 	
 	var series2 = chart.series.push(new am4charts.LineSeries());
 	series2.dataFields.valueY = "dan so trung binh";
 	series2.dataFields.categoryX = "ten tinh";
-	series2.name = 'dan so trung binh';
-	series2.bullets.push(new am4charts.CircleBullet());
-	series2.tooltipText = "{categoryX}: {valueY}";
+	series2.name = 'Dân số trung bình';
+	//series2.bullets.push(new am4charts.CircleBullet());
+	series2.tooltipText = "Dân số trung bình: {valueY} Nghìn người";
 	series2.legendSettings.valueText = "{valueY}";
 	
 	var series3 = chart.series.push(new am4charts.LineSeries());
 	series3.dataFields.valueY = "mat do dan so";
 	series3.dataFields.categoryX = "ten tinh";
-	series3.name = 'mat do dan so';
+	series3.name = 'Mật độ dân số';
 	series3.bullets.push(new am4charts.CircleBullet());
-	series3.tooltipText = "{categoryX}: {valueY}";
+	series3.tooltipText = "Mật độ dân số: {valueY} Người/Km2";
 	series3.legendSettings.valueText = "{valueY}";
+	
+	// Add simple bullet
+
+	var bullet3 = series2.bullets.push(new am4charts.Bullet());
+	var image = bullet3.createChild(am4core.Image);
+	image.href = "https://www.amcharts.com/lib/images/star.svg"
+	image.width = 20;
+	image.height = 20;
+	image.horizontalCenter = "middle";
+ image.verticalCenter = "middle";
+
 	// Add chart cursor
 	chart.cursor = new am4charts.XYCursor();
 	chart.cursor.behavior = "zoomY";
@@ -165,4 +179,4 @@ am4core.useTheme(am4themes_animated);
 	<!-- HTML -->
 	<div id="chartdiv"></div>
 </body>
-</html>8
+</html>
