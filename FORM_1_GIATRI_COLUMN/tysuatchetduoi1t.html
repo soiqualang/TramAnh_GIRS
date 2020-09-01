@@ -90,8 +90,11 @@
                     categoryAxis.tooltip.disabled = true;
                     categoryAxis.renderer.minHeight = 110;
 
+                    var distanceAxis = chart.yAxes.push(new am4charts.ValueAxis());
+                distanceAxis.title.text = "Trẻ em dưới một tuổi tử vong/1000 trẻ em sinh sống";
+
                     var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
-                    valueAxis.renderer.minWidth = 63;
+                    valueAxis.renderer.minWidth = 15;
 
                     // Create series
                     var series = chart.series.push(new am4charts.ColumnSeries());

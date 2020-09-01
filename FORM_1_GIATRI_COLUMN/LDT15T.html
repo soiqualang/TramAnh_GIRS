@@ -92,13 +92,14 @@
 
                     var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
                     valueAxis.renderer.minWidth = 63;
+                    valueAxis.numberFormatter.numberFormat = "#' Nghìn người'"
 
                     // Create series
                     var series = chart.series.push(new am4charts.ColumnSeries());
                     series.sequencedInterpolation = true;
                     series.dataFields.valueY = "ld_t15";
                     series.dataFields.categoryX = "Ten tinh";
-                    series.tooltipText = "[{categoryX}: bold]{valueY}[/]";
+                    series.tooltipText = "[{categoryX}: bold]{valueY.formatNumber('#.0')} Nghìn người[/]";
                     series.columns.template.strokeWidth = 0;
 
                     series.tooltip.pointerOrientation = "vertical";
@@ -132,4 +133,4 @@
 	<!-- HTML -->
 	<div id="chartdiv"></div>
 </body>
-</html>8
+</html>
