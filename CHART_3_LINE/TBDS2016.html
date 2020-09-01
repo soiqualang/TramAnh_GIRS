@@ -73,6 +73,8 @@
 	series1.dataFields.valueY = "Tổng số";
 	series1.dataFields.categoryX = "Tên tỉnh";
 	series1.name = "Tổng số";
+	series1.strokeWidth = 2;
+	series1.strokeDasharray = "3,4";
 	series1.bullets.push(new am4charts.CircleBullet());
 	series1.tooltipText = " Tổng số :{valueY}";
 	series1.legendSettings.valueText = "{valueY}";
@@ -90,6 +92,8 @@
 	series3.dataFields.valueY = "Nữ";
 	series3.dataFields.categoryX = "Tên tỉnh";
 	series3.name = 'Nữ';
+	series3.strokeWidth = 3;
+	series3.strokeDasharray = "5,6";
 	series3.bullets.push(new am4charts.CircleBullet());
 	series3.tooltipText = " Nữ :{valueY}";
 	series3.legendSettings.valueText = "{valueY}";
@@ -98,6 +102,7 @@
 	series4.dataFields.valueY = "Thành thị";
 	series4.dataFields.categoryX = "Tên tỉnh";
 	series4.name = 'Thành thị';
+	series4.strokeWidth = 4;
 	series4.bullets.push(new am4charts.CircleBullet());
 	series4.tooltipText = " Thành thị :{valueY}";
 	series4.legendSettings.valueText = "{valueY}";
@@ -106,9 +111,20 @@
 	series5.dataFields.valueY = "Nông thôn";
 	series5.dataFields.categoryX = "Tên tỉnh";
 	series5.name = 'Nông thôn';
-	series5.bullets.push(new am4charts.CircleBullet());
+	series5.strokeWidth = 3;
+	//series5.bullets.push(new am4charts.CircleBullet());
 	series5.tooltipText = " Nông thôn :{valueY}";
 	series5.legendSettings.valueText = "{valueY}";
+
+// Add simple bullet
+
+var bullet3 = series5.bullets.push(new am4charts.Bullet());
+	var image = bullet3.createChild(am4core.Image);
+	image.href = "https://www.amcharts.com/lib/images/star.svg"
+	image.width = 20;
+	image.height = 20;
+	image.horizontalCenter = "middle";
+	image.verticalCenter = "middle";
 
 	// Add chart cursor
 	chart.cursor = new am4charts.XYCursor();

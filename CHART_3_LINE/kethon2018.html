@@ -62,7 +62,7 @@
 	// Create value axis
 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
 	valueAxis.renderer.inversed = false;
-	valueAxis.numberFormatter.numberFormat = "#'Cuộc'"
+	valueAxis.numberFormatter.numberFormat = "#' Cuộc'"
 	//valueAxis.title.text = "Place taken";
 	valueAxis.renderer.minLabelPosition = 0.01;
 	
@@ -71,6 +71,8 @@
 	series1.dataFields.valueY = "Tổng số";
 	series1.dataFields.categoryX = "ten tinh";
 	series1.name = "Tổng số";
+	series1.strokeWidth = 2;
+	series1.strokeDasharray = "3,4";
 	series1.bullets.push(new am4charts.CircleBullet());
 	series1.tooltipText = "Tổng số: {valueY}";
 	series1.legendSettings.valueText = "{valueY}";
@@ -88,9 +90,20 @@
 	series3.dataFields.valueY = "Lần thứ 2 trở lên";
 	series3.dataFields.categoryX = "ten tinh";
 	series3.name = 'Lần thứ 2 trở lên';
-	series3.bullets.push(new am4charts.CircleBullet());
+	//series3.bullets.push(new am4charts.CircleBullet());
 	series3.tooltipText = "Lần thứ 2 trở lên: {valueY}";
 	series3.legendSettings.valueText = "{valueY}";
+	
+	
+	// Add simple bullet
+
+	var bullet3 = series3.bullets.push(new am4charts.Bullet());
+	var image = bullet3.createChild(am4core.Image);
+	image.href = "https://www.amcharts.com/lib/images/star.svg"
+	image.width = 30;
+	image.height = 30;
+	image.horizontalCenter = "middle";
+	image.verticalCenter = "middle";
 	
 	// Add chart cursor
 	chart.cursor = new am4charts.XYCursor();

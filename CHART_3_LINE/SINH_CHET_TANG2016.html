@@ -71,6 +71,8 @@
 	series1.dataFields.valueY = "Tỷ suất sinh thô";
 	series1.dataFields.categoryX = "Tên tỉnh";
 	series1.name = "Tỷ suất sinh thô";
+	series1.strokeWidth = 2;
+	series1.strokeDasharray = "3,4";
 	series1.bullets.push(new am4charts.CircleBullet());
 	series1.tooltipText = "Tỷ suất sinh thô: {valueY}";
 	series1.legendSettings.valueText = "{valueY}";
@@ -88,9 +90,20 @@
 	series3.dataFields.valueY = "Tỷ lệ tăng tự nhiên";
 	series3.dataFields.categoryX = "Tên tỉnh";
 	series3.name = 'Tỷ lệ tăng tự nhiên';
-	series3.bullets.push(new am4charts.CircleBullet());
+	//series3.bullets.push(new am4charts.CircleBullet());
 	series3.tooltipText = "Tỷ lệ tăng tự nhiên: {valueY}";
 	series3.legendSettings.valueText = "{valueY}";
+
+// Add simple bullet
+
+var bullet3 = series3.bullets.push(new am4charts.Bullet());
+	var image = bullet3.createChild(am4core.Image);
+	image.href = "https://www.amcharts.com/lib/images/star.svg"
+	image.width = 20;
+	image.height = 20;
+	image.horizontalCenter = "middle";
+	image.verticalCenter = "middle";
+
 	// Add chart cursor
 	chart.cursor = new am4charts.XYCursor();
 	chart.cursor.behavior = "zoomY";

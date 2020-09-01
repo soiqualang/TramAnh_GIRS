@@ -72,6 +72,8 @@
 	series1.dataFields.valueY = "Tổng số";
 	series1.dataFields.categoryX = "ten tinh";
 	series1.name = "Tổng số";
+	series1.strokeWidth = 2;
+	series1.strokeDasharray = "3,4";
 	series1.bullets.push(new am4charts.CircleBullet());
 	series1.tooltipText = "Tổng số: {valueY}";
 	series1.legendSettings.valueText = "{valueY}";
@@ -89,9 +91,21 @@
 	series3.dataFields.valueY = "Cấp huyện";
 	series3.dataFields.categoryX = "ten tinh";
 	series3.name = 'Cấp huyện';
-	series3.bullets.push(new am4charts.CircleBullet());
+	//series3.bullets.push(new am4charts.CircleBullet());
 	series3.tooltipText = "Cấp huyện: {valueY}";
 	series3.legendSettings.valueText = "{valueY}";
+
+// Add simple bullet
+
+var bullet3 = series3.bullets.push(new am4charts.Bullet());
+	var image = bullet3.createChild(am4core.Image);
+	image.href = "https://www.amcharts.com/lib/images/star.svg"
+	image.width = 20;
+	image.height = 20;
+	image.horizontalCenter = "middle";
+	image.verticalCenter = "middle";
+	
+
 	// Add chart cursor
 	chart.cursor = new am4charts.XYCursor();
 	chart.cursor.behavior = "zoomY";
