@@ -82,9 +82,7 @@
 	series2.dataFields.valueY = "dan so trung binh";
 	series2.dataFields.categoryX = "ten tinh";
 	series2.name = 'Dân số trung bình';
-	series1.strokeWidth = 2;
-	series1.strokeDasharray = "3,4";
-	series2.bullets.push(new am4charts.CircleBullet());
+	//series2.bullets.push(new am4charts.CircleBullet());
 	series2.tooltipText = "Dân số trung bình: {valueY} Nghìn người";
 	series2.legendSettings.valueText = "{valueY}";
 	
@@ -98,7 +96,7 @@
 	
 	// Add simple bullet
 
-	var bullet3 = series1.bullets.push(new am4charts.Bullet());
+	var bullet3 = series2.bullets.push(new am4charts.Bullet());
 	var image = bullet3.createChild(am4core.Image);
 	image.href = "https://www.amcharts.com/lib/images/star.svg"
 	image.width = 30;
