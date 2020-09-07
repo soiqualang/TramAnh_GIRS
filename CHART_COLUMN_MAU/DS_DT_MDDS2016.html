@@ -53,51 +53,91 @@
 	
 	// Create category axis
 	var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
-                categoryAxis.dataFields.category = "ten tinh";
-                categoryAxis.renderer.grid.template.location = 0;
-                categoryAxis.renderer.minGridDistance = 5;
-                categoryAxis.renderer.labels.template.horizontalCenter = "right";
-                categoryAxis.renderer.labels.template.verticalCenter = "middle";
-                categoryAxis.renderer.labels.template.rotation = 270;
-                categoryAxis.tooltip.disabled = true;
-                categoryAxis.renderer.minHeight = 110;
+	categoryAxis.dataFields.category = "ten tinh";
+	categoryAxis.renderer.opposite = false;
+	categoryAxis.renderer.minGridDistance = 5;
+	categoryAxis.renderer.labels.template.rotation = 270;
+	categoryAxis.renderer.labels.template.horizontalCenter = "right";
+	categoryAxis.renderer.labels.template.verticalCenter = "middle";
 
 	// Create value axis
 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
 	valueAxis.renderer.inversed = false;
-	valueAxis.numberFormatter.numberFormat = "#' Người/Km2'"
-
+	
 	//valueAxis.title.text = "Place taken";
 	valueAxis.renderer.minLabelPosition = 0.02;
 	
 	// Create series
+	var series1 =chart.series.push(new am4charts.LineSeries());
+	series1.dataFields.valueY = "dien tich";
+	series1.dataFields.categoryX = "ten tinh";
+	series1.name = "Diện tích";
+	series1.strokeWidth = 2;
+	series1.strokeDasharray = "3,4";
+	series1.bullets.push(new am4charts.CircleBullet());
+	series1.tooltipText = "Diện tích: {valueY} Km2";
+	series1.legendSettings.valueText = "{valueY}";
+
 	
-	var series = chart.series.push(new am4charts.ColumnSeries());
-                series.sequencedInterpolation = true;
-                series.dataFields.valueY = "mat do dan so";
-                series.dataFields.categoryX = "ten tinh";
-                series.tooltipText = "[{categoryX}: bold]{valueY.formatNumber('#.0')}Người/Km2[/]";
-                series.columns.template.strokeWidth = 0;
-                
-                series.tooltip.pointerOrientation = "vertical";
-                
-                series.columns.template.column.cornerRadiusTopLeft = 10;
-                series.columns.template.column.cornerRadiusTopRight = 10;
-                series.columns.template.column.fillOpacity = 0.8;
-          
+	var series2 = chart.series.push(new am4charts.LineSeries());
+	series2.dataFields.valueY = "dan so trung binh";
+	series2.dataFields.categoryX = "ten tinh";
+	series2.name = 'Dân số trung bình';
+	//series2.bullets.push(new am4charts.CircleBullet());
+	series2.tooltipText = "Dân số trung bình: {valueY} Nghìn người";
+	series2.legendSettings.valueText = "{valueY}";
 	
-	 // on hover, make corner radiuses bigger
-		var hoverState = series.columns.template.column.states.create("hover");
-                hoverState.properties.cornerRadiusTopLeft = 0;
-                hoverState.properties.cornerRadiusTopRight = 0;
-                hoverState.properties.fillOpacity = 1;
-                
-                series.columns.template.adapter.add("fill", function(fill, target) {
-                        return chart.colors.getIndex(target.dataItem.index);
-                });
-            // Cursor
-												chart.cursor = new am4charts.XYCursor();
-                     
+	var series3 = chart.series.push(new am4charts.LineSeries());
+	series3.dataFields.valueY = "mat do dan so";
+	series3.dataFields.categoryX = "ten tinh";
+	series3.name = 'Mật độ dân số';
+	series3.bullets.push(new am4charts.CircleBullet());
+	series3.tooltipText = "Mật độ dân số: {valueY} Người/Km2";
+	series3.legendSettings.valueText = "{valueY}";
+	
+	// Add simple bullet
+
+	var bullet3 = series2.bullets.push(new am4charts.Bullet());
+	var image = bullet3.createChild(am4core.Image);
+	image.href = "https://www.amcharts.com/lib/images/star.svg"
+	image.width = 30;
+	image.height = 30;
+	image.horizontalCenter = "middle";
+ image.verticalCenter = "middle";
+
+	// Add chart cursor
+
+	chart.cursor = new am4charts.XYCursor();
+	chart.cursor.behavior = "zoomY";
+	
+	
+	let hs1 = series1.segments.template.states.create("hover")
+	hs1.properties.strokeWidth = 5;
+	series1.segments.template.strokeWidth = 1;
+	
+	let hs2 = series2.segments.template.states.create("hover")
+	hs2.properties.strokeWidth = 5;
+	series2.segments.template.strokeWidth = 1;
+	
+	let hs3 = series3.segments.template.states.create("hover")
+	hs3.properties.strokeWidth = 5;
+	series3.segments.template.strokeWidth = 1;
+	
+	// Add legend
+	chart.legend = new am4charts.Legend();
+	chart.legend.itemContainers.template.events.on("over", function(event){
+			var segments = event.target.dataItem.dataContext.segments;
+			segments.each(function(segment){
+					segment.isHover = true;
+			})
+	})
+	
+	chart.legend.itemContainers.template.events.on("out", function(event){
+			var segments = event.target.dataItem.dataContext.segments;
+			segments.each(function(segment){
+					segment.isHover = false;
+			})
+	})
 	
     }); // end am4core.ready()
 });
