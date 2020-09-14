@@ -2,9 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="5">
-    <title>Biểu đồ dân số trên 15 tuổi biết chữ năm 2016</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biểu đồ dân số trên 15 tuổi biết chữ năm 2017</title>
         <!-- Resources -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
@@ -16,7 +15,7 @@
 			height: 500px;
 	}
 	</style>
-			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ dân số trên 15 tuổi biết chữ năm 2016</h1>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ dân số trên 15 tuổi biết chữ năm 2017</h1>
 
 	<!-- Resources -->
 	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
@@ -25,8 +24,6 @@
 	
 	<!-- Chart code -->
 	<script>
-
-
     $(document).ready(function(){
             var data_ajax = '';
             // Ajax lấy dữ liệu
@@ -38,8 +35,6 @@
                     data_ajax =  eval(data);
                 }
             });
-
-
             $(document).ajaxComplete(function() {
                 am4core.ready(function() {
 
@@ -64,35 +59,50 @@
                 categoryAxis.renderer.labels.template.rotation = 270;
                 categoryAxis.tooltip.disabled = true;
                 categoryAxis.renderer.minHeight = 110;
-                
                 var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
                 valueAxis.renderer.minWidth = 63;
-                valueAxis.numberFormatter.numberFormat = "#'Người/Km2'"
-                
+                valueAxis.numberFormatter.numberFormat = "#' Người/km2'"
+                categoryAxis.title.text = "Hiện trạng sử dụng đất";
+                categoryAxis.title.fontWeight = "bold";
                 // Create series
                 var series = chart.series.push(new am4charts.ColumnSeries());
                 series.sequencedInterpolation = true;
                 series.dataFields.valueY = "mat do dan so";
                 series.dataFields.categoryX = "ten tinh";
-                series.tooltipText = "[{categoryX}: bold]{valueY.formatNumber('#.0')}Người/Km2[/]";
+                series.tooltipText = "[{categoryX}: bold]{valueY.formatNumber('#.0')}Người/km2[/]";
                 series.columns.template.strokeWidth = 0;
-                
                 series.tooltip.pointerOrientation = "vertical";
-                
                 series.columns.template.column.cornerRadiusTopLeft = 10;
                 series.columns.template.column.cornerRadiusTopRight = 10;
                 series.columns.template.column.fillOpacity = 0.8;
-                
-                // on hover, make corner radiuses bigger
-                var hoverState = series.columns.template.column.states.create("hover");
-                hoverState.properties.cornerRadiusTopLeft = 0;
-                hoverState.properties.cornerRadiusTopRight = 0;
-                hoverState.properties.fillOpacity = 1;
-                
-                series.columns.template.adapter.add("fill", function(fill, target) {
-                        return chart.colors.getIndex(target.dataItem.index);
-                });
-                
+                //series.columns.template.fill = am4core.color("red"); // fill
+             var columnTemplate = series.columns.template;
+			columnTemplate.tooltipText = "[bold]{valueY}[/]";
+			columnTemplate.fillOpacity = .8;
+			columnTemplate.strokeWidth = 0;
+			columnTemplate.adapter.add("fill", function (fill, target) {
+			var dataItem = target.dataItem;
+			if (dataItem.valueY > 121) {
+				if (dataItem.valueY <208){
+				return am4core.color("#fecc5c");}
+                    else{
+                        if (dataItem.valueY <392){
+                        return am4core.color("#fd8d3c");}
+                        else{
+                            if (dataItem.valueY <722){
+                            return am4core.color("#f03b20");}
+                            else{
+                                return am4core.color("#bd0026");
+                                }
+                            }
+                        }
+			                            }
+			else {			
+				return am4core.color("#f5f54d");
+			}
+            })
+            // Add legend
+chart.legend = new am4charts.Legend();
                 // Cursor
                 chart.cursor = new am4charts.XYCursor();
                 
@@ -101,30 +111,6 @@
             //end ajax complate
         });
     // End jquery 
-    var legend = L.control({position: 'bottomright'});
-
-	legend.onAdd = function (data) {
-
-		var div = L.DomUtil.create('div', 'info legend'),
-			grades = [0, 10, 20, 50, 100, 200, 500, 1000],
-			labels = [],
-			from, to;
-
-		for (var i = 0; i < grades.length; i++) {
-			from = grades[i];
-			to = grades[i + 1];
-
-			labels.push(
-				'<i style="background:' + getColor(from + 1) + '"></i> ' +
-				from + (to ? '&ndash;' + to : '+'));
-		}
-
-		div.innerHTML = labels.join('<br>');
-		return div;
-	};
-
-	legend.addTo(data);
-
 	</script>
 	
 	<!-- HTML -->
