@@ -265,9 +265,10 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 [Biểu đồ cột ngang -Thư viện Amchart](https://soiqualang.github.io/TramAnh_GIRS/jschart/chart6.html)
 
 [Biểu đồ cột ngang kết hợp đường -Thư viện Amchart](https://soiqualang.github.io/TramAnh_GIRS/HTML%20nhap/chart7.html)
-### WebGIS
+### Biểu đồ phân màu theo giá trị
 
-....
+[Biểu đồ mật độ dân số năm 2016 phân màu theo giá trị](https://soiqualang.github.io/TramAnh_GIRS/CHART_COLUMN_MAU/DST15BCHU2016%20copy.html)
+
 
 ### Liên hệ
 
