@@ -19,7 +19,7 @@ html, body {
 	position: absolute;
 	z-index: 1000;
 	left: 500px;
-	bottom: 200px;
+	bottom: 150px;
 	background-color: #f4f4f496;
 	width: 850px;
 	height: 435px;
@@ -33,7 +33,7 @@ html, body {
 #date_div {
 	position: absolute;
 	z-index: 1000;
-	left: 41px;
-	top: -224px;
+	left: 410px;
+	top: -9px;
 	background-color: #f4f4f496;
 }

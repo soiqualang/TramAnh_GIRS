@@ -99,7 +99,7 @@
 		onEachFeature: onEachFeature
 	}).addTo(map); */
 
-	var geojson = new L.GeoJSON.AJAX("leaflet/ds2_2016.json",{
+	var geojson = new L.GeoJSON.AJAX("data/ds2_2016.json",{
 		style: style,
 		onEachFeature: onEachFeature
 	}).addTo(map);
