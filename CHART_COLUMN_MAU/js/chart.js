@@ -59,6 +59,7 @@ columnTemplate.fillOpacity = .8;
 columnTemplate.strokeWidth = 0;
 columnTemplate.adapter.add("fill", function (fill, target) {
 var dataItem = target.dataItem;
+
 if (dataItem.valueY > 121) {
 if (dataItem.valueY <208){
 return am4core.color("#fecc5c");}
