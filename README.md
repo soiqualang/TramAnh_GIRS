@@ -271,7 +271,7 @@ Nội dung repo này là nội dung Trâm Anh thực tập & part time.
 
 ### Biểu đồ biểu đồ giá trị
 
-[Biểu đồ mật độ dân số năm 2016 phân màu theo giá trị](https://soiqualang.github.io/TramAnh_GIRS/CHART_COLUMN_MAU/Interactive_Choropleth_Map.html)
+[Biểu đồ kết hợp bản đồ mật độ dân số năm 2016 phân màu theo giá trị](https://soiqualang.github.io/TramAnh_GIRS/CHART_COLUMN_MAU/Interactive_Choropleth_Map.html)
 
 ### Liên hệ
 
