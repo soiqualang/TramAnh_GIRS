@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- <meta http-equiv="refresh" content="5"> -->
+	<title>Biểu đồ dân số diện tích mật độ dân số</title>
+</head>
+<body>
+	<!-- Styles -->
+<style>
+	#chartdiv {
+			width: 100%;
+			height: 500px;
+	}
+	</style>
+			<h1 style="text-align:center;color:rgb(255, 145, 0);">Biểu đồ dân số diện tích mật độ dân số <b id="year"> 2018</b></h1>
+
+    <!-- Resources -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+	<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+    
+    <form>
+        <div class="form-group">
+            <label for="txt_nam">Chọn năm:</label>
+            <select id="txt_nam" name="txt_nam" class="form-control">
+                <option value="2016">Năm 2016</option>
+                <option value="2017">Năm 2017</option>
+                <option value="2018" selected="selected" >Năm 2018</option>
+            </select>
+            </div>
+            
+            <div class="form-group" id="show">
+            
+        </div>
+    </form>
+	<!-- Chart code -->
+	<script>
+
+        
+  // Start
+        $(document).ready(function(){
+            
+            function get_ajax_year(year){
+                
+                var ajax_load =   $.ajax({
+                        type: 'GET',
+                        url : '../JSON_3_GIATRI/DS_DT_MDDS'+year+'.js',
+                        dataType:'script',
+                        success: function(data) {
+                            data_ajax =  eval(data);
+                        }
+                });
+                return ajax_load;
+            }
+            get_ajax_year(2018);
+            $('#txt_nam').on('change', function()
+            {
+                get_ajax_year(this.value);
+                $("#year").html(this.value);
+               
+            });
+            var data_ajax = '';
+            // Ajax lấy dữ liệu
+           
+           
+
+            $(document).ajaxComplete(function() {
+        // Chart start           
+            am4core.ready(function() {
+// Themes begin
+am4core.useTheme(am4themes_animated);
+	// Themes end
+	
+	// Create chart instance
+	var chart = am4core.create("chartdiv", am4charts.XYChart);
+	chart.scrollbarX = new am4core.Scrollbar();
+	
+	 // Add data
+     chart.data = data_ajax ;
+	
+	// Create category axis
+	var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+	categoryAxis.dataFields.category = "ten tinh";
+	categoryAxis.renderer.opposite = false;
+	categoryAxis.renderer.minGridDistance = 5;
+	categoryAxis.renderer.labels.template.rotation = 270;
+	categoryAxis.renderer.labels.template.horizontalCenter = "right";
+	categoryAxis.renderer.labels.template.verticalCenter = "middle";
+
+	// Create value axis
+	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+	valueAxis.renderer.inversed = false;
+	
+	//valueAxis.title.text = "Place taken";
+	valueAxis.renderer.minLabelPosition = 0.01;
+	
+	// Create series
+	var series1 =chart.series.push(new am4charts.LineSeries());
+	series1.dataFields.valueY = "dien tich";
+	series1.dataFields.categoryX = "ten tinh";
+	series1.name = "Diện tích";
+	series1.strokeWidth = 2;
+	series1.strokeDasharray = "3,4";
+	series1.bullets.push(new am4charts.CircleBullet());
+	series1.tooltipText = "Diện tích: {valueY} Km2";
+	series1.legendSettings.valueText = "{valueY}";
+
+	
+	var series2 = chart.series.push(new am4charts.LineSeries());
+	series2.dataFields.valueY = "dan so trung binh";
+	series2.dataFields.categoryX = "ten tinh";
+	series2.name = 'Dân số trung bình';
+	//series2.bullets.push(new am4charts.CircleBullet());
+	series2.tooltipText = "Dân số trung bình: {valueY} Nghìn người";
+	series2.legendSettings.valueText = "{valueY}";
+	
+	var series3 = chart.series.push(new am4charts.LineSeries());
+	series3.dataFields.valueY = "mat do dan so";
+	series3.dataFields.categoryX = "ten tinh";
+	series3.name = 'Mật độ dân số';
+	series3.bullets.push(new am4charts.CircleBullet());
+	series3.tooltipText = "Mật độ dân số: {valueY} Người/Km2";
+	series3.legendSettings.valueText = "{valueY}";
+	
+	// Add simple bullet
+
+	var bullet3 = series2.bullets.push(new am4charts.Bullet());
+	var image = bullet3.createChild(am4core.Image);
+	image.href = "https://www.amcharts.com/lib/images/star.svg"
+	image.width = 20;
+	image.height = 20;
+	image.horizontalCenter = "middle";
+ image.verticalCenter = "middle";
+
+	// Add chart cursor
+	chart.cursor = new am4charts.XYCursor();
+	chart.cursor.behavior = "zoomY";
+	
+	
+	let hs1 = series1.segments.template.states.create("hover")
+	hs1.properties.strokeWidth = 5;
+	series1.segments.template.strokeWidth = 1;
+	
+	let hs2 = series2.segments.template.states.create("hover")
+	hs2.properties.strokeWidth = 5;
+	series2.segments.template.strokeWidth = 1;
+	
+	let hs3 = series3.segments.template.states.create("hover")
+	hs3.properties.strokeWidth = 5;
+	series3.segments.template.strokeWidth = 1;
+	
+	// Add legend
+	chart.legend = new am4charts.Legend();
+	chart.legend.itemContainers.template.events.on("over", function(event){
+			var segments = event.target.dataItem.dataContext.segments;
+			segments.each(function(segment){
+					segment.isHover = true;
+			})
+	})
+	
+	chart.legend.itemContainers.template.events.on("out", function(event){
+			var segments = event.target.dataItem.dataContext.segments;
+			segments.each(function(segment){
+					segment.isHover = false;
+			})
+	})
+	
+    }); // end am4core.ready()
+    });
+                //end ajax complate
+    // End jquery 
+        });
+	</script>
+	<div id = "inner"></div>
+	<!-- HTML -->
+	<div id="chartdiv"></div>
+</body>
+</html>
