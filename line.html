@@ -4,6 +4,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 </head>
 <body>
 	<!-- Styles -->
@@ -27,7 +29,7 @@
             // Ajax lấy dữ liệu
             $.ajax({
                 type: 'GET',
-                url : '../JSON_3_GIATRI/',
+                url : '../JSON_3_GIATRI/csvjson.js',
                 dataType:'script',
                 success: function(data) {
                     data_ajax =  eval(data);
@@ -59,26 +61,26 @@
 	
 	// Create series
 	var series1 = chart.series.push(new am4charts.LineSeries());
-	series1.dataFields.valueY = "italy";
+	series1.dataFields.valueY = "Chung";
 	series1.dataFields.categoryX = "year";
-	series1.name = "Italy";
+	series1.name = "Chung";
 	series1.bullets.push(new am4charts.CircleBullet());
 	series1.tooltipText = "Place taken by {name} in {categoryX}: {valueY}";
 	series1.legendSettings.valueText = "{valueY}";
 	series1.visible  = false;
 	
 	var series2 = chart.series.push(new am4charts.LineSeries());
-	series2.dataFields.valueY = "germany";
+	series2.dataFields.valueY = "kien_co";
 	series2.dataFields.categoryX = "year";
-	series2.name = 'Germany';
+	series2.name = 'kien_co';
 	series2.bullets.push(new am4charts.CircleBullet());
 	series2.tooltipText = "Place taken by {name} in {categoryX}: {valueY}";
 	series2.legendSettings.valueText = "{valueY}";
 	
 	var series3 = chart.series.push(new am4charts.LineSeries());
-	series3.dataFields.valueY = "uk";
+	series3.dataFields.valueY = "ban_kien_co";
 	series3.dataFields.categoryX = "year";
-	series3.name = 'United Kingdom';
+	series3.name = 'ban_kien_co';
 	series3.bullets.push(new am4charts.CircleBullet());
 	series3.tooltipText = "Place taken by {name} in {categoryX}: {valueY}";
 	series3.legendSettings.valueText = "{valueY}";
@@ -115,9 +117,9 @@
 	    segment.isHover = false;
 	  })
 	})
-});
+}); // end am4core.ready()
   });
-	}); // end am4core.ready()
+	});
 	</script>
 	
 	<!-- HTML -->
